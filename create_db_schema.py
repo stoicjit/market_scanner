@@ -85,10 +85,22 @@ def create_filtered_levels_tables(cursor):
                 timestamp TIMESTAMPTZ NOT NULL,
                 created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
             );
-            
-            CREATE INDEX IF NOT EXISTS {table}_symbol_timeframe_idx ON {table} (symbol, timeframe);
-            CREATE INDEX IF NOT EXISTS {table}_timestamp_idx ON {table} (timestamp DESC);
         """).format(table=sql.Identifier(table_name)))
+        
+        # Create indexes separately
+        cursor.execute(sql.SQL("""
+            CREATE INDEX IF NOT EXISTS {idx1} ON {table} (symbol, timeframe);
+        """).format(
+            idx1=sql.Identifier(f"{table_name}_symbol_timeframe_idx"),
+            table=sql.Identifier(table_name)
+        ))
+        
+        cursor.execute(sql.SQL("""
+            CREATE INDEX IF NOT EXISTS {idx2} ON {table} (timestamp DESC);
+        """).format(
+            idx2=sql.Identifier(f"{table_name}_timestamp_idx"),
+            table=sql.Identifier(table_name)
+        ))
         
         print(f"✅ Created table: {table_name}")
 
