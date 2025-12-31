@@ -49,14 +49,24 @@ def create_ohlcv_table(cursor, symbol, timeframe):
             created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
         );
         
-        CREATE INDEX IF NOT EXISTS {table}_timestamp_idx ON {table} (timestamp DESC);
-        CREATE INDEX IF NOT EXISTS {table}_fakeout_idx ON {table} (is_fakeout) WHERE is_fakeout = TRUE;
+        CREATE INDEX IF NOT EXISTS {timestamp_idx} ON {table} (timestamp DESC);
     """).format(
         table=sql.Identifier(table_name),
-        fakeout_columns=fakeout_columns
+        fakeout_columns=fakeout_columns,
+        timestamp_idx=sql.Identifier(f"{table_name}_timestamp_idx")
     )
     
     cursor.execute(query)
+    
+    # Create fakeout index separately if needed
+    if has_fakeout_columns:
+        cursor.execute(sql.SQL("""
+            CREATE INDEX IF NOT EXISTS {fakeout_idx} ON {table} (is_fakeout) WHERE is_fakeout = TRUE;
+        """).format(
+            fakeout_idx=sql.Identifier(f"{table_name}_fakeout_idx"),
+            table=sql.Identifier(table_name)
+        ))
+    
     print(f"✅ Created table: {table_name}")
 
 
