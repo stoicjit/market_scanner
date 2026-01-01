@@ -148,7 +148,7 @@ class DBManager:
         
         try:
             cursor = self.conn.cursor()
-            cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
+            cursor.execute(f'''SELECT COUNT(*) FROM "{table_name}"''')
             count = cursor.fetchone()[0]
             cursor.close()
             return count
@@ -173,7 +173,7 @@ class DBManager:
         try:
             cursor = self.conn.cursor()
             cursor.execute(
-                f"SELECT COUNT(*) FROM {table_name} WHERE symbol = %s AND timeframe = %s",
+                f'''SELECT COUNT(*) FROM "{table_name}" WHERE symbol = %s AND timeframe = %s''',
                 (symbol, timeframe)
             )
             count = cursor.fetchone()[0]
