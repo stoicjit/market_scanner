@@ -41,7 +41,7 @@ class DataFetcher:
     # Symbols to track
     SYMBOLS = [
         'BTC/USDT', 'ETH/USDT', 'LTC/USDT', 'XRP/USDT',
-        'DOGE/USDT', 'XMR/USDT', 'LINK/USDT', 'ADA/USDT'
+        'DOGE/USDT', 'LINK/USDT', 'ADA/USDT'
     ]
     
     # Timeframes to monitor
@@ -49,7 +49,7 @@ class DataFetcher:
     
     def __init__(self):
         """Initialize Binance exchange connection"""
-        self.exchange = ccxt.binance({
+        self.exchange = ccxt.mexc({
             'enableRateLimit': True,  # Respect rate limits
             'options': {
                 'defaultType': 'spot'

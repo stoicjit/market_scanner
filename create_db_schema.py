@@ -12,7 +12,7 @@ from psycopg2 import sql
 DB_URL = os.getenv('DB_URL')
 
 # Configuration
-SYMBOLS = ['btcusdt', 'ethusdt', 'ltcusdt', 'xrpusdt', 'dogeusdt', 'xmrusdt', 'linkusdt', 'adausdt']
+SYMBOLS = ['btcusdt', 'ethusdt', 'ltcusdt', 'xrpusdt', 'dogeusdt', 'linkusdt', 'adausdt']
 TIMEFRAMES = ['5m', '1h', '4h', '1d', '1w', '1M']
 
 

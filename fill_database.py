@@ -27,7 +27,7 @@ def fill_all_historical():
     
     # Symbols to process
     symbols = ['BTC/USDT', 'ETH/USDT', 'LTC/USDT', 'XRP/USDT', 
-               'DOGE/USDT', 'XMR/USDT', 'LINK/USDT', 'ADA/USDT']
+               'DOGE/USDT', 'LINK/USDT', 'ADA/USDT']
     
     # Timeframes to backfill
     timeframes = ['1d', '1w', '1M']
@@ -121,9 +121,9 @@ def fill_all_historical():
 
 if __name__ == '__main__':
     print("\n⚠️  WARNING: This will insert historical data for all symbols!")
-    print("Symbols: BTC, ETH, LTC, XRP, DOGE, XMR, LINK, ADA")
+    print("Symbols: BTC, ETH, LTC, XRP, DOGE, LINK, ADA")
     print("Timeframes: 1d, 1w, 1M")
-    print("Total operations: 24 (8 symbols × 3 timeframes)")
+    print("Total operations: 24 (7 symbols × 3 timeframes)")
     
     response = input("\nContinue? (yes/no): ")
     
