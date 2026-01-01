@@ -60,10 +60,37 @@ class LevelFilter:
     
     def filter_highs(self, symbol: str, timeframe: str):
         """
-        Filter high levels - keep only decreasing sequence from most recent
-        Greedy decreasing: work backwards, keep levels that decrease
+        Filter high levels - most recent must be highest
+        Work backwards: delete any older level that's >= current level
         
-        Example: [3,9,4,7,2,3,6,2,4] -> [9,7,6,4]
+        Example: [3,9,4,7,2,3,6,2,4] (oldest to newest)
+        - Start at 4 (most recent) - KEEP
+        - Check 2: 2 < 4, so KEEP, update threshold to 2
+        - Check 6: 6 >= 2, DELETE
+        - Check 3: 3 >= 2, DELETE  
+        - Check 2: 2 >= 2, DELETE
+        - Check 7: 7 >= 2, DELETE
+        - Check 4: 4 >= 2, DELETE
+        - Check 9: 9 >= 2, DELETE
+        - Check 3: 3 >= 2, DELETE
+        Result: [2, 4] - wait that's wrong...
+        
+        Actually: most recent is HIGHEST, older ones must be LOWER
+        [3,9,4,7,2,3,6,2,4] -> keep [9,7,6,4]
+        - Start at 4 (newest) - KEEP, threshold = 4
+        - Check 2: 2 < 4, KEEP, threshold = 2  
+        - Check 6: 6 > 2, DELETE
+        - Check 3: 3 > 2, DELETE
+        - Check 2: 2 >= 2, DELETE
+        - Check 7: 7 > 2, DELETE... wait
+        
+        Let me think: we want DECREASING from new to old
+        [old...new]: [3,9,4,7,2,3,6,2,4]
+        Read right to left: 4,2,6,3,2,7,4,9,3
+        Keep: 4, then 2 (smaller), skip 6,3,2,7,4,9 all bigger, keep 3? no 3>2
+        
+        I think: most recent HIGH must be kept. Then going backwards in time,
+        only keep highs that are HIGHER than what we've kept so far.
         
         Returns:
             (kept_count, deleted_count)
@@ -79,16 +106,25 @@ class LevelFilter:
         # Track which IDs to keep
         keep_ids = []
         
-        # Work backwards from most recent
-        min_so_far = float('inf')
+        # Start from most recent (end of list)
+        # Most recent MUST be kept (it's the current reference)
+        levels_reversed = list(reversed(levels))
         
-        for level_id, level, timestamp in reversed(levels):
-            if level < min_so_far:
+        # Keep most recent
+        most_recent_id, most_recent_level, most_recent_ts = levels_reversed[0]
+        keep_ids.append(most_recent_id)
+        max_kept = most_recent_level
+        logger.debug(f"Keeping most recent: {most_recent_level:.2f} at {most_recent_ts}")
+        
+        # Go through older candles
+        for level_id, level, timestamp in levels_reversed[1:]:
+            # Only keep if this level is HIGHER than anything we've kept
+            if level > max_kept:
                 keep_ids.append(level_id)
-                min_so_far = level
-                logger.debug(f"Keeping level {level:.2f} at {timestamp}")
+                max_kept = level
+                logger.debug(f"Keeping older high: {level:.2f} at {timestamp}")
             else:
-                logger.debug(f"Removing level {level:.2f} at {timestamp} (not lower than {min_so_far:.2f})")
+                logger.debug(f"Deleting: {level:.2f} at {timestamp} (not higher than {max_kept:.2f})")
         
         kept_count = len(keep_ids)
         deleted_count = len(levels) - kept_count
@@ -107,7 +143,7 @@ class LevelFilter:
             
             logger.info(f"Filtered highs: kept {kept_count}, deleted {deleted_count}")
         else:
-            logger.info("No levels to delete - all form decreasing sequence")
+            logger.info("No levels to delete")
         
         return kept_count, deleted_count
     
