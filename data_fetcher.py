@@ -49,7 +49,7 @@ class DataFetcher:
     
     def __init__(self):
         """Initialize Binance exchange connection"""
-        self.exchange = ccxt.mexc({
+        self.exchange = ccxt.binance({
             'enableRateLimit': True,  # Respect rate limits
             'options': {
                 'defaultType': 'spot'
@@ -251,7 +251,7 @@ def test_btc_weekly():
     
     # Show last few candles
     print("\n--- Last 3 Candles ---")
-    print(df.tail(3).to_string())
+    print(df.tail(10).to_string())
     
     # Check indicators
     print("\n--- Indicator Summary ---")
