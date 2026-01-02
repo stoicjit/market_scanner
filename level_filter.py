@@ -6,6 +6,10 @@ Filters to keep only significant levels based on greedy algorithm
 import psycopg2
 import os
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Setup logging
 os.makedirs('logs', exist_ok=True)

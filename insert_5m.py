@@ -8,6 +8,10 @@ from db_manager import DBManager
 import logging
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Setup logging
 os.makedirs('logs', exist_ok=True)
