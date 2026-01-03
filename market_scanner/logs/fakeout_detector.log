@@ -1,0 +1,758 @@
+2026-01-03 03:54:17,149 - INFO - Connected to database
+2026-01-03 03:54:17,149 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 03:54:17,150 - WARNING - No 1h candle found for btcusdt
+2026-01-03 03:54:17,150 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 03:54:17,151 - WARNING - No 1h candle found for ethusdt
+2026-01-03 03:54:17,151 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 03:54:17,151 - WARNING - No 1h candle found for ltcusdt
+2026-01-03 03:54:17,151 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 03:54:17,152 - WARNING - No 1h candle found for xrpusdt
+2026-01-03 03:54:17,152 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 03:54:17,153 - WARNING - No 1h candle found for dogeusdt
+2026-01-03 03:54:17,153 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 03:54:17,153 - WARNING - No 1h candle found for linkusdt
+2026-01-03 03:54:17,153 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 03:54:17,154 - WARNING - No 1h candle found for adausdt
+2026-01-03 03:54:17,154 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 03:54:17,154 - INFO - Database connection closed
+2026-01-03 04:05:06,419 - INFO - Connected to database
+2026-01-03 04:05:06,419 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:05:06,422 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:05:06,422 - INFO - No fakeout detected
+2026-01-03 04:05:06,422 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:05:06,423 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:05:06,423 - INFO - No fakeout detected
+2026-01-03 04:05:06,423 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:05:06,424 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:05:06,424 - INFO - No fakeout detected
+2026-01-03 04:05:06,424 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:05:06,425 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:05:06,425 - INFO - No fakeout detected
+2026-01-03 04:05:06,425 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:05:06,426 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:05:06,426 - INFO - No fakeout detected
+2026-01-03 04:05:06,426 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:05:06,427 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:05:06,427 - INFO - No fakeout detected
+2026-01-03 04:05:06,427 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:05:06,428 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:05:06,428 - INFO - No fakeout detected
+2026-01-03 04:05:06,428 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 04:05:06,428 - INFO - Database connection closed
+2026-01-03 04:05:06,616 - INFO - Connected to database
+2026-01-03 04:05:06,616 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 04:05:06,618 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 04:05:06,619 - INFO - No fakeout detected
+2026-01-03 04:05:06,619 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 04:05:06,620 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 04:05:06,620 - INFO - No fakeout detected
+2026-01-03 04:05:06,620 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 04:05:06,621 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 04:05:06,621 - INFO - No fakeout detected
+2026-01-03 04:05:06,621 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 04:05:06,622 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 04:05:06,622 - INFO - No fakeout detected
+2026-01-03 04:05:06,622 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 04:05:06,623 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 04:05:06,623 - INFO - No fakeout detected
+2026-01-03 04:05:06,623 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 04:05:06,624 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 04:05:06,624 - INFO - No fakeout detected
+2026-01-03 04:05:06,624 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 04:05:06,625 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 04:05:06,625 - INFO - No fakeout detected
+2026-01-03 04:05:06,625 - INFO - Total fakeouts found for 4h: 0
+2026-01-03 04:05:06,625 - INFO - Database connection closed
+2026-01-03 04:07:24,796 - INFO - Connected to database
+2026-01-03 04:07:24,796 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:07:24,798 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:07:24,799 - INFO - No fakeout detected
+2026-01-03 04:07:24,799 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:07:24,800 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:07:24,800 - INFO - No fakeout detected
+2026-01-03 04:07:24,800 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:07:24,801 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:07:24,801 - INFO - No fakeout detected
+2026-01-03 04:07:24,801 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:07:24,802 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:07:24,802 - INFO - No fakeout detected
+2026-01-03 04:07:24,802 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:07:24,803 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:07:24,803 - INFO - No fakeout detected
+2026-01-03 04:07:24,803 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:07:24,804 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:07:24,804 - INFO - No fakeout detected
+2026-01-03 04:07:24,804 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:07:24,805 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:07:24,805 - INFO - No fakeout detected
+2026-01-03 04:07:24,805 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 04:07:24,805 - INFO - Database connection closed
+2026-01-03 04:12:30,555 - INFO - Connected to database
+2026-01-03 04:12:30,555 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:12:30,558 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:12:30,558 - INFO - No fakeout detected
+2026-01-03 04:12:30,558 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:12:30,559 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:12:30,559 - INFO - No fakeout detected
+2026-01-03 04:12:30,559 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:12:30,560 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:12:30,560 - INFO - No fakeout detected
+2026-01-03 04:12:30,560 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:12:30,561 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:12:30,561 - INFO - No fakeout detected
+2026-01-03 04:12:30,561 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:12:30,562 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:12:30,562 - INFO - No fakeout detected
+2026-01-03 04:12:30,562 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:12:30,563 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:12:30,563 - INFO - No fakeout detected
+2026-01-03 04:12:30,563 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:12:30,564 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:12:30,564 - INFO - No fakeout detected
+2026-01-03 04:12:30,564 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 04:12:30,564 - INFO - Database connection closed
+2026-01-03 04:23:25,687 - INFO - Connected to database
+2026-01-03 04:23:25,687 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:23:25,721 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:23:25,721 - INFO - No fakeout detected
+2026-01-03 04:23:25,721 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:23:25,722 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:23:25,722 - INFO - No fakeout detected
+2026-01-03 04:23:25,722 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:23:25,723 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:23:25,723 - INFO - No fakeout detected
+2026-01-03 04:23:25,723 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:23:25,724 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:23:25,724 - INFO - No fakeout detected
+2026-01-03 04:23:25,724 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:23:25,725 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:23:25,725 - INFO - No fakeout detected
+2026-01-03 04:23:25,725 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:23:25,726 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:23:25,726 - INFO - No fakeout detected
+2026-01-03 04:23:25,726 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:23:25,727 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:23:25,727 - INFO - No fakeout detected
+2026-01-03 04:23:25,727 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 04:23:25,727 - INFO - Database connection closed
+2026-01-03 04:27:24,182 - INFO - Connected to database
+2026-01-03 04:27:24,182 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:27:24,184 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:27:24,184 - INFO - High fakeout detected at 90961.81
+2026-01-03 04:27:24,226 - INFO - Marked btcusdt 1h candle at 2026-01-03 04:00:00+00:00 as high fakeout
+2026-01-03 04:27:24,226 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:27:24,228 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:27:24,228 - INFO - No fakeout detected
+2026-01-03 04:27:24,228 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:27:24,229 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:27:24,229 - INFO - No fakeout detected
+2026-01-03 04:27:24,229 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:27:24,230 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:27:24,230 - INFO - No fakeout detected
+2026-01-03 04:27:24,230 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:27:24,232 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:27:24,232 - INFO - No fakeout detected
+2026-01-03 04:27:24,232 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:27:24,233 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:27:24,233 - INFO - No fakeout detected
+2026-01-03 04:27:24,233 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:27:24,235 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:27:24,235 - INFO - No fakeout detected
+2026-01-03 04:27:24,235 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 04:27:24,235 - INFO - Database connection closed
+2026-01-03 04:34:33,145 - INFO - Connected to database
+2026-01-03 04:34:33,145 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 04:34:33,147 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 04:34:33,147 - INFO - Low fakeout detected at 88379.88
+2026-01-03 04:34:33,188 - INFO - Marked btcusdt 1h candle at 2026-01-03 05:00:00+00:00 as low fakeout
+2026-01-03 04:34:33,189 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 04:34:33,192 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 04:34:33,192 - INFO - No fakeout detected
+2026-01-03 04:34:33,192 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 04:34:33,195 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 04:34:33,195 - INFO - No fakeout detected
+2026-01-03 04:34:33,195 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 04:34:33,198 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 04:34:33,198 - INFO - No fakeout detected
+2026-01-03 04:34:33,198 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 04:34:33,201 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 04:34:33,202 - INFO - No fakeout detected
+2026-01-03 04:34:33,202 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 04:34:33,204 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 04:34:33,205 - INFO - No fakeout detected
+2026-01-03 04:34:33,205 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 04:34:33,207 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 04:34:33,208 - INFO - No fakeout detected
+2026-01-03 04:34:33,208 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 04:34:33,208 - INFO - Database connection closed
+2026-01-03 05:05:07,036 - INFO - Connected to database
+2026-01-03 05:05:07,036 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 05:05:07,038 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 05:05:07,038 - INFO - No fakeout detected
+2026-01-03 05:05:07,038 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 05:05:07,039 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 05:05:07,039 - INFO - No fakeout detected
+2026-01-03 05:05:07,039 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 05:05:07,040 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 05:05:07,040 - INFO - No fakeout detected
+2026-01-03 05:05:07,040 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 05:05:07,041 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 05:05:07,041 - INFO - No fakeout detected
+2026-01-03 05:05:07,041 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 05:05:07,042 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 05:05:07,042 - INFO - No fakeout detected
+2026-01-03 05:05:07,042 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 05:05:07,043 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 05:05:07,043 - INFO - No fakeout detected
+2026-01-03 05:05:07,043 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 05:05:07,044 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 05:05:07,044 - INFO - No fakeout detected
+2026-01-03 05:05:07,044 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 05:05:07,044 - INFO - Database connection closed
+2026-01-03 06:05:06,876 - INFO - Connected to database
+2026-01-03 06:05:06,876 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 06:05:06,879 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 06:05:06,879 - INFO - No fakeout detected
+2026-01-03 06:05:06,879 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 06:05:06,880 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 06:05:06,880 - INFO - No fakeout detected
+2026-01-03 06:05:06,880 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 06:05:06,881 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 06:05:06,881 - INFO - No fakeout detected
+2026-01-03 06:05:06,881 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 06:05:06,882 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 06:05:06,882 - INFO - High fakeout detected at 2.05
+2026-01-03 06:05:06,883 - INFO - Marked xrpusdt 1h candle at 2026-01-03 05:00:00+00:00 as high fakeout
+2026-01-03 06:05:06,883 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 06:05:06,885 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 06:05:06,885 - INFO - No fakeout detected
+2026-01-03 06:05:06,885 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 06:05:06,886 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 06:05:06,886 - INFO - No fakeout detected
+2026-01-03 06:05:06,886 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 06:05:06,886 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 06:05:06,887 - INFO - High fakeout detected at 0.40
+2026-01-03 06:05:06,888 - INFO - Marked adausdt 1h candle at 2026-01-03 05:00:00+00:00 as high fakeout
+2026-01-03 06:05:06,888 - INFO - Total fakeouts found for 1h: 2
+2026-01-03 06:05:06,888 - INFO - Database connection closed
+2026-01-03 07:05:08,057 - INFO - Connected to database
+2026-01-03 07:05:08,057 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 07:05:08,060 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 07:05:08,060 - INFO - No fakeout detected
+2026-01-03 07:05:08,060 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 07:05:08,061 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 07:05:08,061 - INFO - No fakeout detected
+2026-01-03 07:05:08,061 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 07:05:08,062 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 07:05:08,062 - INFO - High fakeout detected at 82.45
+2026-01-03 07:05:08,065 - INFO - Marked ltcusdt 1h candle at 2026-01-03 06:00:00+00:00 as high fakeout
+2026-01-03 07:05:08,065 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 07:05:08,066 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 07:05:08,066 - INFO - High fakeout detected at 2.03
+2026-01-03 07:05:08,068 - INFO - Marked xrpusdt 1h candle at 2026-01-03 06:00:00+00:00 as high fakeout
+2026-01-03 07:05:08,068 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 07:05:08,069 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 07:05:08,069 - INFO - No fakeout detected
+2026-01-03 07:05:08,069 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 07:05:08,070 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 07:05:08,070 - INFO - No fakeout detected
+2026-01-03 07:05:08,070 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 07:05:08,071 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 07:05:08,071 - INFO - No fakeout detected
+2026-01-03 07:05:08,071 - INFO - Total fakeouts found for 1h: 2
+2026-01-03 07:05:08,072 - INFO - Database connection closed
+2026-01-03 08:05:06,663 - INFO - Connected to database
+2026-01-03 08:05:06,663 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 08:05:06,663 - INFO - Connected to database
+2026-01-03 08:05:06,663 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 08:05:06,665 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 08:05:06,665 - INFO - No fakeout detected
+2026-01-03 08:05:06,665 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 08:05:06,665 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 08:05:06,665 - INFO - No fakeout detected
+2026-01-03 08:05:06,665 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 08:05:06,666 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 08:05:06,666 - INFO - No fakeout detected
+2026-01-03 08:05:06,666 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 08:05:06,666 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 08:05:06,667 - INFO - No fakeout detected
+2026-01-03 08:05:06,667 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 08:05:06,667 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 08:05:06,667 - INFO - High fakeout detected at 82.25
+2026-01-03 08:05:06,667 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 08:05:06,668 - INFO - High fakeout detected at 81.42
+2026-01-03 08:05:06,669 - INFO - Marked ltcusdt 1h candle at 2026-01-03 07:00:00+00:00 as high fakeout
+2026-01-03 08:05:06,669 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 08:05:06,670 - INFO - Marked ltcusdt 4h candle at 2026-01-03 04:00:00+00:00 as high fakeout
+2026-01-03 08:05:06,670 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 08:05:06,670 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 08:05:06,670 - INFO - No fakeout detected
+2026-01-03 08:05:06,670 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 08:05:06,671 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 08:05:06,671 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 08:05:06,671 - INFO - High fakeout detected at 2.01
+2026-01-03 08:05:06,671 - INFO - No fakeout detected
+2026-01-03 08:05:06,671 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 08:05:06,672 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 08:05:06,672 - INFO - No fakeout detected
+2026-01-03 08:05:06,672 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 08:05:06,672 - INFO - Marked xrpusdt 4h candle at 2026-01-03 04:00:00+00:00 as high fakeout
+2026-01-03 08:05:06,672 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 08:05:06,673 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 08:05:06,673 - INFO - No fakeout detected
+2026-01-03 08:05:06,673 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 08:05:06,673 - INFO - Database connection closed
+2026-01-03 08:05:06,673 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 08:05:06,674 - INFO - No fakeout detected
+2026-01-03 08:05:06,674 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 08:05:06,674 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 08:05:06,674 - INFO - No fakeout detected
+2026-01-03 08:05:06,675 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 08:05:06,675 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 08:05:06,675 - INFO - No fakeout detected
+2026-01-03 08:05:06,675 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 08:05:06,676 - INFO - Database connection closed
+2026-01-03 09:05:06,473 - INFO - Connected to database
+2026-01-03 09:05:06,473 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 09:05:06,480 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 09:05:06,480 - INFO - No fakeout detected
+2026-01-03 09:05:06,480 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 09:05:06,483 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 09:05:06,483 - INFO - No fakeout detected
+2026-01-03 09:05:06,483 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 09:05:06,486 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 09:05:06,486 - INFO - No fakeout detected
+2026-01-03 09:05:06,487 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 09:05:06,489 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 09:05:06,489 - INFO - No fakeout detected
+2026-01-03 09:05:06,490 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 09:05:06,492 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 09:05:06,492 - INFO - No fakeout detected
+2026-01-03 09:05:06,493 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 09:05:06,495 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 09:05:06,495 - INFO - No fakeout detected
+2026-01-03 09:05:06,496 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 09:05:06,498 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 09:05:06,498 - INFO - No fakeout detected
+2026-01-03 09:05:06,498 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 09:05:06,499 - INFO - Database connection closed
+2026-01-03 10:05:07,072 - INFO - Connected to database
+2026-01-03 10:05:07,072 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 10:05:07,075 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 10:05:07,075 - INFO - No fakeout detected
+2026-01-03 10:05:07,075 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 10:05:07,077 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 10:05:07,077 - INFO - No fakeout detected
+2026-01-03 10:05:07,077 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 10:05:07,079 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 10:05:07,079 - INFO - No fakeout detected
+2026-01-03 10:05:07,079 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 10:05:07,080 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 10:05:07,080 - INFO - No fakeout detected
+2026-01-03 10:05:07,080 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 10:05:07,082 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 10:05:07,082 - INFO - No fakeout detected
+2026-01-03 10:05:07,082 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 10:05:07,084 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 10:05:07,084 - INFO - No fakeout detected
+2026-01-03 10:05:07,084 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 10:05:07,085 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 10:05:07,085 - INFO - No fakeout detected
+2026-01-03 10:05:07,085 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 10:05:07,085 - INFO - Database connection closed
+2026-01-03 11:05:06,174 - INFO - Connected to database
+2026-01-03 11:05:06,175 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 11:05:06,177 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 11:05:06,177 - INFO - No fakeout detected
+2026-01-03 11:05:06,177 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 11:05:06,178 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 11:05:06,178 - INFO - No fakeout detected
+2026-01-03 11:05:06,178 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 11:05:06,179 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 11:05:06,179 - INFO - No fakeout detected
+2026-01-03 11:05:06,179 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 11:05:06,180 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 11:05:06,180 - INFO - No fakeout detected
+2026-01-03 11:05:06,180 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 11:05:06,181 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 11:05:06,181 - INFO - No fakeout detected
+2026-01-03 11:05:06,181 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 11:05:06,182 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 11:05:06,182 - INFO - No fakeout detected
+2026-01-03 11:05:06,182 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 11:05:06,183 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 11:05:06,183 - INFO - No fakeout detected
+2026-01-03 11:05:06,183 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 11:05:06,183 - INFO - Database connection closed
+2026-01-03 12:05:06,590 - INFO - Connected to database
+2026-01-03 12:05:06,590 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 12:05:06,590 - INFO - Connected to database
+2026-01-03 12:05:06,590 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 12:05:06,593 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 12:05:06,593 - INFO - No fakeout detected
+2026-01-03 12:05:06,593 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 12:05:06,593 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 12:05:06,593 - INFO - No fakeout detected
+2026-01-03 12:05:06,593 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 12:05:06,594 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 12:05:06,594 - INFO - No fakeout detected
+2026-01-03 12:05:06,594 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 12:05:06,594 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 12:05:06,594 - INFO - No fakeout detected
+2026-01-03 12:05:06,595 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 12:05:06,595 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 12:05:06,595 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 12:05:06,596 - INFO - No fakeout detected
+2026-01-03 12:05:06,596 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 12:05:06,596 - INFO - High fakeout detected at 81.42
+2026-01-03 12:05:06,597 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 12:05:06,597 - INFO - No fakeout detected
+2026-01-03 12:05:06,597 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 12:05:06,597 - INFO - Marked ltcusdt 4h candle at 2026-01-03 08:00:00+00:00 as high fakeout
+2026-01-03 12:05:06,597 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 12:05:06,598 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 12:05:06,598 - INFO - No fakeout detected
+2026-01-03 12:05:06,598 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 12:05:06,598 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 12:05:06,598 - INFO - High fakeout detected at 2.01
+2026-01-03 12:05:06,599 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 12:05:06,599 - INFO - No fakeout detected
+2026-01-03 12:05:06,599 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 12:05:06,600 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 12:05:06,600 - INFO - No fakeout detected
+2026-01-03 12:05:06,600 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 12:05:06,600 - INFO - Database connection closed
+2026-01-03 12:05:06,600 - INFO - Marked xrpusdt 4h candle at 2026-01-03 08:00:00+00:00 as high fakeout
+2026-01-03 12:05:06,600 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 12:05:06,601 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 12:05:06,601 - INFO - No fakeout detected
+2026-01-03 12:05:06,601 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 12:05:06,602 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 12:05:06,602 - INFO - No fakeout detected
+2026-01-03 12:05:06,602 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 12:05:06,603 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 12:05:06,603 - INFO - No fakeout detected
+2026-01-03 12:05:06,603 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 12:05:06,603 - INFO - Database connection closed
+2026-01-03 13:05:06,241 - INFO - Connected to database
+2026-01-03 13:05:06,242 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 13:05:06,244 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 13:05:06,244 - INFO - No fakeout detected
+2026-01-03 13:05:06,244 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 13:05:06,245 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 13:05:06,245 - INFO - No fakeout detected
+2026-01-03 13:05:06,245 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 13:05:06,246 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 13:05:06,246 - INFO - No fakeout detected
+2026-01-03 13:05:06,246 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 13:05:06,248 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 13:05:06,248 - INFO - No fakeout detected
+2026-01-03 13:05:06,248 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 13:05:06,249 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 13:05:06,249 - INFO - No fakeout detected
+2026-01-03 13:05:06,249 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 13:05:06,250 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 13:05:06,250 - INFO - No fakeout detected
+2026-01-03 13:05:06,250 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 13:05:06,251 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 13:05:06,251 - INFO - No fakeout detected
+2026-01-03 13:05:06,251 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 13:05:06,251 - INFO - Database connection closed
+2026-01-03 14:05:09,052 - INFO - Connected to database
+2026-01-03 14:05:09,052 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 14:05:09,055 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 14:05:09,055 - INFO - No fakeout detected
+2026-01-03 14:05:09,055 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 14:05:09,056 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 14:05:09,056 - INFO - No fakeout detected
+2026-01-03 14:05:09,056 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 14:05:09,057 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 14:05:09,057 - INFO - No fakeout detected
+2026-01-03 14:05:09,057 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 14:05:09,058 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 14:05:09,058 - INFO - No fakeout detected
+2026-01-03 14:05:09,058 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 14:05:09,059 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 14:05:09,059 - INFO - No fakeout detected
+2026-01-03 14:05:09,059 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 14:05:09,059 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 14:05:09,059 - INFO - No fakeout detected
+2026-01-03 14:05:09,060 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 14:05:09,060 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 14:05:09,060 - INFO - No fakeout detected
+2026-01-03 14:05:09,060 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 14:05:09,061 - INFO - Database connection closed
+2026-01-03 15:05:06,106 - INFO - Connected to database
+2026-01-03 15:05:06,106 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 15:05:06,108 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 15:05:06,108 - INFO - No fakeout detected
+2026-01-03 15:05:06,108 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 15:05:06,109 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 15:05:06,109 - INFO - No fakeout detected
+2026-01-03 15:05:06,109 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 15:05:06,110 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 15:05:06,110 - INFO - No fakeout detected
+2026-01-03 15:05:06,110 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 15:05:06,111 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 15:05:06,111 - INFO - No fakeout detected
+2026-01-03 15:05:06,111 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 15:05:06,112 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 15:05:06,112 - INFO - No fakeout detected
+2026-01-03 15:05:06,112 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 15:05:06,113 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 15:05:06,113 - INFO - No fakeout detected
+2026-01-03 15:05:06,113 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 15:05:06,114 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 15:05:06,114 - INFO - No fakeout detected
+2026-01-03 15:05:06,114 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 15:05:06,114 - INFO - Database connection closed
+2026-01-03 16:05:06,393 - INFO - Connected to database
+2026-01-03 16:05:06,393 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 16:05:06,395 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 16:05:06,395 - INFO - No fakeout detected
+2026-01-03 16:05:06,395 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 16:05:06,396 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 16:05:06,396 - INFO - No fakeout detected
+2026-01-03 16:05:06,396 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 16:05:06,397 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 16:05:06,397 - INFO - No fakeout detected
+2026-01-03 16:05:06,397 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 16:05:06,398 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 16:05:06,398 - INFO - No fakeout detected
+2026-01-03 16:05:06,398 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 16:05:06,399 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 16:05:06,399 - INFO - No fakeout detected
+2026-01-03 16:05:06,399 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 16:05:06,400 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 16:05:06,400 - INFO - No fakeout detected
+2026-01-03 16:05:06,400 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 16:05:06,401 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 16:05:06,401 - INFO - No fakeout detected
+2026-01-03 16:05:06,401 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 16:05:06,401 - INFO - Database connection closed
+2026-01-03 16:05:06,579 - INFO - Connected to database
+2026-01-03 16:05:06,579 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 16:05:06,582 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 16:05:06,582 - INFO - No fakeout detected
+2026-01-03 16:05:06,582 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 16:05:06,584 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 16:05:06,584 - INFO - No fakeout detected
+2026-01-03 16:05:06,584 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 16:05:06,585 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 16:05:06,585 - INFO - High fakeout detected at 81.42
+2026-01-03 16:05:06,586 - INFO - Marked ltcusdt 4h candle at 2026-01-03 12:00:00+00:00 as high fakeout
+2026-01-03 16:05:06,587 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 16:05:06,588 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 16:05:06,588 - INFO - High fakeout detected at 2.01
+2026-01-03 16:05:06,589 - INFO - Marked xrpusdt 4h candle at 2026-01-03 12:00:00+00:00 as high fakeout
+2026-01-03 16:05:06,589 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 16:05:06,591 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 16:05:06,591 - INFO - No fakeout detected
+2026-01-03 16:05:06,591 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 16:05:06,592 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 16:05:06,592 - INFO - No fakeout detected
+2026-01-03 16:05:06,592 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 16:05:06,593 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 16:05:06,593 - INFO - No fakeout detected
+2026-01-03 16:05:06,593 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 16:05:06,593 - INFO - Database connection closed
+2026-01-03 17:05:06,307 - INFO - Connected to database
+2026-01-03 17:05:06,308 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 17:05:06,310 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 17:05:06,310 - INFO - No fakeout detected
+2026-01-03 17:05:06,310 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 17:05:06,311 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 17:05:06,311 - INFO - No fakeout detected
+2026-01-03 17:05:06,311 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 17:05:06,312 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 17:05:06,312 - INFO - No fakeout detected
+2026-01-03 17:05:06,312 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 17:05:06,313 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 17:05:06,313 - INFO - No fakeout detected
+2026-01-03 17:05:06,313 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 17:05:06,314 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 17:05:06,314 - INFO - No fakeout detected
+2026-01-03 17:05:06,315 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 17:05:06,315 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 17:05:06,315 - INFO - No fakeout detected
+2026-01-03 17:05:06,316 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 17:05:06,316 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 17:05:06,316 - INFO - No fakeout detected
+2026-01-03 17:05:06,316 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 17:05:06,317 - INFO - Database connection closed
+2026-01-03 18:05:06,498 - INFO - Connected to database
+2026-01-03 18:05:06,498 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 18:05:06,500 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 18:05:06,500 - INFO - No fakeout detected
+2026-01-03 18:05:06,500 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 18:05:06,501 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 18:05:06,501 - INFO - No fakeout detected
+2026-01-03 18:05:06,501 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 18:05:06,502 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 18:05:06,502 - INFO - No fakeout detected
+2026-01-03 18:05:06,502 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 18:05:06,503 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 18:05:06,503 - INFO - No fakeout detected
+2026-01-03 18:05:06,503 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 18:05:06,504 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 18:05:06,504 - INFO - No fakeout detected
+2026-01-03 18:05:06,504 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 18:05:06,505 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 18:05:06,505 - INFO - No fakeout detected
+2026-01-03 18:05:06,505 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 18:05:06,506 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 18:05:06,506 - INFO - No fakeout detected
+2026-01-03 18:05:06,506 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 18:05:06,506 - INFO - Database connection closed
+2026-01-03 19:05:06,564 - INFO - Connected to database
+2026-01-03 19:05:06,564 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 19:05:06,567 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 19:05:06,567 - INFO - No fakeout detected
+2026-01-03 19:05:06,567 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 19:05:06,568 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 19:05:06,568 - INFO - No fakeout detected
+2026-01-03 19:05:06,568 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 19:05:06,569 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 19:05:06,569 - INFO - High fakeout detected at 82.45
+2026-01-03 19:05:06,570 - INFO - Marked ltcusdt 1h candle at 2026-01-03 18:00:00+00:00 as high fakeout
+2026-01-03 19:05:06,570 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 19:05:06,571 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 19:05:06,571 - INFO - No fakeout detected
+2026-01-03 19:05:06,571 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 19:05:06,572 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 19:05:06,573 - INFO - No fakeout detected
+2026-01-03 19:05:06,573 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 19:05:06,573 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 19:05:06,573 - INFO - No fakeout detected
+2026-01-03 19:05:06,573 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 19:05:06,574 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 19:05:06,574 - INFO - No fakeout detected
+2026-01-03 19:05:06,574 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 19:05:06,575 - INFO - Database connection closed
+2026-01-03 20:05:07,008 - INFO - Telegram notifier initialized
+2026-01-03 20:05:07,008 - INFO - Connected to database
+2026-01-03 20:05:07,008 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 20:05:07,011 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 20:05:07,011 - INFO - No fakeout detected
+2026-01-03 20:05:07,011 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 20:05:07,012 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 20:05:07,012 - INFO - No fakeout detected
+2026-01-03 20:05:07,012 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 20:05:07,013 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 20:05:07,013 - INFO - No fakeout detected
+2026-01-03 20:05:07,013 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 20:05:07,014 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 20:05:07,014 - INFO - No fakeout detected
+2026-01-03 20:05:07,014 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 20:05:07,015 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 20:05:07,015 - INFO - No fakeout detected
+2026-01-03 20:05:07,015 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 20:05:07,015 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 20:05:07,015 - INFO - No fakeout detected
+2026-01-03 20:05:07,015 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 20:05:07,016 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 20:05:07,016 - INFO - No fakeout detected
+2026-01-03 20:05:07,016 - INFO - Total fakeouts found for 4h: 0
+2026-01-03 20:05:07,016 - INFO - Database connection closed
+2026-01-03 20:05:07,358 - INFO - Telegram notifier initialized
+2026-01-03 20:05:07,358 - INFO - Connected to database
+2026-01-03 20:05:07,358 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 20:05:07,360 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 20:05:07,360 - INFO - No fakeout detected
+2026-01-03 20:05:07,360 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 20:05:07,361 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 20:05:07,361 - INFO - No fakeout detected
+2026-01-03 20:05:07,361 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 20:05:07,362 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 20:05:07,362 - INFO - High fakeout detected at 82.25
+2026-01-03 20:05:07,365 - INFO - Marked ltcusdt 1h candle at 2026-01-03 19:00:00+00:00 as high fakeout
+2026-01-03 20:05:07,892 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 20:05:07,893 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 20:05:07,894 - INFO - No fakeout detected
+2026-01-03 20:05:07,894 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 20:05:07,895 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 20:05:07,895 - INFO - No fakeout detected
+2026-01-03 20:05:07,895 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 20:05:07,896 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 20:05:07,896 - INFO - No fakeout detected
+2026-01-03 20:05:07,896 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 20:05:07,897 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 20:05:07,897 - INFO - No fakeout detected
+2026-01-03 20:05:07,897 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 20:05:07,897 - INFO - Database connection closed
+2026-01-03 20:07:35,179 - INFO - Telegram notifier initialized
+2026-01-03 20:07:35,179 - INFO - Connected to database
+2026-01-03 20:07:35,179 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 20:07:35,182 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 20:07:35,182 - INFO - No fakeout detected
+2026-01-03 20:07:35,182 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 20:07:35,183 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 20:07:35,183 - INFO - No fakeout detected
+2026-01-03 20:07:35,183 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 20:07:35,183 - INFO - Candle already marked as fakeout, skipping
+2026-01-03 20:07:35,183 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 20:07:35,184 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 20:07:35,184 - INFO - No fakeout detected
+2026-01-03 20:07:35,185 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 20:07:35,186 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 20:07:35,186 - INFO - No fakeout detected
+2026-01-03 20:07:35,186 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 20:07:35,187 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 20:07:35,187 - INFO - No fakeout detected
+2026-01-03 20:07:35,187 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 20:07:35,188 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 20:07:35,188 - INFO - No fakeout detected
+2026-01-03 20:07:35,188 - INFO - Total fakeouts found for 1h: 0
+2026-01-03 20:07:35,188 - INFO - Database connection closed
+2026-01-03 20:16:47,490 - INFO - Telegram notifier initialized
+2026-01-03 20:16:47,490 - INFO - Connected to database
+2026-01-03 20:16:47,491 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 20:16:47,493 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 20:16:47,493 - INFO - High fakeout detected at 90961.81
+2026-01-03 20:16:47,496 - INFO - Marked btcusdt 1h candle at 2026-01-04 05:00:00+00:00 as high fakeout
+2026-01-03 20:16:47,982 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 20:16:47,983 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 20:16:47,983 - INFO - No fakeout detected
+2026-01-03 20:16:47,983 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 20:16:47,984 - INFO - Candle already marked as fakeout, skipping
+2026-01-03 20:16:47,984 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 20:16:47,985 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 20:16:47,985 - INFO - High fakeout detected at 2.03
+2026-01-03 20:16:47,987 - INFO - Marked xrpusdt 1h candle at 2026-01-04 05:00:00+00:00 as high fakeout
+2026-01-03 20:16:47,993 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 20:16:47,996 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 20:16:47,996 - INFO - No fakeout detected
+2026-01-03 20:16:47,996 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 20:16:47,999 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 20:16:47,999 - INFO - No fakeout detected
+2026-01-03 20:16:48,000 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 20:16:48,002 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 20:16:48,003 - INFO - No fakeout detected
+2026-01-03 20:16:48,003 - INFO - Total fakeouts found for 1h: 2
+2026-01-03 20:16:48,003 - INFO - Database connection closed
+2026-01-03 22:00:11,060 - INFO - Telegram notifier initialized
+2026-01-03 22:00:11,060 - INFO - Connected to database
+2026-01-03 22:00:11,060 - INFO - Checking 1h fakeouts for btcusdt
+2026-01-03 22:00:11,062 - INFO - Checking against 23 high levels and 91 low levels
+2026-01-03 22:00:11,062 - INFO - No fakeout detected
+2026-01-03 22:00:11,062 - INFO - Checking 1h fakeouts for ethusdt
+2026-01-03 22:00:11,063 - INFO - Checking against 24 high levels and 31 low levels
+2026-01-03 22:00:11,063 - INFO - No fakeout detected
+2026-01-03 22:00:11,063 - INFO - Checking 1h fakeouts for ltcusdt
+2026-01-03 22:00:11,064 - INFO - Checking against 20 high levels and 10 low levels
+2026-01-03 22:00:11,064 - INFO - High fakeout detected at 82.25
+2026-01-03 22:00:11,067 - INFO - Marked ltcusdt 1h candle at 2026-01-03 21:00:00+00:00 as high fakeout
+2026-01-03 22:00:11,510 - INFO - Checking 1h fakeouts for xrpusdt
+2026-01-03 22:00:11,511 - INFO - Checking against 35 high levels and 30 low levels
+2026-01-03 22:00:11,511 - INFO - No fakeout detected
+2026-01-03 22:00:11,511 - INFO - Checking 1h fakeouts for dogeusdt
+2026-01-03 22:00:11,512 - INFO - Checking against 46 high levels and 37 low levels
+2026-01-03 22:00:11,513 - INFO - No fakeout detected
+2026-01-03 22:00:11,513 - INFO - Checking 1h fakeouts for linkusdt
+2026-01-03 22:00:11,513 - INFO - Checking against 33 high levels and 31 low levels
+2026-01-03 22:00:11,514 - INFO - No fakeout detected
+2026-01-03 22:00:11,514 - INFO - Checking 1h fakeouts for adausdt
+2026-01-03 22:00:11,514 - INFO - Checking against 51 high levels and 12 low levels
+2026-01-03 22:00:11,514 - INFO - No fakeout detected
+2026-01-03 22:00:11,515 - INFO - Total fakeouts found for 1h: 1
+2026-01-03 22:00:11,515 - INFO - Database connection closed

@@ -1,0 +1,93 @@
+2026-01-03 00:05:02,545 - INFO - Initialized Binance connection
+2026-01-03 00:05:02,559 - INFO - Connected to PostgreSQL
+2026-01-03 00:05:02,571 - INFO - Connected to database
+/home/thefutur/tradingbot/market_scanner/insert_daily.py:42: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting daily candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 00:05:02,571 - INFO - === Starting daily candle insertion at 2026-01-03 00:05:02.571969 UTC ===
+2026-01-03 00:05:02,572 - INFO - Fetching 60 1d candles for BTC/USDT
+2026-01-03 00:05:06,439 - INFO - Fetched 60 candles for BTC/USDT 1d
+2026-01-03 00:05:06,450 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,458 - INFO - Inserted 1 candles into btcusdt_1d
+2026-01-03 00:05:06,461 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('btcusdt', 'daily', np.float64(90961...
+                                                    ^
+
+2026-01-03 00:05:06,462 - ERROR - ✗ BTC/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('btcusdt', 'daily', np.float64(90961...
+                                                    ^
+
+2026-01-03 00:05:06,462 - INFO - Fetching 60 1d candles for ETH/USDT
+2026-01-03 00:05:06,648 - INFO - Fetched 60 candles for ETH/USDT 1d
+2026-01-03 00:05:06,658 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,664 - INFO - Inserted 1 candles into ethusdt_1d
+2026-01-03 00:05:06,667 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('ethusdt', 'daily', np.float64(3150....
+                                                    ^
+
+2026-01-03 00:05:06,667 - ERROR - ✗ ETH/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('ethusdt', 'daily', np.float64(3150....
+                                                    ^
+
+2026-01-03 00:05:06,667 - INFO - Fetching 60 1d candles for LTC/USDT
+2026-01-03 00:05:06,852 - INFO - Fetched 60 candles for LTC/USDT 1d
+2026-01-03 00:05:06,855 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,859 - INFO - Inserted 1 candles into ltcusdt_1d
+2026-01-03 00:05:06,860 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('ltcusdt', 'daily', np.float64(82.25...
+                                                    ^
+
+2026-01-03 00:05:06,860 - ERROR - ✗ LTC/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('ltcusdt', 'daily', np.float64(82.25...
+                                                    ^
+
+2026-01-03 00:05:06,860 - INFO - Fetching 60 1d candles for XRP/USDT
+2026-01-03 00:05:07,062 - INFO - Fetched 60 candles for XRP/USDT 1d
+2026-01-03 00:05:07,071 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,078 - INFO - Inserted 1 candles into xrpusdt_1d
+2026-01-03 00:05:07,081 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('xrpusdt', 'daily', np.float64(2.031...
+                                                    ^
+
+2026-01-03 00:05:07,081 - ERROR - ✗ XRP/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('xrpusdt', 'daily', np.float64(2.031...
+                                                    ^
+
+2026-01-03 00:05:07,081 - INFO - Fetching 60 1d candles for DOGE/USDT
+2026-01-03 00:05:07,270 - INFO - Fetched 60 candles for DOGE/USDT 1d
+2026-01-03 00:05:07,280 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,287 - INFO - Inserted 1 candles into dogeusdt_1d
+2026-01-03 00:05:07,290 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('dogeusdt', 'daily', np.float64(0.14...
+                                                     ^
+
+2026-01-03 00:05:07,290 - ERROR - ✗ DOGE/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('dogeusdt', 'daily', np.float64(0.14...
+                                                     ^
+
+2026-01-03 00:05:07,290 - INFO - Fetching 60 1d candles for LINK/USDT
+2026-01-03 00:05:07,475 - INFO - Fetched 60 candles for LINK/USDT 1d
+2026-01-03 00:05:07,478 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,481 - INFO - Inserted 1 candles into linkusdt_1d
+2026-01-03 00:05:07,482 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('linkusdt', 'daily', np.float64(13.4...
+                                                     ^
+
+2026-01-03 00:05:07,482 - ERROR - ✗ LINK/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('linkusdt', 'daily', np.float64(13.4...
+                                                     ^
+
+2026-01-03 00:05:07,482 - INFO - Fetching 60 1d candles for ADA/USDT
+2026-01-03 00:05:07,659 - INFO - Fetched 60 candles for ADA/USDT 1d
+2026-01-03 00:05:07,662 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,666 - INFO - Inserted 1 candles into adausdt_1d
+2026-01-03 00:05:07,667 - ERROR - Error inserting high levels: schema "np" does not exist
+LINE 4:                 VALUES ('adausdt', 'daily', np.float64(0.396...
+                                                    ^
+
+2026-01-03 00:05:07,667 - ERROR - ✗ ADA/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('adausdt', 'daily', np.float64(0.396...
+                                                    ^
+
+2026-01-03 00:05:07,668 - INFO - Database connection closed
+2026-01-03 00:05:07,668 - INFO - Database connection closed
+2026-01-03 00:05:07,668 - INFO - === Daily insertion complete: 0 success, 7 failed ===

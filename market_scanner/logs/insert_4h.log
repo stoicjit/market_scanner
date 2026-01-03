@@ -1,0 +1,64 @@
+2026-01-03 00:05:02,539 - INFO - === Starting 4h candle insertion at 2026-01-03 00:05:02.539748 UTC ===
+2026-01-03 00:05:06,323 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 00:05:06,514 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 00:05:06,695 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 00:05:06,899 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 00:05:07,124 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 00:05:07,315 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 00:05:07,492 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 00:05:07,493 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:02,132 - INFO - === Starting 4h candle insertion at 2026-01-03 04:05:02.132151 UTC ===
+2026-01-03 04:05:05,286 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 04:05:05,491 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 04:05:05,684 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 04:05:05,996 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 04:05:06,223 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 04:05:06,406 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 04:05:06,602 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 04:05:06,602 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:06,602 - INFO - === Checking for fakeouts ===
+2026-01-03 04:05:06,625 - INFO - === Fakeout check complete ===
+2026-01-03 08:05:02,577 - INFO - === Starting 4h candle insertion at 2026-01-03 08:05:02.577782 UTC ===
+2026-01-03 08:05:05,468 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 08:05:05,646 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 08:05:05,831 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 08:05:06,059 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 08:05:06,260 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 08:05:06,451 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 08:05:06,646 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 08:05:06,647 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 08:05:06,647 - INFO - === Checking for fakeouts ===
+2026-01-03 08:05:06,676 - INFO - === Fakeout check complete ===
+2026-01-03 12:05:02,314 - INFO - === Starting 4h candle insertion at 2026-01-03 12:05:02.314496 UTC ===
+2026-01-03 12:05:05,402 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 12:05:05,599 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 12:05:05,780 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 12:05:05,983 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 12:05:06,175 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 12:05:06,378 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 12:05:06,577 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 12:05:06,577 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 12:05:06,577 - INFO - === Checking for fakeouts ===
+2026-01-03 12:05:06,603 - INFO - === Fakeout check complete ===
+2026-01-03 16:05:02,171 - INFO - === Starting 4h candle insertion at 2026-01-03 16:05:02.171484 UTC ===
+2026-01-03 16:05:05,425 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 16:05:05,616 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 16:05:05,820 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 16:05:06,016 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 16:05:06,199 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 16:05:06,381 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 16:05:06,566 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 16:05:06,566 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 16:05:06,566 - INFO - === Checking for fakeouts ===
+2026-01-03 16:05:06,593 - INFO - === Fakeout check complete ===
+2026-01-03 20:05:02,923 - INFO - === Starting 4h candle insertion at 2026-01-03 20:05:02.923835 UTC ===
+2026-01-03 20:05:05,767 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 20:05:05,956 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 20:05:06,136 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 20:05:06,325 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 20:05:06,518 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 20:05:06,700 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 20:05:06,890 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 20:05:06,891 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 20:05:06,891 - INFO - === Checking for fakeouts ===
+2026-01-03 20:05:07,016 - INFO - === Fakeout check complete ===

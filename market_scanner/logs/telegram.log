@@ -1,0 +1,17 @@
+2026-01-03 19:47:11,661 - INFO - Telegram bot initialized
+2026-01-03 19:47:12,634 - INFO - Message sent successfully
+2026-01-03 19:47:12,637 - ERROR - Failed to send Telegram message: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2026-01-03 19:47:12,637 - ERROR - Failed to send fakeout alert: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2026-01-03 20:05:07,008 - INFO - Telegram bot initialized
+2026-01-03 20:05:07,358 - INFO - Telegram bot initialized
+2026-01-03 20:05:07,891 - INFO - Message sent successfully
+2026-01-03 20:05:07,892 - INFO - Fakeout alert sent for ltcusdt 1h
+2026-01-03 20:07:35,179 - INFO - Telegram bot initialized
+2026-01-03 20:16:47,490 - INFO - Telegram bot initialized
+2026-01-03 20:16:47,980 - INFO - Message sent successfully
+2026-01-03 20:16:47,982 - INFO - Fakeout alert sent for btcusdt 1h
+2026-01-03 20:16:47,992 - ERROR - Failed to send Telegram message: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2026-01-03 20:16:47,992 - ERROR - Failed to send fakeout alert: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2026-01-03 22:00:11,060 - INFO - Telegram bot initialized
+2026-01-03 22:00:11,509 - INFO - Message sent successfully
+2026-01-03 22:00:11,510 - INFO - Fakeout alert sent for ltcusdt 1h

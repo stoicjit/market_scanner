@@ -1,0 +1,198 @@
+2026-01-03 04:05:02,131 - INFO - === Starting 1h candle insertion at 2026-01-03 04:05:02.131624 UTC ===
+2026-01-03 04:05:05,257 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 04:05:05,436 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 04:05:05,611 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 04:05:05,810 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 04:05:05,997 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 04:05:06,224 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 04:05:06,406 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 04:05:06,406 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:06,406 - INFO - === Checking for fakeouts ===
+2026-01-03 04:05:06,429 - INFO - === Fakeout check complete ===
+2026-01-03 05:05:02,224 - INFO - === Starting 1h candle insertion at 2026-01-03 05:05:02.224124 UTC ===
+2026-01-03 05:05:05,823 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 05:05:06,072 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 05:05:06,270 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 05:05:06,456 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 05:05:06,633 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 05:05:06,815 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 05:05:07,017 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 05:05:07,017 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 05:05:07,017 - INFO - === Checking for fakeouts ===
+2026-01-03 05:05:07,044 - INFO - === Fakeout check complete ===
+2026-01-03 06:05:02,712 - INFO - === Starting 1h candle insertion at 2026-01-03 06:05:02.712071 UTC ===
+2026-01-03 06:05:05,628 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 06:05:05,840 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 06:05:06,043 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 06:05:06,251 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 06:05:06,442 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 06:05:06,671 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 06:05:06,860 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 06:05:06,860 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 06:05:06,861 - INFO - === Checking for fakeouts ===
+2026-01-03 06:05:06,888 - INFO - === Fakeout check complete ===
+2026-01-03 07:05:02,010 - INFO - === Starting 1h candle insertion at 2026-01-03 07:05:02.010141 UTC ===
+2026-01-03 07:05:06,453 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 07:05:06,633 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 07:05:06,918 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 07:05:07,114 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 07:05:07,629 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 07:05:07,828 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 07:05:08,043 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 07:05:08,043 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 07:05:08,043 - INFO - === Checking for fakeouts ===
+2026-01-03 07:05:08,072 - INFO - === Fakeout check complete ===
+2026-01-03 08:05:02,577 - INFO - === Starting 1h candle insertion at 2026-01-03 08:05:02.577585 UTC ===
+2026-01-03 08:05:05,469 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 08:05:05,647 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 08:05:05,831 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 08:05:06,058 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 08:05:06,261 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 08:05:06,452 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 08:05:06,648 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 08:05:06,648 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 08:05:06,648 - INFO - === Checking for fakeouts ===
+2026-01-03 08:05:06,673 - INFO - === Fakeout check complete ===
+2026-01-03 09:05:02,683 - INFO - === Starting 1h candle insertion at 2026-01-03 09:05:02.683140 UTC ===
+2026-01-03 09:05:05,323 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 09:05:05,515 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 09:05:05,696 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 09:05:05,886 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 09:05:06,075 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 09:05:06,264 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 09:05:06,442 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 09:05:06,442 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 09:05:06,442 - INFO - === Checking for fakeouts ===
+2026-01-03 09:05:06,499 - INFO - === Fakeout check complete ===
+2026-01-03 10:05:02,214 - INFO - === Starting 1h candle insertion at 2026-01-03 10:05:02.214446 UTC ===
+2026-01-03 10:05:05,910 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 10:05:06,107 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 10:05:06,297 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 10:05:06,474 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 10:05:06,665 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 10:05:06,863 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 10:05:07,054 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 10:05:07,055 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 10:05:07,055 - INFO - === Checking for fakeouts ===
+2026-01-03 10:05:07,086 - INFO - === Fakeout check complete ===
+2026-01-03 11:05:02,171 - INFO - === Starting 1h candle insertion at 2026-01-03 11:05:02.171537 UTC ===
+2026-01-03 11:05:05,010 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 11:05:05,208 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 11:05:05,392 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 11:05:05,587 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 11:05:05,785 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 11:05:05,973 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 11:05:06,162 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 11:05:06,162 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 11:05:06,162 - INFO - === Checking for fakeouts ===
+2026-01-03 11:05:06,183 - INFO - === Fakeout check complete ===
+2026-01-03 12:05:02,290 - INFO - === Starting 1h candle insertion at 2026-01-03 12:05:02.290279 UTC ===
+2026-01-03 12:05:05,401 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 12:05:05,594 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 12:05:05,779 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 12:05:05,970 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 12:05:06,177 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 12:05:06,382 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 12:05:06,577 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 12:05:06,577 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 12:05:06,577 - INFO - === Checking for fakeouts ===
+2026-01-03 12:05:06,600 - INFO - === Fakeout check complete ===
+2026-01-03 13:05:02,231 - INFO - === Starting 1h candle insertion at 2026-01-03 13:05:02.231256 UTC ===
+2026-01-03 13:05:05,091 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 13:05:05,294 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 13:05:05,480 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 13:05:05,665 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 13:05:05,854 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 13:05:06,043 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 13:05:06,228 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 13:05:06,229 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 13:05:06,229 - INFO - === Checking for fakeouts ===
+2026-01-03 13:05:06,251 - INFO - === Fakeout check complete ===
+2026-01-03 14:05:02,362 - INFO - === Starting 1h candle insertion at 2026-01-03 14:05:02.362845 UTC ===
+2026-01-03 14:05:07,073 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 14:05:07,437 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 14:05:07,762 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 14:05:07,953 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 14:05:08,202 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 14:05:08,647 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 14:05:09,037 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 14:05:09,037 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 14:05:09,037 - INFO - === Checking for fakeouts ===
+2026-01-03 14:05:09,061 - INFO - === Fakeout check complete ===
+2026-01-03 15:05:02,254 - INFO - === Starting 1h candle insertion at 2026-01-03 15:05:02.254250 UTC ===
+2026-01-03 15:05:04,915 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 15:05:05,110 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 15:05:05,303 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 15:05:05,507 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 15:05:05,704 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 15:05:05,895 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 15:05:06,092 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 15:05:06,093 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 15:05:06,093 - INFO - === Checking for fakeouts ===
+2026-01-03 15:05:06,114 - INFO - === Fakeout check complete ===
+2026-01-03 16:05:02,173 - INFO - === Starting 1h candle insertion at 2026-01-03 16:05:02.173969 UTC ===
+2026-01-03 16:05:05,236 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 16:05:05,423 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 16:05:05,605 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 16:05:05,804 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 16:05:06,015 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 16:05:06,196 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 16:05:06,380 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 16:05:06,380 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 16:05:06,380 - INFO - === Checking for fakeouts ===
+2026-01-03 16:05:06,401 - INFO - === Fakeout check complete ===
+2026-01-03 17:05:02,285 - INFO - === Starting 1h candle insertion at 2026-01-03 17:05:02.285213 UTC ===
+2026-01-03 17:05:05,118 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 17:05:05,312 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 17:05:05,506 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 17:05:05,711 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 17:05:05,906 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 17:05:06,095 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 17:05:06,292 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 17:05:06,292 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 17:05:06,292 - INFO - === Checking for fakeouts ===
+2026-01-03 17:05:06,317 - INFO - === Fakeout check complete ===
+2026-01-03 18:05:02,073 - INFO - === Starting 1h candle insertion at 2026-01-03 18:05:02.073381 UTC ===
+2026-01-03 18:05:05,165 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 18:05:05,408 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 18:05:05,689 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 18:05:05,880 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 18:05:06,065 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 18:05:06,277 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 18:05:06,482 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 18:05:06,483 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 18:05:06,483 - INFO - === Checking for fakeouts ===
+2026-01-03 18:05:06,506 - INFO - === Fakeout check complete ===
+2026-01-03 19:05:01,915 - INFO - === Starting 1h candle insertion at 2026-01-03 19:05:01.915915 UTC ===
+2026-01-03 19:05:05,196 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 19:05:05,501 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 19:05:05,747 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 19:05:05,939 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 19:05:06,160 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 19:05:06,348 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 19:05:06,548 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 19:05:06,549 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 19:05:06,549 - INFO - === Checking for fakeouts ===
+2026-01-03 19:05:06,575 - INFO - === Fakeout check complete ===
+2026-01-03 20:05:02,921 - INFO - === Starting 1h candle insertion at 2026-01-03 20:05:02.921849 UTC ===
+2026-01-03 20:05:06,114 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 20:05:06,307 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 20:05:06,491 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 20:05:06,699 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 20:05:06,888 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 20:05:07,071 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 20:05:07,247 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 20:05:07,247 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 20:05:07,247 - INFO - === Checking for fakeouts ===
+2026-01-03 20:05:07,897 - INFO - === Fakeout check complete ===
+2026-01-03 22:00:07,137 - INFO - === Starting 1h candle insertion at 2026-01-03 22:00:07.137796 UTC ===
+2026-01-03 22:00:09,812 - INFO - ✓ BTC/USDT 1h candle inserted
+2026-01-03 22:00:10,005 - INFO - ✓ ETH/USDT 1h candle inserted
+2026-01-03 22:00:10,208 - INFO - ✓ LTC/USDT 1h candle inserted
+2026-01-03 22:00:10,392 - INFO - ✓ XRP/USDT 1h candle inserted
+2026-01-03 22:00:10,585 - INFO - ✓ DOGE/USDT 1h candle inserted
+2026-01-03 22:00:10,767 - INFO - ✓ LINK/USDT 1h candle inserted
+2026-01-03 22:00:10,949 - INFO - ✓ ADA/USDT 1h candle inserted
+2026-01-03 22:00:10,950 - INFO - === 1h insertion complete: 7 success, 0 failed ===
+2026-01-03 22:00:10,950 - INFO - === Checking for fakeouts ===
+2026-01-03 22:00:11,515 - INFO - === Fakeout check complete ===

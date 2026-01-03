@@ -1,0 +1,2673 @@
+2026-01-02 22:06:17,637 - INFO - === Starting 5m candle insertion at 2026-01-02 22:06:17.637422 UTC ===
+2026-01-02 22:06:21,367 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:06:21,592 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:06:21,797 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:06:22,009 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:06:22,207 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:06:22,402 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:06:22,627 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:06:22,628 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:10:02,215 - INFO - === Starting 5m candle insertion at 2026-01-02 22:10:02.215554 UTC ===
+2026-01-02 22:10:06,121 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:10:06,311 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:10:06,510 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:10:06,741 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:10:06,975 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:10:07,175 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:10:07,431 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:10:07,431 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:15:02,440 - INFO - === Starting 5m candle insertion at 2026-01-02 22:15:02.440870 UTC ===
+2026-01-02 22:15:05,816 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:15:06,010 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:15:06,329 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:15:06,579 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:15:06,800 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:15:07,024 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:15:07,240 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:15:07,241 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:20:02,263 - INFO - === Starting 5m candle insertion at 2026-01-02 22:20:02.263905 UTC ===
+2026-01-02 22:20:08,914 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:20:09,470 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:20:09,769 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:20:09,999 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:20:10,239 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:20:10,475 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:20:10,734 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:20:10,735 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:25:02,738 - INFO - === Starting 5m candle insertion at 2026-01-02 22:25:02.738066 UTC ===
+2026-01-02 22:25:07,028 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:25:07,238 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:25:07,468 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:25:07,673 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:25:07,890 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:25:08,083 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:25:08,286 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:25:08,287 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:30:02,313 - INFO - === Starting 5m candle insertion at 2026-01-02 22:30:02.313232 UTC ===
+2026-01-02 22:30:10,777 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:30:10,993 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:30:11,176 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:30:11,390 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:30:11,666 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:30:11,876 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:30:12,077 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:30:12,078 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:35:02,076 - INFO - === Starting 5m candle insertion at 2026-01-02 22:35:02.076237 UTC ===
+2026-01-02 22:35:05,135 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:35:05,339 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:35:05,553 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:35:05,761 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:35:05,953 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:35:06,141 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:35:06,335 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:35:06,335 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:40:02,360 - INFO - === Starting 5m candle insertion at 2026-01-02 22:40:02.360659 UTC ===
+2026-01-02 22:40:05,575 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:40:05,765 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:40:05,946 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:40:06,137 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:40:06,338 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:40:06,532 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:40:06,723 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:40:06,724 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:45:02,734 - INFO - === Starting 5m candle insertion at 2026-01-02 22:45:02.734729 UTC ===
+2026-01-02 22:45:05,739 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:45:05,935 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:45:06,123 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:45:06,352 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:45:06,551 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:45:06,733 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:45:06,920 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:45:06,921 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:50:01,946 - INFO - === Starting 5m candle insertion at 2026-01-02 22:50:01.946123 UTC ===
+2026-01-02 22:50:05,198 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:50:05,388 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:50:05,587 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:50:05,777 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:50:05,978 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:50:06,173 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:50:06,375 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:50:06,375 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 22:55:02,377 - INFO - === Starting 5m candle insertion at 2026-01-02 22:55:02.377582 UTC ===
+2026-01-02 22:55:05,029 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 22:55:05,241 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 22:55:05,437 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 22:55:05,632 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 22:55:05,817 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 22:55:06,020 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 22:55:06,251 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 22:55:06,252 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:00:02,279 - INFO - === Starting 5m candle insertion at 2026-01-02 23:00:02.279127 UTC ===
+2026-01-02 23:00:05,110 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:00:05,307 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:00:05,509 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:00:05,705 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:00:05,889 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:00:06,092 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:00:06,429 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:00:06,429 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:05:02,469 - INFO - === Starting 5m candle insertion at 2026-01-02 23:05:02.469178 UTC ===
+2026-01-02 23:05:02,483 - INFO - === Starting 5m candle insertion at 2026-01-02 23:05:02.483036 UTC ===
+2026-01-02 23:05:06,319 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:05:06,320 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:05:06,515 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:05:06,515 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:05:06,714 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:05:06,715 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:05:06,912 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:05:06,912 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:05:07,308 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:05:07,322 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:05:07,838 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:05:07,839 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:05:08,038 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:05:08,038 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:05:08,044 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:05:08,044 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:10:02,119 - INFO - === Starting 5m candle insertion at 2026-01-02 23:10:02.119080 UTC ===
+2026-01-02 23:10:05,845 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:10:06,078 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:10:06,296 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:10:06,508 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:10:06,702 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:10:06,897 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:10:07,122 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:10:07,122 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:15:02,122 - INFO - === Starting 5m candle insertion at 2026-01-02 23:15:02.122377 UTC ===
+2026-01-02 23:15:06,029 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:15:06,282 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:15:06,468 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:15:06,676 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:15:06,865 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:15:07,078 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:15:07,273 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:15:07,274 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:20:02,299 - INFO - === Starting 5m candle insertion at 2026-01-02 23:20:02.299424 UTC ===
+2026-01-02 23:20:05,473 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:20:05,671 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:20:05,852 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:20:06,063 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:20:06,273 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:20:06,756 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:20:07,282 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:20:07,282 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:25:02,286 - INFO - === Starting 5m candle insertion at 2026-01-02 23:25:02.286863 UTC ===
+2026-01-02 23:25:07,101 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:25:07,298 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:25:07,485 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:25:07,673 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:25:07,869 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:25:08,100 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:25:08,289 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:25:08,289 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:30:02,312 - INFO - === Starting 5m candle insertion at 2026-01-02 23:30:02.312440 UTC ===
+2026-01-02 23:30:10,678 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:30:10,905 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:30:11,119 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:30:11,331 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:30:11,520 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:30:11,730 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:30:11,964 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:30:11,964 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:35:01,962 - INFO - === Starting 5m candle insertion at 2026-01-02 23:35:01.962173 UTC ===
+2026-01-02 23:35:05,016 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:35:05,234 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:35:05,435 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:35:05,634 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:35:05,819 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:35:06,004 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:35:06,192 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:35:06,193 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:40:02,234 - INFO - === Starting 5m candle insertion at 2026-01-02 23:40:02.234803 UTC ===
+2026-01-02 23:40:04,923 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:40:05,118 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:40:05,462 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:40:05,655 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:40:05,862 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:40:06,049 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:40:06,238 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:40:06,239 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:45:02,256 - INFO - === Starting 5m candle insertion at 2026-01-02 23:45:02.256871 UTC ===
+2026-01-02 23:45:05,902 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:45:06,104 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:45:06,283 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:45:06,477 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:45:06,677 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:45:06,893 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:45:07,110 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:45:07,111 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:50:02,146 - INFO - === Starting 5m candle insertion at 2026-01-02 23:50:02.146907 UTC ===
+2026-01-02 23:50:04,992 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:50:05,184 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:50:05,375 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:50:05,573 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:50:05,785 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:50:05,967 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:50:06,154 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:50:06,155 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-02 23:55:02,161 - INFO - === Starting 5m candle insertion at 2026-01-02 23:55:02.161725 UTC ===
+2026-01-02 23:55:10,134 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-02 23:55:10,332 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-02 23:55:10,544 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-02 23:55:10,752 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-02 23:55:11,011 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-02 23:55:11,205 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-02 23:55:11,409 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-02 23:55:11,410 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:00:02,444 - INFO - === Starting 5m candle insertion at 2026-01-03 00:00:02.444476 UTC ===
+2026-01-03 00:00:06,771 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:00:06,984 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:00:07,386 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:00:07,605 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:00:07,912 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:00:08,119 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:00:08,313 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:00:08,314 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:05:02,545 - INFO - === Starting 5m candle insertion at 2026-01-03 00:05:02.545876 UTC ===
+2026-01-03 00:05:02,550 - INFO - === Starting 5m candle insertion at 2026-01-03 00:05:02.550655 UTC ===
+2026-01-03 00:05:06,321 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:05:06,322 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:05:06,511 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:05:06,512 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:05:06,694 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:05:06,695 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:05:06,880 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:05:06,880 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:05:07,123 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:05:07,125 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:05:07,312 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:05:07,323 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:05:07,493 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:05:07,494 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:05:07,508 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:05:07,508 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:10:02,768 - INFO - === Starting 5m candle insertion at 2026-01-03 00:10:02.768948 UTC ===
+2026-01-03 00:10:05,693 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:10:05,887 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:10:06,074 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:10:06,274 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:10:06,560 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:10:06,750 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:10:07,376 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:10:07,376 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:15:02,372 - INFO - === Starting 5m candle insertion at 2026-01-03 00:15:02.372944 UTC ===
+2026-01-03 00:15:05,034 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:15:05,231 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:15:05,414 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:15:05,605 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:15:05,796 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:15:05,981 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:15:06,172 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:15:06,173 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:20:02,193 - INFO - === Starting 5m candle insertion at 2026-01-03 00:20:02.193049 UTC ===
+2026-01-03 00:20:05,308 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:20:05,511 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:20:05,695 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:20:05,886 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:20:06,078 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:20:06,365 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:20:06,606 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:20:06,606 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:25:02,609 - INFO - === Starting 5m candle insertion at 2026-01-03 00:25:02.609400 UTC ===
+2026-01-03 00:25:06,800 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:25:06,984 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:25:07,180 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:25:07,364 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:25:07,550 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:25:07,733 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:25:07,925 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:25:07,926 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:30:01,970 - INFO - === Starting 5m candle insertion at 2026-01-03 00:30:01.970023 UTC ===
+2026-01-03 00:30:04,852 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:30:05,073 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:30:05,267 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:30:05,472 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:30:05,669 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:30:05,861 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:30:06,052 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:30:06,052 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:35:02,053 - INFO - === Starting 5m candle insertion at 2026-01-03 00:35:02.053397 UTC ===
+2026-01-03 00:35:04,839 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:35:05,032 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:35:05,226 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:35:05,439 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:35:05,648 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:35:05,843 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:35:06,031 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:35:06,032 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:40:02,078 - INFO - === Starting 5m candle insertion at 2026-01-03 00:40:02.078595 UTC ===
+2026-01-03 00:40:05,802 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:40:06,057 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:40:06,246 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:40:06,428 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:40:06,619 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:40:06,807 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:40:06,993 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:40:06,993 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:45:02,001 - INFO - === Starting 5m candle insertion at 2026-01-03 00:45:02.001875 UTC ===
+2026-01-03 00:45:04,583 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:45:04,785 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:45:04,986 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:45:05,173 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:45:05,363 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:45:05,550 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:45:05,739 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:45:05,740 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:50:02,768 - INFO - === Starting 5m candle insertion at 2026-01-03 00:50:02.768626 UTC ===
+2026-01-03 00:50:05,811 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:50:06,005 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:50:06,216 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:50:06,502 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:50:06,802 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:50:06,991 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:50:07,238 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:50:07,238 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 00:55:02,237 - INFO - === Starting 5m candle insertion at 2026-01-03 00:55:02.237431 UTC ===
+2026-01-03 00:55:10,366 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 00:55:10,567 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 00:55:10,762 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 00:55:10,961 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 00:55:11,149 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 00:55:11,629 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 00:55:11,827 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 00:55:11,828 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:00:01,847 - INFO - === Starting 5m candle insertion at 2026-01-03 01:00:01.847133 UTC ===
+2026-01-03 01:00:05,044 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:00:05,233 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:00:05,413 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:00:05,606 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:00:05,802 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:00:05,986 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:00:06,179 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:00:06,179 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:05:02,238 - INFO - === Starting 5m candle insertion at 2026-01-03 01:05:02.237978 UTC ===
+2026-01-03 01:05:02,246 - INFO - === Starting 5m candle insertion at 2026-01-03 01:05:02.246728 UTC ===
+2026-01-03 01:05:05,863 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:05:06,055 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:05:06,239 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:05:06,383 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:05:06,585 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:05:06,711 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:05:06,770 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:05:06,965 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:05:07,191 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:05:07,381 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:05:07,448 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:05:07,575 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:05:07,576 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:05:07,625 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:05:07,795 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:05:07,795 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:10:02,811 - INFO - === Starting 5m candle insertion at 2026-01-03 01:10:02.811369 UTC ===
+2026-01-03 01:10:05,826 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:10:06,014 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:10:06,208 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:10:06,402 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:10:06,582 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:10:06,830 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:10:07,108 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:10:07,109 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:15:02,118 - INFO - === Starting 5m candle insertion at 2026-01-03 01:15:02.118719 UTC ===
+2026-01-03 01:15:04,979 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:15:05,169 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:15:05,350 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:15:05,565 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:15:06,051 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:15:06,240 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:15:06,432 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:15:06,433 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:20:02,464 - INFO - === Starting 5m candle insertion at 2026-01-03 01:20:02.464756 UTC ===
+2026-01-03 01:20:12,638 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:20:12,831 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:20:13,018 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:20:13,208 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:20:13,416 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:20:13,606 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:20:13,819 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:20:13,820 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:25:01,825 - INFO - === Starting 5m candle insertion at 2026-01-03 01:25:01.825755 UTC ===
+2026-01-03 01:25:05,781 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:25:05,972 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:25:06,210 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:25:06,401 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:25:06,605 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:25:06,792 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:25:06,998 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:25:06,999 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:30:02,023 - INFO - === Starting 5m candle insertion at 2026-01-03 01:30:02.022990 UTC ===
+2026-01-03 01:30:07,295 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:30:07,489 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:30:07,673 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:30:07,861 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:30:08,053 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:30:08,242 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:30:08,439 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:30:08,440 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:35:02,452 - INFO - === Starting 5m candle insertion at 2026-01-03 01:35:02.452628 UTC ===
+2026-01-03 01:35:05,188 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:35:05,413 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:35:05,619 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:35:05,808 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:35:05,996 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:35:06,196 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:35:06,406 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:35:06,406 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:40:02,433 - INFO - === Starting 5m candle insertion at 2026-01-03 01:40:02.433859 UTC ===
+2026-01-03 01:40:05,389 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:40:05,582 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:40:05,770 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:40:05,986 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:40:06,192 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:40:06,384 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:40:06,579 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:40:06,580 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:45:02,596 - INFO - === Starting 5m candle insertion at 2026-01-03 01:45:02.596412 UTC ===
+2026-01-03 01:45:10,873 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:45:11,077 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:45:11,273 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:45:11,476 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:45:11,670 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:45:11,859 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:45:12,048 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:45:12,049 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:50:02,065 - INFO - === Starting 5m candle insertion at 2026-01-03 01:50:02.065923 UTC ===
+2026-01-03 01:50:10,866 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:50:11,064 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:50:11,258 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:50:11,453 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:50:11,657 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:50:11,854 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:50:12,042 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:50:12,042 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 01:55:02,048 - INFO - === Starting 5m candle insertion at 2026-01-03 01:55:02.048083 UTC ===
+2026-01-03 01:55:05,550 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 01:55:05,751 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 01:55:05,930 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 01:55:06,121 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 01:55:06,320 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 01:55:06,503 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 01:55:06,696 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 01:55:06,697 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:00:02,712 - INFO - === Starting 5m candle insertion at 2026-01-03 02:00:02.712810 UTC ===
+2026-01-03 02:00:10,481 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:00:10,673 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:00:10,862 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:00:11,062 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:00:11,249 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:00:11,442 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:00:11,635 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:00:11,636 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:05:02,676 - INFO - === Starting 5m candle insertion at 2026-01-03 02:05:02.676899 UTC ===
+2026-01-03 02:05:02,678 - INFO - === Starting 5m candle insertion at 2026-01-03 02:05:02.678780 UTC ===
+2026-01-03 02:05:10,788 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:05:10,788 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:05:10,995 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:05:10,996 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:05:11,193 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:05:11,194 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:05:11,383 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:05:11,384 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:05:11,611 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:05:11,612 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:05:11,824 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:05:11,826 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:05:12,017 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:05:12,018 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:05:12,035 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:05:12,036 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:10:02,105 - INFO - === Starting 5m candle insertion at 2026-01-03 02:10:02.105714 UTC ===
+2026-01-03 02:10:05,261 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:10:05,493 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:10:05,683 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:10:05,908 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:10:06,109 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:10:06,299 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:10:06,489 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:10:06,490 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:15:02,501 - INFO - === Starting 5m candle insertion at 2026-01-03 02:15:02.501606 UTC ===
+2026-01-03 02:15:05,111 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:15:05,306 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:15:05,522 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:15:05,742 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:15:05,955 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:15:06,144 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:15:06,332 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:15:06,333 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:20:02,364 - INFO - === Starting 5m candle insertion at 2026-01-03 02:20:02.364955 UTC ===
+2026-01-03 02:20:05,168 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:20:05,370 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:20:05,565 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:20:06,062 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:20:06,253 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:20:06,449 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:20:06,659 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:20:06,659 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:25:02,657 - INFO - === Starting 5m candle insertion at 2026-01-03 02:25:02.657798 UTC ===
+2026-01-03 02:25:05,926 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:25:06,118 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:25:06,299 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:25:06,485 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:25:06,669 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:25:06,867 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:25:07,114 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:25:07,115 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:30:02,158 - INFO - === Starting 5m candle insertion at 2026-01-03 02:30:02.158217 UTC ===
+2026-01-03 02:30:05,718 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:30:05,918 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:30:06,107 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:30:06,294 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:30:06,493 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:30:06,688 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:30:07,175 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:30:07,175 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:35:02,180 - INFO - === Starting 5m candle insertion at 2026-01-03 02:35:02.180940 UTC ===
+2026-01-03 02:35:05,100 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:35:05,297 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:35:05,508 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:35:05,763 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:35:06,363 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:35:06,640 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:35:06,830 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:35:06,831 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:40:01,871 - INFO - === Starting 5m candle insertion at 2026-01-03 02:40:01.871838 UTC ===
+2026-01-03 02:40:04,887 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:40:05,206 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:40:05,499 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:40:05,733 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:40:05,960 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:40:06,164 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:40:06,362 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:40:06,363 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:45:02,372 - INFO - === Starting 5m candle insertion at 2026-01-03 02:45:02.372042 UTC ===
+2026-01-03 02:45:10,455 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:45:10,674 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:45:10,911 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:45:11,115 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:45:11,312 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:45:11,533 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:45:11,743 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:45:11,744 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:50:02,771 - INFO - === Starting 5m candle insertion at 2026-01-03 02:50:02.771065 UTC ===
+2026-01-03 02:50:06,334 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:50:06,535 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:50:06,758 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:50:06,960 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:50:07,291 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:50:07,667 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:50:07,871 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:50:07,871 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 02:55:01,871 - INFO - === Starting 5m candle insertion at 2026-01-03 02:55:01.871675 UTC ===
+2026-01-03 02:55:04,659 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 02:55:04,849 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 02:55:05,045 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 02:55:05,234 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 02:55:05,430 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 02:55:05,627 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 02:55:05,818 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 02:55:05,819 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:00:01,848 - INFO - === Starting 5m candle insertion at 2026-01-03 03:00:01.848498 UTC ===
+2026-01-03 03:00:05,730 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:00:05,941 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:00:06,242 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:00:06,422 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:00:06,798 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:00:07,026 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:00:07,241 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:00:07,242 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:05:02,305 - INFO - === Starting 5m candle insertion at 2026-01-03 03:05:02.305150 UTC ===
+2026-01-03 03:05:02,307 - INFO - === Starting 5m candle insertion at 2026-01-03 03:05:02.307027 UTC ===
+2026-01-03 03:05:05,393 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:05:05,393 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:05:05,594 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:05:05,595 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:05:05,791 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:05:05,792 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:05:05,983 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:05:05,984 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:05:06,179 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:05:06,180 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:05:06,366 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:05:06,367 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:05:06,566 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:05:06,567 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:05:06,568 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:05:06,569 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:10:02,659 - INFO - === Starting 5m candle insertion at 2026-01-03 03:10:02.659237 UTC ===
+2026-01-03 03:10:06,209 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:10:06,505 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:10:06,720 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:10:06,910 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:10:07,098 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:10:07,290 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:10:07,477 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:10:07,477 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:15:02,485 - INFO - === Starting 5m candle insertion at 2026-01-03 03:15:02.485240 UTC ===
+2026-01-03 03:15:05,337 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:15:05,534 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:15:05,720 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:15:05,911 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:15:06,118 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:15:06,306 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:15:06,507 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:15:06,508 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:20:02,540 - INFO - === Starting 5m candle insertion at 2026-01-03 03:20:02.540225 UTC ===
+2026-01-03 03:20:05,481 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:20:05,696 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:20:05,896 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:20:06,098 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:20:06,295 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:20:06,493 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:20:06,682 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:20:06,683 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:25:02,682 - INFO - === Starting 5m candle insertion at 2026-01-03 03:25:02.682898 UTC ===
+2026-01-03 03:25:05,768 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:25:05,982 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:25:06,178 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:25:06,381 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:25:06,566 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:25:06,755 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:25:06,956 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:25:06,957 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:30:01,983 - INFO - === Starting 5m candle insertion at 2026-01-03 03:30:01.983959 UTC ===
+2026-01-03 03:30:05,861 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:30:06,070 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:30:06,313 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:30:06,547 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:30:06,755 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:30:06,960 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:30:07,169 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:30:07,170 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:35:02,186 - INFO - === Starting 5m candle insertion at 2026-01-03 03:35:02.186858 UTC ===
+2026-01-03 03:35:05,533 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:35:05,736 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:35:06,033 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:35:06,250 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:35:06,488 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:35:06,689 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:35:06,871 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:35:06,871 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:40:01,892 - INFO - === Starting 5m candle insertion at 2026-01-03 03:40:01.892675 UTC ===
+2026-01-03 03:40:04,696 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:40:04,892 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:40:05,080 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:40:05,275 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:40:05,477 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:40:05,656 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:40:05,849 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:40:05,850 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:45:01,855 - INFO - === Starting 5m candle insertion at 2026-01-03 03:45:01.855716 UTC ===
+2026-01-03 03:45:05,757 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:45:05,946 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:45:06,136 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:45:06,365 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:45:06,556 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:45:06,742 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:45:06,932 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:45:06,933 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:50:01,948 - INFO - === Starting 5m candle insertion at 2026-01-03 03:50:01.948524 UTC ===
+2026-01-03 03:50:07,658 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:50:07,961 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:50:08,186 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:50:08,498 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:50:08,882 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:50:09,589 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:50:09,805 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:50:09,806 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 03:55:01,834 - INFO - === Starting 5m candle insertion at 2026-01-03 03:55:01.834976 UTC ===
+2026-01-03 03:55:09,651 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 03:55:09,854 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 03:55:10,041 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 03:55:10,268 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 03:55:10,532 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 03:55:10,744 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 03:55:10,934 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 03:55:10,935 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:00:01,965 - INFO - === Starting 5m candle insertion at 2026-01-03 04:00:01.965328 UTC ===
+2026-01-03 04:00:06,779 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:00:06,976 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:00:07,187 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:00:07,379 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:00:07,573 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:00:07,754 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:00:07,950 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:00:07,950 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:02,123 - INFO - === Starting 5m candle insertion at 2026-01-03 04:05:02.123690 UTC ===
+2026-01-03 04:05:05,189 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:05:05,393 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:05:05,597 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:05:05,809 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:05:05,997 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:05:06,224 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:05:06,405 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:05:06,405 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:10:02,661 - INFO - === Starting 5m candle insertion at 2026-01-03 04:10:02.661435 UTC ===
+2026-01-03 04:10:06,378 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:10:06,604 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:10:06,803 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:10:07,000 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:10:07,192 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:10:07,384 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:10:07,579 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:10:07,579 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:15:02,587 - INFO - === Starting 5m candle insertion at 2026-01-03 04:15:02.587506 UTC ===
+2026-01-03 04:15:06,320 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:15:06,533 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:15:06,723 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:15:06,923 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:15:07,105 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:15:07,296 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:15:07,507 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:15:07,508 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:20:02,524 - INFO - === Starting 5m candle insertion at 2026-01-03 04:20:02.524874 UTC ===
+2026-01-03 04:20:05,636 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:20:05,836 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:20:06,055 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:20:06,266 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:20:06,462 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:20:06,643 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:20:06,830 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:20:06,830 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:25:01,840 - INFO - === Starting 5m candle insertion at 2026-01-03 04:25:01.840655 UTC ===
+2026-01-03 04:25:05,193 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:25:05,389 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:25:05,577 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:25:05,764 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:25:05,952 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:25:06,130 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:25:06,320 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:25:06,321 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:30:02,353 - INFO - === Starting 5m candle insertion at 2026-01-03 04:30:02.353194 UTC ===
+2026-01-03 04:30:07,141 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:30:07,344 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:30:07,528 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:30:07,741 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:30:07,936 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:30:08,144 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:30:08,346 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:30:08,347 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:35:02,372 - INFO - === Starting 5m candle insertion at 2026-01-03 04:35:02.371990 UTC ===
+2026-01-03 04:35:05,644 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:35:05,836 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:35:06,077 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:35:06,340 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:35:06,532 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:35:06,742 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:35:06,940 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:35:06,941 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:40:01,964 - INFO - === Starting 5m candle insertion at 2026-01-03 04:40:01.964410 UTC ===
+2026-01-03 04:40:04,638 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:40:04,836 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:40:05,017 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:40:05,271 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:40:05,463 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:40:05,656 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:40:05,845 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:40:05,846 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:45:01,869 - INFO - === Starting 5m candle insertion at 2026-01-03 04:45:01.869014 UTC ===
+2026-01-03 04:45:04,577 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:45:04,768 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:45:04,956 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:45:05,149 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:45:05,357 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:45:05,540 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:45:05,736 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:45:05,736 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:50:02,758 - INFO - === Starting 5m candle insertion at 2026-01-03 04:50:02.758733 UTC ===
+2026-01-03 04:50:05,949 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:50:06,146 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:50:06,341 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:50:06,634 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:50:06,818 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:50:07,016 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:50:07,210 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:50:07,210 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 04:55:02,216 - INFO - === Starting 5m candle insertion at 2026-01-03 04:55:02.216174 UTC ===
+2026-01-03 04:55:05,105 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 04:55:05,297 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 04:55:05,527 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 04:55:05,720 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 04:55:05,909 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 04:55:06,092 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 04:55:06,287 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 04:55:06,287 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:00:02,305 - INFO - === Starting 5m candle insertion at 2026-01-03 05:00:02.305372 UTC ===
+2026-01-03 05:00:05,030 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:00:05,222 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:00:05,402 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:00:05,601 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:00:05,790 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:00:05,974 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:00:06,182 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:00:06,183 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:05:02,240 - INFO - === Starting 5m candle insertion at 2026-01-03 05:05:02.240046 UTC ===
+2026-01-03 05:05:05,236 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:05:05,450 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:05:05,634 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:05:05,836 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:05:06,071 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:05:06,271 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:05:06,455 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:05:06,456 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:10:02,054 - INFO - === Starting 5m candle insertion at 2026-01-03 05:10:02.054756 UTC ===
+2026-01-03 05:10:04,899 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:10:05,091 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:10:05,283 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:10:05,474 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:10:05,663 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:10:05,860 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:10:06,051 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:10:06,052 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:15:02,075 - INFO - === Starting 5m candle insertion at 2026-01-03 05:15:02.075520 UTC ===
+2026-01-03 05:15:05,275 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:15:05,481 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:15:05,671 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:15:05,867 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:15:06,060 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:15:06,263 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:15:06,470 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:15:06,471 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:20:02,509 - INFO - === Starting 5m candle insertion at 2026-01-03 05:20:02.509485 UTC ===
+2026-01-03 05:20:05,666 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:20:05,855 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:20:06,038 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:20:06,231 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:20:06,439 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:20:06,641 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:20:06,826 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:20:06,827 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:25:01,827 - INFO - === Starting 5m candle insertion at 2026-01-03 05:25:01.827971 UTC ===
+2026-01-03 05:25:05,199 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:25:05,396 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:25:05,575 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:25:05,774 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:25:05,967 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:25:06,152 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:25:06,341 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:25:06,341 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:30:02,360 - INFO - === Starting 5m candle insertion at 2026-01-03 05:30:02.360924 UTC ===
+2026-01-03 05:30:05,117 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:30:05,310 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:30:05,495 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:30:05,714 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:30:05,907 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:30:06,092 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:30:06,289 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:30:06,289 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:35:02,301 - INFO - === Starting 5m candle insertion at 2026-01-03 05:35:02.300991 UTC ===
+2026-01-03 05:35:06,763 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:35:07,010 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:35:07,212 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:35:07,404 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:35:07,624 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:35:07,897 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:35:08,390 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:35:08,390 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:40:02,408 - INFO - === Starting 5m candle insertion at 2026-01-03 05:40:02.408001 UTC ===
+2026-01-03 05:40:05,833 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:40:06,059 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:40:06,244 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:40:06,462 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:40:06,640 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:40:06,839 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:40:07,040 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:40:07,041 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:45:02,044 - INFO - === Starting 5m candle insertion at 2026-01-03 05:45:02.044942 UTC ===
+2026-01-03 05:45:05,512 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:45:05,713 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:45:05,915 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:45:06,124 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:45:06,633 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:45:06,822 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:45:07,025 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:45:07,026 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:50:02,049 - INFO - === Starting 5m candle insertion at 2026-01-03 05:50:02.049691 UTC ===
+2026-01-03 05:50:05,578 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:50:05,766 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:50:05,970 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:50:06,153 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:50:06,363 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:50:06,552 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:50:06,741 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:50:06,741 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 05:55:02,755 - INFO - === Starting 5m candle insertion at 2026-01-03 05:55:02.755357 UTC ===
+2026-01-03 05:55:06,038 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 05:55:06,231 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 05:55:06,441 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 05:55:06,660 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 05:55:07,149 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 05:55:07,341 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 05:55:07,542 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 05:55:07,543 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:00:02,564 - INFO - === Starting 5m candle insertion at 2026-01-03 06:00:02.564747 UTC ===
+2026-01-03 06:00:07,201 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:00:07,401 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:00:07,882 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:00:08,073 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:00:08,262 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:00:08,459 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:00:08,670 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:00:08,670 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:05:02,717 - INFO - === Starting 5m candle insertion at 2026-01-03 06:05:02.717462 UTC ===
+2026-01-03 06:05:05,720 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:05:05,912 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:05:06,106 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:05:06,304 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:05:06,491 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:05:06,685 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:05:06,869 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:05:06,869 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:10:01,945 - INFO - === Starting 5m candle insertion at 2026-01-03 06:10:01.945953 UTC ===
+2026-01-03 06:10:07,257 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:10:07,627 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:10:09,527 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:10:10,217 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:10:10,406 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:10:10,604 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:10:10,786 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:10:10,787 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:15:02,788 - INFO - === Starting 5m candle insertion at 2026-01-03 06:15:02.788197 UTC ===
+2026-01-03 06:15:21,727 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:15:22,646 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:15:23,238 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:15:23,537 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:15:23,792 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:15:27,408 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:15:27,680 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:15:27,681 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:20:02,712 - INFO - === Starting 5m candle insertion at 2026-01-03 06:20:02.712684 UTC ===
+2026-01-03 06:20:05,879 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:20:06,085 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:20:06,286 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:20:06,488 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:20:06,684 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:20:06,868 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:20:07,072 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:20:07,073 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:25:02,084 - INFO - === Starting 5m candle insertion at 2026-01-03 06:25:02.084492 UTC ===
+2026-01-03 06:25:06,326 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:25:06,566 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:25:06,766 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:25:06,968 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:25:07,273 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:25:07,804 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:25:08,105 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:25:08,106 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:30:02,131 - INFO - === Starting 5m candle insertion at 2026-01-03 06:30:02.131438 UTC ===
+2026-01-03 06:30:05,239 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:30:05,429 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:30:05,609 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:30:05,813 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:30:06,287 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:30:06,491 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:30:06,687 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:30:06,688 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:35:02,690 - INFO - === Starting 5m candle insertion at 2026-01-03 06:35:02.690810 UTC ===
+2026-01-03 06:35:07,962 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:35:08,192 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:35:08,376 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:35:08,585 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:35:08,780 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:35:08,987 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:35:09,198 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:35:09,199 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:40:02,212 - INFO - === Starting 5m candle insertion at 2026-01-03 06:40:02.212701 UTC ===
+2026-01-03 06:40:05,023 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:40:05,213 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:40:05,398 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:40:05,599 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:40:05,807 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:40:06,001 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:40:06,225 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:40:06,225 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:45:02,224 - INFO - === Starting 5m candle insertion at 2026-01-03 06:45:02.224516 UTC ===
+2026-01-03 06:45:06,792 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:45:07,728 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:45:07,925 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:45:08,137 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:45:08,335 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:45:08,526 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:45:08,722 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:45:08,723 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:50:02,739 - INFO - === Starting 5m candle insertion at 2026-01-03 06:50:02.739660 UTC ===
+2026-01-03 06:50:05,663 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:50:05,848 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:50:06,223 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:50:06,407 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:50:06,619 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:50:06,825 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:50:07,031 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:50:07,032 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 06:55:02,030 - INFO - === Starting 5m candle insertion at 2026-01-03 06:55:02.030642 UTC ===
+2026-01-03 06:55:07,008 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 06:55:07,406 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 06:55:07,648 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 06:55:08,088 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 06:55:08,292 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 06:55:08,551 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 06:55:09,023 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 06:55:09,023 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:00:02,050 - INFO - === Starting 5m candle insertion at 2026-01-03 07:00:02.050233 UTC ===
+2026-01-03 07:00:10,628 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:00:10,842 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:00:11,033 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:00:11,254 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:00:11,623 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:00:12,305 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:00:12,963 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:00:12,963 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:05:02,059 - INFO - === Starting 5m candle insertion at 2026-01-03 07:05:02.059161 UTC ===
+2026-01-03 07:05:06,229 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:05:06,424 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:05:06,608 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:05:06,886 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:05:07,107 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:05:07,299 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:05:07,496 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:05:07,497 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:10:02,102 - INFO - === Starting 5m candle insertion at 2026-01-03 07:10:02.102890 UTC ===
+2026-01-03 07:10:05,196 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:10:05,389 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:10:05,568 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:10:05,754 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:10:05,950 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:10:06,156 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:10:06,354 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:10:06,354 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:15:02,353 - INFO - === Starting 5m candle insertion at 2026-01-03 07:15:02.353010 UTC ===
+2026-01-03 07:15:06,909 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:15:07,306 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:15:07,497 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:15:07,685 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:15:07,871 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:15:08,066 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:15:08,257 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:15:08,257 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:20:02,294 - INFO - === Starting 5m candle insertion at 2026-01-03 07:20:02.294214 UTC ===
+2026-01-03 07:20:05,703 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:20:05,906 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:20:06,127 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:20:06,323 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:20:06,521 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:20:06,728 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:20:06,936 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:20:06,937 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:25:01,954 - INFO - === Starting 5m candle insertion at 2026-01-03 07:25:01.954433 UTC ===
+2026-01-03 07:25:05,386 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:25:05,586 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:25:05,776 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:25:05,964 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:25:06,154 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:25:06,346 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:25:06,537 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:25:06,538 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:30:02,569 - INFO - === Starting 5m candle insertion at 2026-01-03 07:30:02.568991 UTC ===
+2026-01-03 07:30:06,937 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:30:07,129 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:30:07,313 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:30:07,505 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:30:07,711 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:30:07,930 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:30:08,148 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:30:08,148 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:35:02,153 - INFO - === Starting 5m candle insertion at 2026-01-03 07:35:02.153761 UTC ===
+2026-01-03 07:35:16,876 - ERROR - ✗ BTC/USDT 5m failed: binance GET https://api.binance.com/api/v3/exchangeInfo
+2026-01-03 07:35:42,312 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:35:51,588 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:35:51,807 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:35:52,007 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:35:52,211 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:35:52,452 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:35:52,453 - INFO - === 5m insertion complete: 6 success, 1 failed ===
+2026-01-03 07:40:02,473 - INFO - === Starting 5m candle insertion at 2026-01-03 07:40:02.473959 UTC ===
+2026-01-03 07:40:05,213 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:40:05,412 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:40:05,597 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:40:05,788 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:40:05,994 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:40:06,175 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:40:06,370 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:40:06,371 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:45:02,389 - INFO - === Starting 5m candle insertion at 2026-01-03 07:45:02.389187 UTC ===
+2026-01-03 07:45:05,103 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:45:05,311 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:45:05,496 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:45:05,690 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:45:05,882 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:45:06,071 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:45:06,273 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:45:06,273 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:50:02,286 - INFO - === Starting 5m candle insertion at 2026-01-03 07:50:02.286538 UTC ===
+2026-01-03 07:50:05,012 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:50:05,201 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:50:05,396 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:50:05,592 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:50:05,792 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:50:05,989 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:50:06,185 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:50:06,186 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 07:55:02,188 - INFO - === Starting 5m candle insertion at 2026-01-03 07:55:02.188315 UTC ===
+2026-01-03 07:55:04,792 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 07:55:04,997 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 07:55:05,195 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 07:55:05,384 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 07:55:05,585 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 07:55:05,774 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 07:55:05,969 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 07:55:05,969 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:00:02,013 - INFO - === Starting 5m candle insertion at 2026-01-03 08:00:02.013862 UTC ===
+2026-01-03 08:00:05,222 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:00:05,416 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:00:05,605 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:00:05,800 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:00:05,995 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:00:06,191 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:00:06,378 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:00:06,379 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:05:02,564 - INFO - === Starting 5m candle insertion at 2026-01-03 08:05:02.564772 UTC ===
+2026-01-03 08:05:06,063 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:05:06,261 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:05:06,452 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:05:06,649 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:05:06,842 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:05:07,026 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:05:07,234 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:05:07,234 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:10:02,272 - INFO - === Starting 5m candle insertion at 2026-01-03 08:10:02.272308 UTC ===
+2026-01-03 08:10:05,028 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:10:05,218 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:10:05,421 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:10:05,621 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:10:05,810 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:10:06,006 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:10:06,196 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:10:06,197 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:15:02,208 - INFO - === Starting 5m candle insertion at 2026-01-03 08:15:02.208195 UTC ===
+2026-01-03 08:15:05,742 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:15:06,222 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:15:06,409 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:15:06,597 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:15:06,789 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:15:06,987 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:15:07,226 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:15:07,226 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:20:02,252 - INFO - === Starting 5m candle insertion at 2026-01-03 08:20:02.252828 UTC ===
+2026-01-03 08:20:04,924 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:20:05,120 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:20:05,306 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:20:05,502 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:20:05,698 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:20:05,880 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:20:06,066 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:20:06,067 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:25:02,073 - INFO - === Starting 5m candle insertion at 2026-01-03 08:25:02.072981 UTC ===
+2026-01-03 08:25:04,714 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:25:04,917 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:25:05,153 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:25:05,348 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:25:05,539 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:25:05,730 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:25:05,935 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:25:05,936 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:30:01,970 - INFO - === Starting 5m candle insertion at 2026-01-03 08:30:01.970346 UTC ===
+2026-01-03 08:30:04,588 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:30:04,787 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:30:04,985 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:30:05,200 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:30:05,401 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:30:05,582 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:30:05,778 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:30:05,778 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:35:02,791 - INFO - === Starting 5m candle insertion at 2026-01-03 08:35:02.790997 UTC ===
+2026-01-03 08:35:05,327 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:35:05,527 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:35:05,712 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:35:05,911 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:35:06,103 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:35:06,288 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:35:06,481 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:35:06,482 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:40:02,504 - INFO - === Starting 5m candle insertion at 2026-01-03 08:40:02.504491 UTC ===
+2026-01-03 08:40:05,135 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:40:05,327 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:40:05,522 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:40:05,711 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:40:05,900 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:40:06,084 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:40:06,288 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:40:06,289 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:45:02,304 - INFO - === Starting 5m candle insertion at 2026-01-03 08:45:02.304196 UTC ===
+2026-01-03 08:45:05,366 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:45:05,574 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:45:05,769 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:45:05,970 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:45:06,159 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:45:06,339 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:45:06,527 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:45:06,528 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:50:02,562 - INFO - === Starting 5m candle insertion at 2026-01-03 08:50:02.562622 UTC ===
+2026-01-03 08:50:05,764 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:50:05,951 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:50:06,164 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:50:06,368 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:50:06,855 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:50:07,331 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:50:07,520 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:50:07,520 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 08:55:02,526 - INFO - === Starting 5m candle insertion at 2026-01-03 08:55:02.526735 UTC ===
+2026-01-03 08:55:05,138 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 08:55:05,336 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 08:55:05,535 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 08:55:05,731 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 08:55:05,919 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 08:55:06,108 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 08:55:06,297 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 08:55:06,298 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:00:02,328 - INFO - === Starting 5m candle insertion at 2026-01-03 09:00:02.328814 UTC ===
+2026-01-03 09:00:05,457 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:00:05,650 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:00:05,830 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:00:06,028 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:00:06,242 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:00:06,438 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:00:06,623 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:00:06,624 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:05:02,696 - INFO - === Starting 5m candle insertion at 2026-01-03 09:05:02.696919 UTC ===
+2026-01-03 09:05:05,403 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:05:05,598 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:05:05,781 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:05:05,972 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:05:06,168 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:05:06,404 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:05:06,580 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:05:06,580 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:10:02,632 - INFO - === Starting 5m candle insertion at 2026-01-03 09:10:02.632169 UTC ===
+2026-01-03 09:10:05,595 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:10:05,797 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:10:05,995 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:10:06,183 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:10:06,371 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:10:06,568 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:10:06,760 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:10:06,761 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:15:02,760 - INFO - === Starting 5m candle insertion at 2026-01-03 09:15:02.760498 UTC ===
+2026-01-03 09:15:05,810 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:15:06,015 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:15:06,198 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:15:06,385 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:15:06,581 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:15:06,762 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:15:06,963 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:15:06,964 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:20:01,995 - INFO - === Starting 5m candle insertion at 2026-01-03 09:20:01.995697 UTC ===
+2026-01-03 09:20:05,599 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:20:05,796 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:20:05,980 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:20:06,188 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:20:06,383 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:20:06,579 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:20:06,772 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:20:06,773 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:25:02,779 - INFO - === Starting 5m candle insertion at 2026-01-03 09:25:02.779225 UTC ===
+2026-01-03 09:25:06,035 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:25:06,222 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:25:06,413 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:25:06,601 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:25:06,790 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:25:06,986 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:25:07,180 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:25:07,180 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:30:02,199 - INFO - === Starting 5m candle insertion at 2026-01-03 09:30:02.199751 UTC ===
+2026-01-03 09:30:04,927 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:30:05,419 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:30:05,606 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:30:05,806 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:30:05,993 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:30:06,182 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:30:06,373 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:30:06,374 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:35:02,373 - INFO - === Starting 5m candle insertion at 2026-01-03 09:35:02.373379 UTC ===
+2026-01-03 09:35:06,209 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:35:06,402 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:35:06,587 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:35:06,779 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:35:06,990 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:35:07,174 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:35:07,356 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:35:07,356 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:40:02,372 - INFO - === Starting 5m candle insertion at 2026-01-03 09:40:02.372850 UTC ===
+2026-01-03 09:40:05,242 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:40:05,440 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:40:05,622 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:40:05,814 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:40:06,023 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:40:06,218 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:40:06,404 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:40:06,404 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:45:02,418 - INFO - === Starting 5m candle insertion at 2026-01-03 09:45:02.418844 UTC ===
+2026-01-03 09:45:05,050 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:45:05,524 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:45:05,722 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:45:05,926 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:45:06,137 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:45:06,340 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:45:06,540 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:45:06,540 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:50:02,561 - INFO - === Starting 5m candle insertion at 2026-01-03 09:50:02.561201 UTC ===
+2026-01-03 09:50:05,429 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:50:05,619 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:50:05,804 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:50:06,003 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:50:06,195 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:50:06,376 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:50:06,568 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:50:06,569 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 09:55:02,570 - INFO - === Starting 5m candle insertion at 2026-01-03 09:55:02.570681 UTC ===
+2026-01-03 09:55:05,378 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 09:55:05,576 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 09:55:05,759 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 09:55:05,950 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 09:55:06,153 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 09:55:06,346 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 09:55:06,544 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 09:55:06,545 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:00:02,560 - INFO - === Starting 5m candle insertion at 2026-01-03 10:00:02.560737 UTC ===
+2026-01-03 10:00:05,430 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:00:05,621 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:00:05,812 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:00:06,007 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:00:06,497 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:00:06,691 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:00:07,169 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:00:07,169 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:05:02,227 - INFO - === Starting 5m candle insertion at 2026-01-03 10:05:02.227562 UTC ===
+2026-01-03 10:05:06,074 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:05:06,277 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:05:06,469 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:05:06,657 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:05:06,862 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:05:07,045 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:05:07,530 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:05:07,530 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:10:02,538 - INFO - === Starting 5m candle insertion at 2026-01-03 10:10:02.538567 UTC ===
+2026-01-03 10:10:05,222 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:10:05,425 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:10:05,624 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:10:05,815 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:10:06,017 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:10:06,201 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:10:06,397 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:10:06,398 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:15:02,398 - INFO - === Starting 5m candle insertion at 2026-01-03 10:15:02.398851 UTC ===
+2026-01-03 10:15:05,030 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:15:05,226 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:15:05,416 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:15:05,617 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:15:05,809 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:15:06,006 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:15:06,202 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:15:06,203 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:20:02,225 - INFO - === Starting 5m candle insertion at 2026-01-03 10:20:02.225749 UTC ===
+2026-01-03 10:20:05,237 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:20:05,439 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:20:05,635 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:20:05,825 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:20:06,013 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:20:06,212 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:20:06,399 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:20:06,399 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:25:02,418 - INFO - === Starting 5m candle insertion at 2026-01-03 10:25:02.418927 UTC ===
+2026-01-03 10:25:05,218 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:25:05,407 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:25:05,594 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:25:05,785 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:25:05,988 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:25:06,183 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:25:06,370 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:25:06,371 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:30:02,385 - INFO - === Starting 5m candle insertion at 2026-01-03 10:30:02.385444 UTC ===
+2026-01-03 10:30:05,532 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:30:05,730 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:30:05,913 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:30:06,105 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:30:06,294 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:30:06,477 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:30:06,667 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:30:06,668 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:35:02,686 - INFO - === Starting 5m candle insertion at 2026-01-03 10:35:02.686716 UTC ===
+2026-01-03 10:35:07,668 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:35:07,884 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:35:08,066 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:35:08,269 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:35:08,463 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:35:08,656 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:35:08,858 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:35:08,858 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:40:01,895 - INFO - === Starting 5m candle insertion at 2026-01-03 10:40:01.894993 UTC ===
+2026-01-03 10:40:05,185 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:40:05,385 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:40:05,578 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:40:05,767 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:40:05,974 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:40:06,169 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:40:06,370 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:40:06,371 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:45:02,386 - INFO - === Starting 5m candle insertion at 2026-01-03 10:45:02.386131 UTC ===
+2026-01-03 10:45:05,071 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:45:05,259 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:45:05,445 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:45:05,643 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:45:05,832 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:45:06,022 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:45:06,210 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:45:06,211 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:50:02,225 - INFO - === Starting 5m candle insertion at 2026-01-03 10:50:02.225259 UTC ===
+2026-01-03 10:50:05,016 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:50:05,209 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:50:05,403 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:50:05,594 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:50:05,783 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:50:05,970 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:50:06,163 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:50:06,164 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 10:55:02,163 - INFO - === Starting 5m candle insertion at 2026-01-03 10:55:02.163369 UTC ===
+2026-01-03 10:55:04,990 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 10:55:05,177 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 10:55:05,367 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 10:55:05,559 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 10:55:05,745 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 10:55:05,933 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 10:55:06,131 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 10:55:06,132 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:00:02,150 - INFO - === Starting 5m candle insertion at 2026-01-03 11:00:02.150389 UTC ===
+2026-01-03 11:00:04,882 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:00:05,085 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:00:05,283 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:00:05,489 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:00:05,702 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:00:05,905 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:00:06,113 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:00:06,113 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:05:02,163 - INFO - === Starting 5m candle insertion at 2026-01-03 11:05:02.163078 UTC ===
+2026-01-03 11:05:05,008 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:05:05,204 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:05:05,391 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:05:05,581 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:05:05,771 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:05:05,957 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:05:06,156 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:05:06,156 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:10:02,267 - INFO - === Starting 5m candle insertion at 2026-01-03 11:10:02.267576 UTC ===
+2026-01-03 11:10:10,325 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:10:10,517 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:10:10,713 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:10:10,907 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:10:11,123 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:10:11,320 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:10:11,514 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:10:11,514 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:15:02,526 - INFO - === Starting 5m candle insertion at 2026-01-03 11:15:02.526388 UTC ===
+2026-01-03 11:15:05,770 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:15:05,961 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:15:06,159 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:15:06,346 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:15:06,536 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:15:06,726 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:15:06,916 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:15:06,916 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:20:01,951 - INFO - === Starting 5m candle insertion at 2026-01-03 11:20:01.951971 UTC ===
+2026-01-03 11:20:04,989 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:20:05,208 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:20:05,393 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:20:05,588 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:20:05,790 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:20:05,978 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:20:06,169 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:20:06,170 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:25:02,181 - INFO - === Starting 5m candle insertion at 2026-01-03 11:25:02.181745 UTC ===
+2026-01-03 11:25:05,235 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:25:05,433 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:25:05,617 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:25:05,811 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:25:06,000 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:25:06,186 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:25:06,381 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:25:06,382 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:30:02,411 - INFO - === Starting 5m candle insertion at 2026-01-03 11:30:02.411213 UTC ===
+2026-01-03 11:30:05,238 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:30:05,438 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:30:05,633 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:30:05,844 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:30:06,042 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:30:06,533 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:30:06,731 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:30:06,732 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:35:02,744 - INFO - === Starting 5m candle insertion at 2026-01-03 11:35:02.744428 UTC ===
+2026-01-03 11:35:05,916 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:35:06,105 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:35:06,287 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:35:06,477 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:35:06,669 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:35:06,858 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:35:07,043 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:35:07,044 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:40:02,058 - INFO - === Starting 5m candle insertion at 2026-01-03 11:40:02.058544 UTC ===
+2026-01-03 11:40:04,514 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:40:04,708 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:40:04,891 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:40:05,082 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:40:05,277 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:40:05,456 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:40:05,649 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:40:05,650 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:45:02,659 - INFO - === Starting 5m candle insertion at 2026-01-03 11:45:02.659185 UTC ===
+2026-01-03 11:45:05,791 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:45:05,979 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:45:06,177 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:45:06,366 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:45:06,567 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:45:06,759 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:45:06,953 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:45:06,953 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:50:01,971 - INFO - === Starting 5m candle insertion at 2026-01-03 11:50:01.971394 UTC ===
+2026-01-03 11:50:05,032 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:50:05,233 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:50:05,421 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:50:05,622 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:50:05,803 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:50:06,290 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:50:06,507 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:50:06,507 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 11:55:02,516 - INFO - === Starting 5m candle insertion at 2026-01-03 11:55:02.516594 UTC ===
+2026-01-03 11:55:05,649 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 11:55:05,845 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 11:55:06,030 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 11:55:06,223 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 11:55:06,416 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 11:55:06,609 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 11:55:06,811 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 11:55:06,812 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:00:01,832 - INFO - === Starting 5m candle insertion at 2026-01-03 12:00:01.832430 UTC ===
+2026-01-03 12:00:05,006 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:00:05,195 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:00:05,379 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:00:05,566 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:00:05,767 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:00:05,950 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:00:06,144 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:00:06,145 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:05:02,325 - INFO - === Starting 5m candle insertion at 2026-01-03 12:05:02.325740 UTC ===
+2026-01-03 12:05:05,402 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:05:05,600 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:05:05,781 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:05:05,970 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:05:06,176 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:05:06,381 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:05:06,576 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:05:06,576 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:10:02,748 - INFO - === Starting 5m candle insertion at 2026-01-03 12:10:02.748948 UTC ===
+2026-01-03 12:10:05,924 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:10:06,115 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:10:06,296 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:10:06,489 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:10:06,682 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:10:06,873 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:10:07,062 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:10:07,062 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:15:02,074 - INFO - === Starting 5m candle insertion at 2026-01-03 12:15:02.074166 UTC ===
+2026-01-03 12:15:04,839 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:15:05,034 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:15:05,221 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:15:05,412 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:15:05,606 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:15:05,795 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:15:05,987 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:15:05,988 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:20:02,020 - INFO - === Starting 5m candle insertion at 2026-01-03 12:20:02.020558 UTC ===
+2026-01-03 12:20:04,819 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:20:05,014 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:20:05,197 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:20:05,387 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:20:05,589 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:20:05,784 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:20:05,995 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:20:05,996 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:25:01,998 - INFO - === Starting 5m candle insertion at 2026-01-03 12:25:01.998278 UTC ===
+2026-01-03 12:25:05,111 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:25:05,316 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:25:05,510 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:25:05,708 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:25:05,896 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:25:06,082 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:25:06,280 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:25:06,280 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:30:02,291 - INFO - === Starting 5m candle insertion at 2026-01-03 12:30:02.291016 UTC ===
+2026-01-03 12:30:05,254 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:30:05,458 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:30:05,653 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:30:05,873 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:30:06,072 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:30:06,259 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:30:06,451 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:30:06,451 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:35:02,478 - INFO - === Starting 5m candle insertion at 2026-01-03 12:35:02.478490 UTC ===
+2026-01-03 12:35:05,253 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:35:05,443 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:35:05,633 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:35:05,821 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:35:06,008 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:35:06,192 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:35:06,387 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:35:06,388 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:40:02,422 - INFO - === Starting 5m candle insertion at 2026-01-03 12:40:02.422723 UTC ===
+2026-01-03 12:40:05,362 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:40:05,552 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:40:05,741 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:40:05,935 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:40:06,124 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:40:06,304 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:40:06,493 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:40:06,494 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:45:02,493 - INFO - === Starting 5m candle insertion at 2026-01-03 12:45:02.493479 UTC ===
+2026-01-03 12:45:05,546 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:45:05,765 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:45:05,958 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:45:06,166 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:45:06,658 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:45:06,845 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:45:07,038 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:45:07,039 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:50:02,058 - INFO - === Starting 5m candle insertion at 2026-01-03 12:50:02.057995 UTC ===
+2026-01-03 12:50:04,934 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:50:05,136 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:50:05,323 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:50:05,513 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:50:05,701 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:50:05,887 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:50:06,091 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:50:06,092 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 12:55:02,092 - INFO - === Starting 5m candle insertion at 2026-01-03 12:55:02.092921 UTC ===
+2026-01-03 12:55:04,775 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 12:55:04,969 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 12:55:05,156 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 12:55:05,350 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 12:55:05,571 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 12:55:05,783 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 12:55:05,971 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 12:55:05,972 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:00:01,989 - INFO - === Starting 5m candle insertion at 2026-01-03 13:00:01.989010 UTC ===
+2026-01-03 13:00:05,055 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:00:05,261 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:00:05,443 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:00:05,621 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:00:05,813 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:00:06,004 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:00:06,187 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:00:06,187 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:05:02,223 - INFO - === Starting 5m candle insertion at 2026-01-03 13:05:02.223234 UTC ===
+2026-01-03 13:05:05,090 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:05:05,287 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:05:05,479 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:05:05,666 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:05:05,863 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:05:06,358 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:05:06,536 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:05:06,536 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:10:02,556 - INFO - === Starting 5m candle insertion at 2026-01-03 13:10:02.555998 UTC ===
+2026-01-03 13:10:05,607 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:10:05,802 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:10:05,990 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:10:06,180 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:10:06,374 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:10:06,561 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:10:06,761 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:10:06,761 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:15:02,778 - INFO - === Starting 5m candle insertion at 2026-01-03 13:15:02.778885 UTC ===
+2026-01-03 13:15:05,541 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:15:05,739 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:15:05,930 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:15:06,120 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:15:06,309 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:15:06,493 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:15:06,679 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:15:06,680 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:20:02,708 - INFO - === Starting 5m candle insertion at 2026-01-03 13:20:02.708882 UTC ===
+2026-01-03 13:20:05,425 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:20:05,618 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:20:05,818 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:20:06,147 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:20:06,839 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:20:07,032 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:20:07,235 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:20:07,236 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:25:02,234 - INFO - === Starting 5m candle insertion at 2026-01-03 13:25:02.234781 UTC ===
+2026-01-03 13:25:04,870 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:25:05,059 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:25:05,246 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:25:05,450 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:25:05,649 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:25:05,847 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:25:06,039 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:25:06,039 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:30:02,047 - INFO - === Starting 5m candle insertion at 2026-01-03 13:30:02.047883 UTC ===
+2026-01-03 13:30:04,675 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:30:05,183 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:30:05,519 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:30:05,702 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:30:05,914 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:30:06,112 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:30:06,294 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:30:06,294 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:35:02,292 - INFO - === Starting 5m candle insertion at 2026-01-03 13:35:02.292808 UTC ===
+2026-01-03 13:35:06,006 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:35:06,262 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:35:06,838 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:35:07,024 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:35:07,218 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:35:07,407 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:35:07,627 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:35:07,628 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:40:02,649 - INFO - === Starting 5m candle insertion at 2026-01-03 13:40:02.649090 UTC ===
+2026-01-03 13:40:05,499 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:40:05,688 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:40:05,886 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:40:06,092 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:40:06,283 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:40:06,467 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:40:06,669 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:40:06,670 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:45:02,675 - INFO - === Starting 5m candle insertion at 2026-01-03 13:45:02.675895 UTC ===
+2026-01-03 13:45:05,989 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:45:06,199 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:45:06,397 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:45:06,587 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:45:06,785 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:45:06,978 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:45:07,168 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:45:07,169 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:50:02,196 - INFO - === Starting 5m candle insertion at 2026-01-03 13:50:02.196557 UTC ===
+2026-01-03 13:50:07,780 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:50:07,969 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:50:08,158 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:50:08,347 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:50:08,537 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:50:08,722 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:50:08,946 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:50:08,947 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 13:55:01,960 - INFO - === Starting 5m candle insertion at 2026-01-03 13:55:01.960928 UTC ===
+2026-01-03 13:55:09,666 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 13:55:09,860 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 13:55:10,049 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 13:55:10,243 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 13:55:10,488 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 13:55:10,678 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 13:55:10,904 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 13:55:10,904 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:00:01,938 - INFO - === Starting 5m candle insertion at 2026-01-03 14:00:01.938013 UTC ===
+2026-01-03 14:00:05,165 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:00:05,360 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:00:05,552 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:00:05,743 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:00:05,935 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:00:06,121 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:00:06,313 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:00:06,314 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:05:02,371 - INFO - === Starting 5m candle insertion at 2026-01-03 14:05:02.371208 UTC ===
+2026-01-03 14:05:06,999 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:05:07,438 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:05:07,761 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:05:07,954 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:05:08,201 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:05:08,646 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:05:09,036 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:05:09,036 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:10:02,132 - INFO - === Starting 5m candle insertion at 2026-01-03 14:10:02.132340 UTC ===
+2026-01-03 14:10:05,950 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:10:06,153 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:10:06,357 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:10:06,560 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:10:06,748 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:10:06,928 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:10:07,145 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:10:07,146 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:15:02,146 - INFO - === Starting 5m candle insertion at 2026-01-03 14:15:02.146120 UTC ===
+2026-01-03 14:15:06,462 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:15:06,653 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:15:06,839 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:15:07,054 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:15:07,259 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:15:07,454 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:15:07,667 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:15:07,668 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:20:02,703 - INFO - === Starting 5m candle insertion at 2026-01-03 14:20:02.703816 UTC ===
+2026-01-03 14:20:05,747 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:20:05,937 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:20:06,123 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:20:06,336 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:20:06,533 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:20:06,719 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:20:06,905 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:20:06,906 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:25:01,911 - INFO - === Starting 5m candle insertion at 2026-01-03 14:25:01.911963 UTC ===
+2026-01-03 14:25:04,793 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:25:04,998 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:25:05,194 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:25:05,672 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:25:06,155 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:25:06,355 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:25:06,556 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:25:06,557 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:30:02,597 - INFO - === Starting 5m candle insertion at 2026-01-03 14:30:02.597573 UTC ===
+2026-01-03 14:30:05,180 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:30:05,382 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:30:05,608 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:30:05,795 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:30:05,997 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:30:06,178 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:30:06,377 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:30:06,377 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:35:02,379 - INFO - === Starting 5m candle insertion at 2026-01-03 14:35:02.379003 UTC ===
+2026-01-03 14:35:05,933 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:35:06,134 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:35:06,334 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:35:06,523 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:35:06,706 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:35:06,914 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:35:07,094 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:35:07,094 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:40:02,103 - INFO - === Starting 5m candle insertion at 2026-01-03 14:40:02.103711 UTC ===
+2026-01-03 14:40:05,032 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:40:05,224 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:40:05,409 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:40:05,597 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:40:05,784 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:40:05,987 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:40:06,459 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:40:06,459 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:45:02,463 - INFO - === Starting 5m candle insertion at 2026-01-03 14:45:02.463494 UTC ===
+2026-01-03 14:45:05,381 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:45:05,562 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:45:05,760 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:45:05,953 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:45:06,148 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:45:06,348 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:45:06,578 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:45:06,579 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:50:02,595 - INFO - === Starting 5m candle insertion at 2026-01-03 14:50:02.594986 UTC ===
+2026-01-03 14:50:05,291 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:50:05,481 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:50:05,663 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:50:05,863 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:50:06,058 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:50:06,242 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:50:06,455 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:50:06,456 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 14:55:02,474 - INFO - === Starting 5m candle insertion at 2026-01-03 14:55:02.474931 UTC ===
+2026-01-03 14:55:05,104 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 14:55:05,307 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 14:55:05,497 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 14:55:05,685 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 14:55:05,885 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 14:55:06,073 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 14:55:06,261 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 14:55:06,262 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:00:02,293 - INFO - === Starting 5m candle insertion at 2026-01-03 15:00:02.293732 UTC ===
+2026-01-03 15:00:04,991 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:00:05,188 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:00:05,375 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:00:05,569 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:00:05,769 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:00:05,959 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:00:06,155 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:00:06,156 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:05:02,203 - INFO - === Starting 5m candle insertion at 2026-01-03 15:05:02.203090 UTC ===
+2026-01-03 15:05:04,916 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:05:05,111 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:05:05,304 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:05:05,506 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:05:05,705 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:05:05,894 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:05:06,087 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:05:06,088 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:10:02,188 - INFO - === Starting 5m candle insertion at 2026-01-03 15:10:02.188083 UTC ===
+2026-01-03 15:10:04,947 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:10:05,136 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:10:05,317 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:10:05,504 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:10:05,707 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:10:05,894 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:10:06,083 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:10:06,084 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:15:02,104 - INFO - === Starting 5m candle insertion at 2026-01-03 15:15:02.104849 UTC ===
+2026-01-03 15:15:05,825 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:15:06,024 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:15:06,224 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:15:06,412 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:15:06,611 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:15:06,795 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:15:06,989 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:15:06,989 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:20:02,004 - INFO - === Starting 5m candle insertion at 2026-01-03 15:20:02.004663 UTC ===
+2026-01-03 15:20:04,668 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:20:04,864 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:20:05,047 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:20:05,237 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:20:05,429 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:20:05,610 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:20:05,799 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:20:05,800 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:25:01,829 - INFO - === Starting 5m candle insertion at 2026-01-03 15:25:01.829001 UTC ===
+2026-01-03 15:25:05,526 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:25:05,723 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:25:05,911 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:25:06,100 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:25:06,300 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:25:06,480 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:25:06,678 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:25:06,679 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:30:02,693 - INFO - === Starting 5m candle insertion at 2026-01-03 15:30:02.693540 UTC ===
+2026-01-03 15:30:06,313 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:30:06,505 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:30:06,688 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:30:06,882 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:30:07,087 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:30:07,274 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:30:07,467 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:30:07,468 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:35:02,475 - INFO - === Starting 5m candle insertion at 2026-01-03 15:35:02.475128 UTC ===
+2026-01-03 15:35:05,450 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:35:05,643 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:35:05,843 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:35:06,036 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:35:06,222 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:35:06,430 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:35:06,618 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:35:06,619 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:40:02,644 - INFO - === Starting 5m candle insertion at 2026-01-03 15:40:02.644468 UTC ===
+2026-01-03 15:40:05,963 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:40:06,153 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:40:06,343 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:40:06,546 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:40:06,737 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:40:06,923 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:40:07,118 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:40:07,119 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:45:02,134 - INFO - === Starting 5m candle insertion at 2026-01-03 15:45:02.134130 UTC ===
+2026-01-03 15:45:04,654 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:45:04,847 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:45:05,042 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:45:05,234 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:45:05,422 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:45:05,608 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:45:05,811 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:45:05,812 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:50:01,837 - INFO - === Starting 5m candle insertion at 2026-01-03 15:50:01.837897 UTC ===
+2026-01-03 15:50:06,740 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:50:06,932 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:50:07,126 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:50:07,333 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:50:07,530 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:50:07,717 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:50:07,917 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:50:07,918 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 15:55:01,926 - INFO - === Starting 5m candle insertion at 2026-01-03 15:55:01.926328 UTC ===
+2026-01-03 15:55:04,537 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 15:55:04,728 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 15:55:04,915 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 15:55:05,117 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 15:55:05,320 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 15:55:05,505 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 15:55:05,700 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 15:55:05,701 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:00:02,730 - INFO - === Starting 5m candle insertion at 2026-01-03 16:00:02.730346 UTC ===
+2026-01-03 16:00:05,856 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:00:06,047 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:00:06,231 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:00:06,420 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:00:06,610 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:00:06,792 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:00:06,985 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:00:06,986 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:05:02,171 - INFO - === Starting 5m candle insertion at 2026-01-03 16:05:02.171404 UTC ===
+2026-01-03 16:05:05,237 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:05:05,429 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:05:05,617 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:05:05,821 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:05:06,016 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:05:06,198 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:05:06,381 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:05:06,381 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:10:02,620 - INFO - === Starting 5m candle insertion at 2026-01-03 16:10:02.620394 UTC ===
+2026-01-03 16:10:05,593 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:10:05,784 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:10:05,973 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:10:06,167 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:10:06,358 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:10:06,548 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:10:06,734 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:10:06,735 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:15:02,738 - INFO - === Starting 5m candle insertion at 2026-01-03 16:15:02.738362 UTC ===
+2026-01-03 16:15:05,718 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:15:05,912 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:15:06,104 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:15:06,299 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:15:06,498 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:15:06,691 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:15:06,902 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:15:06,903 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:20:01,950 - INFO - === Starting 5m candle insertion at 2026-01-03 16:20:01.950473 UTC ===
+2026-01-03 16:20:04,461 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:20:04,653 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:20:04,843 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:20:05,061 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:20:05,249 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:20:05,442 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:20:05,916 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:20:05,916 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:25:01,914 - INFO - === Starting 5m candle insertion at 2026-01-03 16:25:01.914795 UTC ===
+2026-01-03 16:25:05,148 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:25:05,340 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:25:05,557 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:25:05,749 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:25:05,984 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:25:06,171 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:25:06,364 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:25:06,365 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:30:02,400 - INFO - === Starting 5m candle insertion at 2026-01-03 16:30:02.400511 UTC ===
+2026-01-03 16:30:05,784 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:30:05,979 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:30:06,158 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:30:06,369 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:30:06,559 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:30:06,748 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:30:06,939 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:30:06,940 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:35:01,938 - INFO - === Starting 5m candle insertion at 2026-01-03 16:35:01.938754 UTC ===
+2026-01-03 16:35:04,631 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:35:04,820 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:35:05,007 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:35:05,225 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:35:05,425 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:35:05,612 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:35:05,812 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:35:05,813 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:40:01,831 - INFO - === Starting 5m candle insertion at 2026-01-03 16:40:01.831425 UTC ===
+2026-01-03 16:40:05,176 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:40:05,373 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:40:05,560 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:40:05,751 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:40:05,950 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:40:06,135 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:40:06,325 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:40:06,325 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:45:02,327 - INFO - === Starting 5m candle insertion at 2026-01-03 16:45:02.327159 UTC ===
+2026-01-03 16:45:05,950 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:45:06,154 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:45:06,349 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:45:06,555 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:45:06,749 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:45:06,936 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:45:07,143 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:45:07,144 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:50:02,158 - INFO - === Starting 5m candle insertion at 2026-01-03 16:50:02.158517 UTC ===
+2026-01-03 16:50:04,742 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:50:04,935 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:50:05,116 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:50:05,314 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:50:05,512 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:50:05,708 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:50:05,896 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:50:05,897 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 16:55:01,904 - INFO - === Starting 5m candle insertion at 2026-01-03 16:55:01.904857 UTC ===
+2026-01-03 16:55:04,419 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 16:55:04,609 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 16:55:04,792 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 16:55:04,994 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 16:55:05,202 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 16:55:05,392 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 16:55:05,591 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 16:55:05,592 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:00:02,618 - INFO - === Starting 5m candle insertion at 2026-01-03 17:00:02.618600 UTC ===
+2026-01-03 17:00:06,039 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:00:06,234 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:00:06,428 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:00:06,617 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:00:06,805 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:00:07,000 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:00:07,217 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:00:07,217 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:05:02,295 - INFO - === Starting 5m candle insertion at 2026-01-03 17:05:02.295890 UTC ===
+2026-01-03 17:05:05,142 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:05:05,334 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:05:05,522 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:05:05,713 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:05:05,918 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:05:06,114 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:05:06,302 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:05:06,302 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:10:02,394 - INFO - === Starting 5m candle insertion at 2026-01-03 17:10:02.393986 UTC ===
+2026-01-03 17:10:05,460 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:10:05,642 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:10:05,832 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:10:06,320 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:10:06,513 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:10:06,708 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:10:06,905 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:10:06,905 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:15:01,912 - INFO - === Starting 5m candle insertion at 2026-01-03 17:15:01.912033 UTC ===
+2026-01-03 17:15:04,552 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:15:04,743 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:15:04,926 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:15:05,113 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:15:05,304 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:15:05,486 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:15:05,680 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:15:05,681 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:20:02,708 - INFO - === Starting 5m candle insertion at 2026-01-03 17:20:02.708040 UTC ===
+2026-01-03 17:20:05,344 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:20:05,536 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:20:05,736 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:20:05,924 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:20:06,127 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:20:06,313 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:20:06,501 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:20:06,502 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:25:02,507 - INFO - === Starting 5m candle insertion at 2026-01-03 17:25:02.507940 UTC ===
+2026-01-03 17:25:05,523 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:25:05,720 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:25:05,913 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:25:06,113 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:25:06,302 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:25:06,489 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:25:06,688 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:25:06,689 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:30:02,711 - INFO - === Starting 5m candle insertion at 2026-01-03 17:30:02.710985 UTC ===
+2026-01-03 17:30:05,237 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:30:05,430 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:30:05,610 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:30:05,807 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:30:06,008 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:30:06,193 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:30:06,393 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:30:06,394 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:35:02,415 - INFO - === Starting 5m candle insertion at 2026-01-03 17:35:02.415249 UTC ===
+2026-01-03 17:35:06,966 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:35:07,160 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:35:07,339 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:35:07,549 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:35:07,744 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:35:07,943 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:35:08,142 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:35:08,143 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:40:02,170 - INFO - === Starting 5m candle insertion at 2026-01-03 17:40:02.170920 UTC ===
+2026-01-03 17:40:05,043 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:40:05,242 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:40:05,470 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:40:05,680 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:40:05,923 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:40:06,153 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:40:06,369 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:40:06,370 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:45:02,374 - INFO - === Starting 5m candle insertion at 2026-01-03 17:45:02.374890 UTC ===
+2026-01-03 17:45:05,199 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:45:05,394 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:45:05,604 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:45:05,810 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:45:06,013 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:45:06,202 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:45:06,397 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:45:06,397 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:50:02,413 - INFO - === Starting 5m candle insertion at 2026-01-03 17:50:02.413811 UTC ===
+2026-01-03 17:50:05,353 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:50:05,538 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:50:05,755 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:50:05,954 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:50:06,138 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:50:06,330 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:50:06,525 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:50:06,526 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 17:55:02,533 - INFO - === Starting 5m candle insertion at 2026-01-03 17:55:02.533560 UTC ===
+2026-01-03 17:55:05,728 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 17:55:05,935 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 17:55:06,133 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 17:55:06,325 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 17:55:06,514 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 17:55:06,993 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 17:55:07,179 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 17:55:07,180 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:00:02,206 - INFO - === Starting 5m candle insertion at 2026-01-03 18:00:02.206591 UTC ===
+2026-01-03 18:00:05,822 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:00:06,021 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:00:06,211 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:00:06,400 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:00:06,583 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:00:06,809 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:00:07,009 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:00:07,010 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:05:02,069 - INFO - === Starting 5m candle insertion at 2026-01-03 18:05:02.069215 UTC ===
+2026-01-03 18:05:05,409 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:05:05,690 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:05:05,881 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:05:06,066 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:05:06,275 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:05:06,481 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:05:06,666 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:05:06,666 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:10:02,685 - INFO - === Starting 5m candle insertion at 2026-01-03 18:10:02.685583 UTC ===
+2026-01-03 18:10:06,619 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:10:06,816 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:10:06,998 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:10:07,194 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:10:07,396 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:10:07,607 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:10:07,808 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:10:07,809 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:15:02,811 - INFO - === Starting 5m candle insertion at 2026-01-03 18:15:02.811783 UTC ===
+2026-01-03 18:15:05,727 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:15:05,933 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:15:06,131 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:15:06,320 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:15:06,515 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:15:06,714 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:15:06,901 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:15:06,902 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:20:01,927 - INFO - === Starting 5m candle insertion at 2026-01-03 18:20:01.927651 UTC ===
+2026-01-03 18:20:04,829 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:20:05,022 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:20:05,501 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:20:05,699 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:20:05,915 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:20:06,103 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:20:06,316 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:20:06,317 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:25:02,318 - INFO - === Starting 5m candle insertion at 2026-01-03 18:25:02.318917 UTC ===
+2026-01-03 18:25:05,134 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:25:05,329 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:25:05,530 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:25:05,736 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:25:05,932 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:25:06,116 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:25:06,308 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:25:06,309 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:30:02,340 - INFO - === Starting 5m candle insertion at 2026-01-03 18:30:02.340513 UTC ===
+2026-01-03 18:30:05,501 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:30:05,722 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:30:05,926 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:30:06,142 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:30:06,324 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:30:06,516 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:30:06,715 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:30:06,716 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:35:02,722 - INFO - === Starting 5m candle insertion at 2026-01-03 18:35:02.721987 UTC ===
+2026-01-03 18:35:06,463 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:35:06,654 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:35:06,843 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:35:07,031 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:35:07,220 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:35:07,400 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:35:07,626 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:35:07,627 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:40:02,652 - INFO - === Starting 5m candle insertion at 2026-01-03 18:40:02.652016 UTC ===
+2026-01-03 18:40:05,544 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:40:05,751 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:40:05,936 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:40:06,123 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:40:06,327 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:40:06,512 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:40:06,706 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:40:06,707 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:45:02,712 - INFO - === Starting 5m candle insertion at 2026-01-03 18:45:02.712580 UTC ===
+2026-01-03 18:45:07,439 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:45:07,641 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:45:07,834 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:45:08,023 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:45:08,239 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:45:08,429 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:45:08,620 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:45:08,620 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:50:02,653 - INFO - === Starting 5m candle insertion at 2026-01-03 18:50:02.653689 UTC ===
+2026-01-03 18:50:05,343 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:50:05,539 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:50:05,755 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:50:05,945 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:50:06,133 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:50:06,319 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:50:06,516 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:50:06,517 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 18:55:02,528 - INFO - === Starting 5m candle insertion at 2026-01-03 18:55:02.528944 UTC ===
+2026-01-03 18:55:10,379 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 18:55:10,570 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 18:55:10,763 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 18:55:10,961 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 18:55:11,180 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 18:55:11,365 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 18:55:11,553 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 18:55:11,554 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:00:02,581 - INFO - === Starting 5m candle insertion at 2026-01-03 19:00:02.581531 UTC ===
+2026-01-03 19:00:05,697 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:00:05,889 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:00:06,082 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:00:06,268 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:00:06,477 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:00:06,661 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:00:06,853 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:00:06,854 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:05:01,900 - INFO - === Starting 5m candle insertion at 2026-01-03 19:05:01.900783 UTC ===
+2026-01-03 19:05:05,207 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:05:05,502 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:05:05,751 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:05:05,956 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:05:06,159 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:05:06,347 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:05:06,547 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:05:06,548 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:10:02,638 - INFO - === Starting 5m candle insertion at 2026-01-03 19:10:02.638669 UTC ===
+2026-01-03 19:10:07,133 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:10:07,325 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:10:07,509 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:10:07,703 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:10:07,896 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:10:08,094 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:10:08,435 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:10:08,436 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:15:02,453 - INFO - === Starting 5m candle insertion at 2026-01-03 19:15:02.453257 UTC ===
+2026-01-03 19:15:09,003 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:15:09,499 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:15:10,807 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:15:11,022 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:15:11,392 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:15:11,607 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:15:11,815 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:15:11,816 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:20:01,852 - INFO - === Starting 5m candle insertion at 2026-01-03 19:20:01.852770 UTC ===
+2026-01-03 19:20:06,606 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:20:06,795 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:20:06,977 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:20:07,172 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:20:07,361 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:20:07,544 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:20:07,748 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:20:07,749 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:25:02,774 - INFO - === Starting 5m candle insertion at 2026-01-03 19:25:02.774943 UTC ===
+2026-01-03 19:25:06,693 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:25:06,891 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:25:07,102 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:25:07,299 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:25:07,500 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:25:07,700 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:25:07,889 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:25:07,890 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:30:01,912 - INFO - === Starting 5m candle insertion at 2026-01-03 19:30:01.912080 UTC ===
+2026-01-03 19:30:04,802 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:30:05,026 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:30:05,218 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:30:05,414 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:30:05,595 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:30:05,790 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:30:05,982 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:30:05,983 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:35:02,006 - INFO - === Starting 5m candle insertion at 2026-01-03 19:35:02.006945 UTC ===
+2026-01-03 19:35:05,485 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:35:05,682 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:35:05,892 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:35:06,131 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:35:06,322 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:35:06,508 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:35:06,700 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:35:06,700 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:40:02,739 - INFO - === Starting 5m candle insertion at 2026-01-03 19:40:02.739816 UTC ===
+2026-01-03 19:40:05,876 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:40:06,074 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:40:06,257 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:40:06,479 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:40:06,673 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:40:06,864 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:40:07,049 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:40:07,050 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:45:02,078 - INFO - === Starting 5m candle insertion at 2026-01-03 19:45:02.078735 UTC ===
+2026-01-03 19:45:10,052 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:45:10,331 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:45:10,528 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:45:10,731 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:45:10,914 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:45:11,105 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:45:11,304 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:45:11,304 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:50:02,325 - INFO - === Starting 5m candle insertion at 2026-01-03 19:50:02.325197 UTC ===
+2026-01-03 19:50:06,017 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:50:06,210 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:50:06,414 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:50:06,612 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:50:06,804 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:50:06,984 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:50:07,178 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:50:07,179 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 19:55:02,185 - INFO - === Starting 5m candle insertion at 2026-01-03 19:55:02.185046 UTC ===
+2026-01-03 19:55:04,914 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 19:55:05,106 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 19:55:05,305 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 19:55:05,506 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 19:55:05,747 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 19:55:06,001 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 19:55:06,342 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 19:55:06,342 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:00:02,367 - INFO - === Starting 5m candle insertion at 2026-01-03 20:00:02.367470 UTC ===
+2026-01-03 20:00:07,192 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:00:07,388 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:00:07,574 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:00:07,772 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:00:07,972 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:00:08,465 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:00:08,665 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:00:08,666 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:05:02,815 - INFO - === Starting 5m candle insertion at 2026-01-03 20:05:02.815695 UTC ===
+2026-01-03 20:05:05,768 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:05:05,957 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:05:06,144 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:05:06,327 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:05:06,522 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:05:06,702 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:05:06,896 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:05:06,897 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:10:01,944 - INFO - === Starting 5m candle insertion at 2026-01-03 20:10:01.944598 UTC ===
+2026-01-03 20:10:05,384 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:10:05,596 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:10:05,788 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:10:05,992 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:10:06,193 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:10:06,392 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:10:06,580 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:10:06,581 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:15:02,581 - INFO - === Starting 5m candle insertion at 2026-01-03 20:15:02.581294 UTC ===
+2026-01-03 20:15:05,377 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:15:05,570 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:15:05,773 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:15:06,008 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:15:06,194 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:15:06,386 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:15:06,580 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:15:06,581 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:20:02,591 - INFO - === Starting 5m candle insertion at 2026-01-03 20:20:02.591929 UTC ===
+2026-01-03 20:20:05,387 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:20:05,593 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:20:05,774 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:20:05,967 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:20:06,157 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:20:06,336 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:20:06,814 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:20:06,814 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:25:01,859 - INFO - === Starting 5m candle insertion at 2026-01-03 20:25:01.859000 UTC ===
+2026-01-03 20:25:05,007 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:25:05,207 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:25:05,398 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:25:05,586 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:25:05,778 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:25:05,971 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:25:06,165 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:25:06,166 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:30:02,194 - INFO - === Starting 5m candle insertion at 2026-01-03 20:30:02.194976 UTC ===
+2026-01-03 20:30:04,733 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:30:04,937 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:30:05,120 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:30:05,309 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:30:05,498 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:30:05,702 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:30:05,896 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:30:05,897 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:35:01,903 - INFO - === Starting 5m candle insertion at 2026-01-03 20:35:01.903151 UTC ===
+2026-01-03 20:35:07,246 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:35:07,445 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:35:07,642 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:35:07,918 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:35:08,108 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:35:08,313 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:35:08,505 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:35:08,506 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:40:02,517 - INFO - === Starting 5m candle insertion at 2026-01-03 20:40:02.517227 UTC ===
+2026-01-03 20:40:05,476 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:40:05,684 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:40:05,874 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:40:06,071 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:40:06,295 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:40:06,486 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:40:06,684 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:40:06,685 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:45:07,736 - INFO - === Starting 5m candle insertion at 2026-01-03 20:45:07.736167 UTC ===
+2026-01-03 20:45:10,427 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:45:10,627 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:45:10,811 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:45:10,999 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:45:11,190 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:45:11,372 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:45:11,560 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:45:11,561 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:50:07,597 - INFO - === Starting 5m candle insertion at 2026-01-03 20:50:07.597958 UTC ===
+2026-01-03 20:50:10,512 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:50:10,720 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:50:10,900 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:50:11,090 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:50:11,280 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:50:11,470 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:50:11,666 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:50:11,666 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 20:55:07,695 - INFO - === Starting 5m candle insertion at 2026-01-03 20:55:07.695904 UTC ===
+2026-01-03 20:55:10,505 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 20:55:10,703 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 20:55:10,888 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 20:55:11,105 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 20:55:11,300 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 20:55:11,485 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 20:55:11,678 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 20:55:11,679 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:15:06,833 - INFO - === Starting 5m candle insertion at 2026-01-03 21:15:06.833753 UTC ===
+2026-01-03 21:15:10,065 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:15:10,255 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:15:10,439 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:15:10,626 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:15:10,816 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:15:11,003 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:15:11,197 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:15:11,198 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:20:07,231 - INFO - === Starting 5m candle insertion at 2026-01-03 21:20:07.231966 UTC ===
+2026-01-03 21:20:10,007 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:20:10,199 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:20:10,387 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:20:10,575 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:20:10,770 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:20:10,954 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:20:11,148 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:20:11,149 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:25:07,160 - INFO - === Starting 5m candle insertion at 2026-01-03 21:25:07.160470 UTC ===
+2026-01-03 21:25:09,793 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:25:10,001 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:25:10,188 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:25:10,380 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:25:10,571 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:25:10,765 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:25:10,969 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:25:10,970 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:30:06,985 - INFO - === Starting 5m candle insertion at 2026-01-03 21:30:06.985939 UTC ===
+2026-01-03 21:30:09,688 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:30:09,878 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:30:10,066 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:30:10,256 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:30:10,459 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:30:10,643 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:30:10,836 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:30:10,837 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:35:06,860 - INFO - === Starting 5m candle insertion at 2026-01-03 21:35:06.860441 UTC ===
+2026-01-03 21:35:09,531 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:35:09,719 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:35:09,909 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:35:10,097 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:35:10,288 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:35:10,471 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:35:10,664 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:35:10,665 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:40:07,693 - INFO - === Starting 5m candle insertion at 2026-01-03 21:40:07.693292 UTC ===
+2026-01-03 21:40:10,980 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:40:11,177 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:40:11,361 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:40:11,555 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:40:11,757 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:40:11,965 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:40:12,155 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:40:12,156 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:45:07,180 - INFO - === Starting 5m candle insertion at 2026-01-03 21:45:07.180964 UTC ===
+2026-01-03 21:45:10,230 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:45:10,422 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:45:10,609 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:45:10,807 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:45:11,022 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:45:11,372 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:45:11,572 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:45:11,573 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:50:07,592 - INFO - === Starting 5m candle insertion at 2026-01-03 21:50:07.592554 UTC ===
+2026-01-03 21:50:10,220 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:50:10,414 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:50:10,705 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:50:10,898 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:50:11,163 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:50:11,360 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:50:11,552 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:50:11,553 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 21:55:07,577 - INFO - === Starting 5m candle insertion at 2026-01-03 21:55:07.576996 UTC ===
+2026-01-03 21:55:10,862 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 21:55:11,052 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 21:55:11,247 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 21:55:11,439 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 21:55:11,627 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 21:55:11,813 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 21:55:12,003 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 21:55:12,003 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:00:07,067 - INFO - === Starting 5m candle insertion at 2026-01-03 22:00:07.067839 UTC ===
+2026-01-03 22:00:09,605 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:00:09,811 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:00:10,002 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:00:10,194 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:00:10,375 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:00:10,568 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:00:10,766 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:00:10,766 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:05:07,540 - INFO - === Starting 5m candle insertion at 2026-01-03 22:05:07.540524 UTC ===
+2026-01-03 22:05:11,355 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:05:11,837 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:05:12,025 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:05:12,214 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:05:12,694 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:05:12,883 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:05:13,073 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:05:13,074 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:10:07,085 - INFO - === Starting 5m candle insertion at 2026-01-03 22:10:07.085854 UTC ===
+2026-01-03 22:10:09,815 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:10:10,018 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:10:10,220 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:10:10,430 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:10:10,634 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:10:10,826 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:10:11,172 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:10:11,172 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:15:07,180 - INFO - === Starting 5m candle insertion at 2026-01-03 22:15:07.180568 UTC ===
+2026-01-03 22:15:14,917 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:15:15,125 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:15:15,322 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:15:15,509 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:15:15,703 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:15:15,884 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:15:16,079 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:15:16,080 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:20:07,112 - INFO - === Starting 5m candle insertion at 2026-01-03 22:20:07.112352 UTC ===
+2026-01-03 22:20:10,634 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:20:10,830 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:20:11,013 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:20:11,216 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:20:11,404 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:20:11,616 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:20:11,813 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:20:11,814 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:25:06,829 - INFO - === Starting 5m candle insertion at 2026-01-03 22:25:06.829783 UTC ===
+2026-01-03 22:25:09,983 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:25:10,177 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:25:10,375 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:25:10,582 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:25:10,790 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:25:10,974 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:25:11,181 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:25:11,182 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:30:07,220 - INFO - === Starting 5m candle insertion at 2026-01-03 22:30:07.220615 UTC ===
+2026-01-03 22:30:09,985 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:30:10,185 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:30:10,368 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:30:10,595 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:30:10,787 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:30:10,990 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:30:11,184 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:30:11,185 - INFO - === 5m insertion complete: 7 success, 0 failed ===
+2026-01-03 22:35:07,201 - INFO - === Starting 5m candle insertion at 2026-01-03 22:35:07.201764 UTC ===
+2026-01-03 22:35:10,082 - INFO - ✓ BTC/USDT 5m candle inserted
+2026-01-03 22:35:10,578 - INFO - ✓ ETH/USDT 5m candle inserted
+2026-01-03 22:35:11,077 - INFO - ✓ LTC/USDT 5m candle inserted
+2026-01-03 22:35:11,270 - INFO - ✓ XRP/USDT 5m candle inserted
+2026-01-03 22:35:11,477 - INFO - ✓ DOGE/USDT 5m candle inserted
+2026-01-03 22:35:11,662 - INFO - ✓ LINK/USDT 5m candle inserted
+2026-01-03 22:35:11,851 - INFO - ✓ ADA/USDT 5m candle inserted
+2026-01-03 22:35:11,852 - INFO - === 5m insertion complete: 7 success, 0 failed ===

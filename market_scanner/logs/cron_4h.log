@@ -1,0 +1,390 @@
+2026-01-03 00:05:02,524 - INFO - Initialized Binance connection
+2026-01-03 00:05:02,539 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:39: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 00:05:02,539 - INFO - === Starting 4h candle insertion at 2026-01-03 00:05:02.539748 UTC ===
+2026-01-03 00:05:02,539 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 00:05:06,282 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 00:05:06,285 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,322 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 00:05:06,323 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 00:05:06,323 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 00:05:06,499 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 00:05:06,509 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,514 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 00:05:06,514 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 00:05:06,515 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 00:05:06,689 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 00:05:06,692 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,695 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 00:05:06,695 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 00:05:06,695 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 00:05:06,893 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 00:05:06,896 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:06,899 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 00:05:06,899 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 00:05:06,899 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 00:05:07,118 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 00:05:07,121 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,124 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 00:05:07,124 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 00:05:07,124 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 00:05:07,300 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 00:05:07,309 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,315 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 00:05:07,315 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 00:05:07,315 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 00:05:07,486 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 00:05:07,489 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 00:05:07,492 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 00:05:07,492 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 00:05:07,492 - INFO - Database connection closed
+2026-01-03 00:05:07,493 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:02,117 - INFO - Initialized Binance connection
+2026-01-03 04:05:02,131 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 04:05:02,132 - INFO - === Starting 4h candle insertion at 2026-01-03 04:05:02.132151 UTC ===
+2026-01-03 04:05:02,132 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 04:05:05,268 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 04:05:05,279 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:05,286 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 04:05:05,286 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 04:05:05,286 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 04:05:05,475 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 04:05:05,485 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:05,490 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 04:05:05,491 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 04:05:05,491 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 04:05:05,678 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 04:05:05,681 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:05,684 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 04:05:05,684 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 04:05:05,684 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 04:05:05,986 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 04:05:05,993 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:05,996 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 04:05:05,996 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 04:05:05,996 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 04:05:06,218 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 04:05:06,220 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:06,223 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 04:05:06,223 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 04:05:06,223 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 04:05:06,399 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 04:05:06,401 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:06,406 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 04:05:06,406 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 04:05:06,406 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 04:05:06,596 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 04:05:06,599 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 04:05:06,602 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 04:05:06,602 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 04:05:06,602 - INFO - Database connection closed
+2026-01-03 04:05:06,602 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 04:05:06,602 - INFO - === Checking for fakeouts ===
+2026-01-03 04:05:06,616 - INFO - Connected to database
+2026-01-03 04:05:06,616 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 04:05:06,618 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 04:05:06,619 - INFO - No fakeout detected
+2026-01-03 04:05:06,619 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 04:05:06,620 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 04:05:06,620 - INFO - No fakeout detected
+2026-01-03 04:05:06,620 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 04:05:06,621 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 04:05:06,621 - INFO - No fakeout detected
+2026-01-03 04:05:06,621 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 04:05:06,622 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 04:05:06,622 - INFO - No fakeout detected
+2026-01-03 04:05:06,622 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 04:05:06,623 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 04:05:06,623 - INFO - No fakeout detected
+2026-01-03 04:05:06,623 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 04:05:06,624 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 04:05:06,624 - INFO - No fakeout detected
+2026-01-03 04:05:06,624 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 04:05:06,625 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 04:05:06,625 - INFO - No fakeout detected
+2026-01-03 04:05:06,625 - INFO - Total fakeouts found for 4h: 0
+2026-01-03 04:05:06,625 - INFO - Database connection closed
+2026-01-03 04:05:06,625 - INFO - === Fakeout check complete ===
+2026-01-03 08:05:02,563 - INFO - Initialized Binance connection
+2026-01-03 08:05:02,577 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 08:05:02,577 - INFO - === Starting 4h candle insertion at 2026-01-03 08:05:02.577782 UTC ===
+2026-01-03 08:05:02,577 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 08:05:05,425 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 08:05:05,428 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:05,468 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 08:05:05,468 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 08:05:05,468 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 08:05:05,640 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 08:05:05,642 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:05,646 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 08:05:05,646 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 08:05:05,646 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 08:05:05,825 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 08:05:05,828 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:05,831 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 08:05:05,831 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 08:05:05,831 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 08:05:06,043 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 08:05:06,052 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:06,059 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 08:05:06,059 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 08:05:06,059 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 08:05:06,254 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 08:05:06,257 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:06,260 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 08:05:06,260 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 08:05:06,260 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 08:05:06,444 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 08:05:06,448 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:06,451 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 08:05:06,451 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 08:05:06,452 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 08:05:06,631 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 08:05:06,641 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 08:05:06,646 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 08:05:06,646 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 08:05:06,647 - INFO - Database connection closed
+2026-01-03 08:05:06,647 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 08:05:06,647 - INFO - === Checking for fakeouts ===
+2026-01-03 08:05:06,663 - INFO - Connected to database
+2026-01-03 08:05:06,663 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 08:05:06,665 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 08:05:06,665 - INFO - No fakeout detected
+2026-01-03 08:05:06,665 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 08:05:06,666 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 08:05:06,667 - INFO - No fakeout detected
+2026-01-03 08:05:06,667 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 08:05:06,667 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 08:05:06,668 - INFO - High fakeout detected at 81.42
+2026-01-03 08:05:06,670 - INFO - Marked ltcusdt 4h candle at 2026-01-03 04:00:00+00:00 as high fakeout
+2026-01-03 08:05:06,670 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 08:05:06,671 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 08:05:06,671 - INFO - High fakeout detected at 2.01
+2026-01-03 08:05:06,672 - INFO - Marked xrpusdt 4h candle at 2026-01-03 04:00:00+00:00 as high fakeout
+2026-01-03 08:05:06,672 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 08:05:06,673 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 08:05:06,674 - INFO - No fakeout detected
+2026-01-03 08:05:06,674 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 08:05:06,674 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 08:05:06,674 - INFO - No fakeout detected
+2026-01-03 08:05:06,675 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 08:05:06,675 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 08:05:06,675 - INFO - No fakeout detected
+2026-01-03 08:05:06,675 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 08:05:06,676 - INFO - Database connection closed
+2026-01-03 08:05:06,676 - INFO - === Fakeout check complete ===
+2026-01-03 12:05:02,299 - INFO - Initialized Binance connection
+2026-01-03 12:05:02,314 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 12:05:02,314 - INFO - === Starting 4h candle insertion at 2026-01-03 12:05:02.314496 UTC ===
+2026-01-03 12:05:02,314 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 12:05:05,374 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 12:05:05,386 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:05,402 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 12:05:05,402 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 12:05:05,403 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 12:05:05,584 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 12:05:05,594 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:05,599 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 12:05:05,599 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 12:05:05,599 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 12:05:05,774 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 12:05:05,777 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:05,780 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 12:05:05,780 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 12:05:05,780 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 12:05:05,963 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 12:05:05,966 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:05,983 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 12:05:05,983 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 12:05:05,984 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 12:05:06,159 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 12:05:06,168 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:06,175 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 12:05:06,175 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 12:05:06,176 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 12:05:06,362 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 12:05:06,372 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:06,378 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 12:05:06,378 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 12:05:06,378 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 12:05:06,571 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 12:05:06,574 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 12:05:06,577 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 12:05:06,577 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 12:05:06,577 - INFO - Database connection closed
+2026-01-03 12:05:06,577 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 12:05:06,577 - INFO - === Checking for fakeouts ===
+2026-01-03 12:05:06,590 - INFO - Connected to database
+2026-01-03 12:05:06,590 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 12:05:06,593 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 12:05:06,593 - INFO - No fakeout detected
+2026-01-03 12:05:06,593 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 12:05:06,594 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 12:05:06,594 - INFO - No fakeout detected
+2026-01-03 12:05:06,595 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 12:05:06,595 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 12:05:06,596 - INFO - High fakeout detected at 81.42
+2026-01-03 12:05:06,597 - INFO - Marked ltcusdt 4h candle at 2026-01-03 08:00:00+00:00 as high fakeout
+2026-01-03 12:05:06,597 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 12:05:06,598 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 12:05:06,598 - INFO - High fakeout detected at 2.01
+2026-01-03 12:05:06,600 - INFO - Marked xrpusdt 4h candle at 2026-01-03 08:00:00+00:00 as high fakeout
+2026-01-03 12:05:06,600 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 12:05:06,601 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 12:05:06,601 - INFO - No fakeout detected
+2026-01-03 12:05:06,601 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 12:05:06,602 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 12:05:06,602 - INFO - No fakeout detected
+2026-01-03 12:05:06,602 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 12:05:06,603 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 12:05:06,603 - INFO - No fakeout detected
+2026-01-03 12:05:06,603 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 12:05:06,603 - INFO - Database connection closed
+2026-01-03 12:05:06,603 - INFO - === Fakeout check complete ===
+2026-01-03 16:05:02,156 - INFO - Initialized Binance connection
+2026-01-03 16:05:02,171 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 16:05:02,171 - INFO - === Starting 4h candle insertion at 2026-01-03 16:05:02.171484 UTC ===
+2026-01-03 16:05:02,171 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 16:05:05,405 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 16:05:05,416 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:05,424 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 16:05:05,425 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 16:05:05,425 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 16:05:05,608 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 16:05:05,614 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:05,616 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 16:05:05,616 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 16:05:05,616 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 16:05:05,814 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 16:05:05,817 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:05,820 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 16:05:05,820 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 16:05:05,820 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 16:05:05,999 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 16:05:06,009 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:06,015 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 16:05:06,016 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 16:05:06,016 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 16:05:06,193 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 16:05:06,196 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:06,199 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 16:05:06,199 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 16:05:06,199 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 16:05:06,375 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 16:05:06,378 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:06,380 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 16:05:06,381 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 16:05:06,381 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 16:05:06,559 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 16:05:06,562 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 16:05:06,566 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 16:05:06,566 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 16:05:06,566 - INFO - Database connection closed
+2026-01-03 16:05:06,566 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 16:05:06,566 - INFO - === Checking for fakeouts ===
+2026-01-03 16:05:06,579 - INFO - Connected to database
+2026-01-03 16:05:06,579 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 16:05:06,582 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 16:05:06,582 - INFO - No fakeout detected
+2026-01-03 16:05:06,582 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 16:05:06,584 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 16:05:06,584 - INFO - No fakeout detected
+2026-01-03 16:05:06,584 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 16:05:06,585 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 16:05:06,585 - INFO - High fakeout detected at 81.42
+2026-01-03 16:05:06,586 - INFO - Marked ltcusdt 4h candle at 2026-01-03 12:00:00+00:00 as high fakeout
+2026-01-03 16:05:06,587 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 16:05:06,588 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 16:05:06,588 - INFO - High fakeout detected at 2.01
+2026-01-03 16:05:06,589 - INFO - Marked xrpusdt 4h candle at 2026-01-03 12:00:00+00:00 as high fakeout
+2026-01-03 16:05:06,589 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 16:05:06,591 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 16:05:06,591 - INFO - No fakeout detected
+2026-01-03 16:05:06,591 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 16:05:06,592 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 16:05:06,592 - INFO - No fakeout detected
+2026-01-03 16:05:06,592 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 16:05:06,593 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 16:05:06,593 - INFO - No fakeout detected
+2026-01-03 16:05:06,593 - INFO - Total fakeouts found for 4h: 2
+2026-01-03 16:05:06,593 - INFO - Database connection closed
+2026-01-03 16:05:06,593 - INFO - === Fakeout check complete ===
+2026-01-03 20:05:02,909 - INFO - Initialized Binance connection
+2026-01-03 20:05:02,923 - INFO - Connected to PostgreSQL
+/home/thefutur/tradingbot/market_scanner/insert_4h.py:41: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+2026-01-03 20:05:02,923 - INFO - === Starting 4h candle insertion at 2026-01-03 20:05:02.923835 UTC ===
+2026-01-03 20:05:02,923 - INFO - Fetching 60 4h candles for BTC/USDT
+2026-01-03 20:05:05,723 - INFO - Fetched 60 candles for BTC/USDT 4h
+2026-01-03 20:05:05,726 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:05,767 - INFO - Inserted 1 candles into btcusdt_4h
+2026-01-03 20:05:05,767 - INFO - ✓ BTC/USDT 4h candle inserted
+2026-01-03 20:05:05,768 - INFO - Fetching 60 4h candles for ETH/USDT
+2026-01-03 20:05:05,950 - INFO - Fetched 60 candles for ETH/USDT 4h
+2026-01-03 20:05:05,953 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:05,956 - INFO - Inserted 1 candles into ethusdt_4h
+2026-01-03 20:05:05,956 - INFO - ✓ ETH/USDT 4h candle inserted
+2026-01-03 20:05:05,956 - INFO - Fetching 60 4h candles for LTC/USDT
+2026-01-03 20:05:06,129 - INFO - Fetched 60 candles for LTC/USDT 4h
+2026-01-03 20:05:06,133 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:06,136 - INFO - Inserted 1 candles into ltcusdt_4h
+2026-01-03 20:05:06,136 - INFO - ✓ LTC/USDT 4h candle inserted
+2026-01-03 20:05:06,136 - INFO - Fetching 60 4h candles for XRP/USDT
+2026-01-03 20:05:06,315 - INFO - Fetched 60 candles for XRP/USDT 4h
+2026-01-03 20:05:06,323 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:06,325 - INFO - Inserted 1 candles into xrpusdt_4h
+2026-01-03 20:05:06,325 - INFO - ✓ XRP/USDT 4h candle inserted
+2026-01-03 20:05:06,325 - INFO - Fetching 60 4h candles for DOGE/USDT
+2026-01-03 20:05:06,504 - INFO - Fetched 60 candles for DOGE/USDT 4h
+2026-01-03 20:05:06,513 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:06,517 - INFO - Inserted 1 candles into dogeusdt_4h
+2026-01-03 20:05:06,518 - INFO - ✓ DOGE/USDT 4h candle inserted
+2026-01-03 20:05:06,518 - INFO - Fetching 60 4h candles for LINK/USDT
+2026-01-03 20:05:06,694 - INFO - Fetched 60 candles for LINK/USDT 4h
+2026-01-03 20:05:06,698 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:06,700 - INFO - Inserted 1 candles into linkusdt_4h
+2026-01-03 20:05:06,700 - INFO - ✓ LINK/USDT 4h candle inserted
+2026-01-03 20:05:06,700 - INFO - Fetching 60 4h candles for ADA/USDT
+2026-01-03 20:05:06,875 - INFO - Fetched 60 candles for ADA/USDT 4h
+2026-01-03 20:05:06,885 - INFO - Removed last incomplete candle, 59 complete candles remaining
+2026-01-03 20:05:06,890 - INFO - Inserted 1 candles into adausdt_4h
+2026-01-03 20:05:06,890 - INFO - ✓ ADA/USDT 4h candle inserted
+2026-01-03 20:05:06,891 - INFO - Database connection closed
+2026-01-03 20:05:06,891 - INFO - === 4h insertion complete: 7 success, 0 failed ===
+2026-01-03 20:05:06,891 - INFO - === Checking for fakeouts ===
+2026-01-03 20:05:07,008 - INFO - Telegram bot initialized
+2026-01-03 20:05:07,008 - INFO - Telegram notifier initialized
+2026-01-03 20:05:07,008 - INFO - Connected to database
+2026-01-03 20:05:07,008 - INFO - Checking 4h fakeouts for btcusdt
+2026-01-03 20:05:07,011 - INFO - Checking against 7 high levels and 68 low levels
+2026-01-03 20:05:07,011 - INFO - No fakeout detected
+2026-01-03 20:05:07,011 - INFO - Checking 4h fakeouts for ethusdt
+2026-01-03 20:05:07,012 - INFO - Checking against 11 high levels and 52 low levels
+2026-01-03 20:05:07,012 - INFO - No fakeout detected
+2026-01-03 20:05:07,012 - INFO - Checking 4h fakeouts for ltcusdt
+2026-01-03 20:05:07,013 - INFO - Checking against 21 high levels and 16 low levels
+2026-01-03 20:05:07,013 - INFO - No fakeout detected
+2026-01-03 20:05:07,013 - INFO - Checking 4h fakeouts for xrpusdt
+2026-01-03 20:05:07,014 - INFO - Checking against 16 high levels and 27 low levels
+2026-01-03 20:05:07,014 - INFO - No fakeout detected
+2026-01-03 20:05:07,014 - INFO - Checking 4h fakeouts for dogeusdt
+2026-01-03 20:05:07,015 - INFO - Checking against 21 high levels and 45 low levels
+2026-01-03 20:05:07,015 - INFO - No fakeout detected
+2026-01-03 20:05:07,015 - INFO - Checking 4h fakeouts for linkusdt
+2026-01-03 20:05:07,015 - INFO - Checking against 19 high levels and 24 low levels
+2026-01-03 20:05:07,015 - INFO - No fakeout detected
+2026-01-03 20:05:07,015 - INFO - Checking 4h fakeouts for adausdt
+2026-01-03 20:05:07,016 - INFO - Checking against 26 high levels and 26 low levels
+2026-01-03 20:05:07,016 - INFO - No fakeout detected
+2026-01-03 20:05:07,016 - INFO - Total fakeouts found for 4h: 0
+2026-01-03 20:05:07,016 - INFO - Database connection closed
+2026-01-03 20:05:07,016 - INFO - === Fakeout check complete ===

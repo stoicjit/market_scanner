@@ -1,0 +1,30 @@
+2026-01-03 00:05:02,571 - INFO - === Starting daily candle insertion at 2026-01-03 00:05:02.571969 UTC ===
+2026-01-03 00:05:06,462 - ERROR - ✗ BTC/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('btcusdt', 'daily', np.float64(90961...
+                                                    ^
+
+2026-01-03 00:05:06,667 - ERROR - ✗ ETH/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('ethusdt', 'daily', np.float64(3150....
+                                                    ^
+
+2026-01-03 00:05:06,860 - ERROR - ✗ LTC/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('ltcusdt', 'daily', np.float64(82.25...
+                                                    ^
+
+2026-01-03 00:05:07,081 - ERROR - ✗ XRP/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('xrpusdt', 'daily', np.float64(2.031...
+                                                    ^
+
+2026-01-03 00:05:07,290 - ERROR - ✗ DOGE/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('dogeusdt', 'daily', np.float64(0.14...
+                                                     ^
+
+2026-01-03 00:05:07,482 - ERROR - ✗ LINK/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('linkusdt', 'daily', np.float64(13.4...
+                                                     ^
+
+2026-01-03 00:05:07,667 - ERROR - ✗ ADA/USDT daily failed: schema "np" does not exist
+LINE 4:                 VALUES ('adausdt', 'daily', np.float64(0.396...
+                                                    ^
+
+2026-01-03 00:05:07,668 - INFO - === Daily insertion complete: 0 success, 7 failed ===

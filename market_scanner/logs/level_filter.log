@@ -1,0 +1,304 @@
+2026-01-03 00:05:02,571 - INFO - Connected to database
+2026-01-03 00:05:07,668 - INFO - Database connection closed
+2026-01-03 01:08:32,982 - INFO - Connected to database
+2026-01-03 01:08:32,982 - INFO - Filtering levels for btcusdt daily
+2026-01-03 01:10:09,911 - INFO - Connected to database
+2026-01-03 01:10:09,911 - INFO - Filtering levels for btcusdt daily
+2026-01-03 01:11:19,346 - INFO - Connected to database
+2026-01-03 01:11:19,346 - INFO - Filtering levels for btcusdt daily
+2026-01-03 01:11:19,353 - INFO - Fetched 3024 high levels for btcusdt daily
+2026-01-03 01:11:19,353 - INFO - Filtering 3024 high levels for btcusdt daily
+2026-01-03 01:11:19,407 - INFO - Filtered highs for btcusdt daily: kept 23, deleted 3001
+2026-01-03 01:11:19,414 - INFO - Fetched 3086 low levels for btcusdt daily
+2026-01-03 01:11:19,415 - INFO - Filtering 3086 low levels for btcusdt daily
+2026-01-03 01:11:19,430 - INFO - Filtered lows for btcusdt daily: kept 91, deleted 2995
+2026-01-03 01:11:19,430 - INFO - Filtering levels for btcusdt weekly
+2026-01-03 01:11:19,434 - INFO - Fetched 1318 high levels for btcusdt weekly
+2026-01-03 01:11:19,434 - INFO - Filtering 1318 high levels for btcusdt weekly
+2026-01-03 01:11:19,456 - INFO - Filtered highs for btcusdt weekly: kept 7, deleted 1311
+2026-01-03 01:11:19,460 - INFO - Fetched 1379 low levels for btcusdt weekly
+2026-01-03 01:11:19,460 - INFO - Filtering 1379 low levels for btcusdt weekly
+2026-01-03 01:11:19,469 - INFO - Filtered lows for btcusdt weekly: kept 68, deleted 1311
+2026-01-03 01:11:19,469 - INFO - Filtering levels for btcusdt monthly
+2026-01-03 01:11:19,470 - INFO - Fetched 205 high levels for btcusdt monthly
+2026-01-03 01:11:19,470 - INFO - Filtering 205 high levels for btcusdt monthly
+2026-01-03 01:11:19,473 - INFO - Filtered highs for btcusdt monthly: kept 3, deleted 202
+2026-01-03 01:11:19,475 - INFO - Fetched 233 low levels for btcusdt monthly
+2026-01-03 01:11:19,475 - INFO - Filtering 233 low levels for btcusdt monthly
+2026-01-03 01:11:19,477 - INFO - Filtered lows for btcusdt monthly: kept 31, deleted 202
+2026-01-03 01:11:19,477 - INFO - Filtering levels for ethusdt daily
+2026-01-03 01:11:19,486 - INFO - Fetched 3023 high levels for ethusdt daily
+2026-01-03 01:11:19,486 - INFO - Filtering 3023 high levels for ethusdt daily
+2026-01-03 01:11:19,503 - INFO - Filtered highs for ethusdt daily: kept 24, deleted 2999
+2026-01-03 01:11:19,512 - INFO - Fetched 3026 low levels for ethusdt daily
+2026-01-03 01:11:19,512 - INFO - Filtering 3026 low levels for ethusdt daily
+2026-01-03 01:11:19,526 - INFO - Filtered lows for ethusdt daily: kept 31, deleted 2995
+2026-01-03 01:11:19,526 - INFO - Filtering levels for ethusdt weekly
+2026-01-03 01:11:19,529 - INFO - Fetched 1322 high levels for ethusdt weekly
+2026-01-03 01:11:19,529 - INFO - Filtering 1322 high levels for ethusdt weekly
+2026-01-03 01:11:19,535 - INFO - Filtered highs for ethusdt weekly: kept 11, deleted 1311
+2026-01-03 01:11:19,537 - INFO - Fetched 1363 low levels for ethusdt weekly
+2026-01-03 01:11:19,538 - INFO - Filtering 1363 low levels for ethusdt weekly
+2026-01-03 01:11:19,543 - INFO - Filtered lows for ethusdt weekly: kept 52, deleted 1311
+2026-01-03 01:11:19,543 - INFO - Filtering levels for ethusdt monthly
+2026-01-03 01:11:19,544 - INFO - Fetched 207 high levels for ethusdt monthly
+2026-01-03 01:11:19,544 - INFO - Filtering 207 high levels for ethusdt monthly
+2026-01-03 01:11:19,546 - INFO - Filtered highs for ethusdt monthly: kept 5, deleted 202
+2026-01-03 01:11:19,547 - INFO - Fetched 225 low levels for ethusdt monthly
+2026-01-03 01:11:19,547 - INFO - Filtering 225 low levels for ethusdt monthly
+2026-01-03 01:11:19,549 - INFO - Filtered lows for ethusdt monthly: kept 23, deleted 202
+2026-01-03 01:11:19,549 - INFO - Filtering levels for ltcusdt daily
+2026-01-03 01:11:19,554 - INFO - Fetched 3023 high levels for ltcusdt daily
+2026-01-03 01:11:19,554 - INFO - Filtering 3023 high levels for ltcusdt daily
+2026-01-03 01:11:19,565 - INFO - Filtered highs for ltcusdt daily: kept 20, deleted 3003
+2026-01-03 01:11:19,570 - INFO - Fetched 3005 low levels for ltcusdt daily
+2026-01-03 01:11:19,571 - INFO - Filtering 3005 low levels for ltcusdt daily
+2026-01-03 01:11:19,581 - INFO - Filtered lows for ltcusdt daily: kept 10, deleted 2995
+2026-01-03 01:11:19,581 - INFO - Filtering levels for ltcusdt weekly
+2026-01-03 01:11:19,584 - INFO - Fetched 1281 high levels for ltcusdt weekly
+2026-01-03 01:11:19,584 - INFO - Filtering 1281 high levels for ltcusdt weekly
+2026-01-03 01:11:19,589 - INFO - Filtered highs for ltcusdt weekly: kept 21, deleted 1260
+2026-01-03 01:11:19,591 - INFO - Fetched 1276 low levels for ltcusdt weekly
+2026-01-03 01:11:19,591 - INFO - Filtering 1276 low levels for ltcusdt weekly
+2026-01-03 01:11:19,597 - INFO - Filtered lows for ltcusdt weekly: kept 16, deleted 1260
+2026-01-03 01:11:19,597 - INFO - Filtering levels for ltcusdt monthly
+2026-01-03 01:11:19,598 - INFO - Fetched 204 high levels for ltcusdt monthly
+2026-01-03 01:11:19,598 - INFO - Filtering 204 high levels for ltcusdt monthly
+2026-01-03 01:11:19,600 - INFO - Filtered highs for ltcusdt monthly: kept 10, deleted 194
+2026-01-03 01:11:19,601 - INFO - Fetched 205 low levels for ltcusdt monthly
+2026-01-03 01:11:19,601 - INFO - Filtering 205 low levels for ltcusdt monthly
+2026-01-03 01:11:19,603 - INFO - Filtered lows for ltcusdt monthly: kept 11, deleted 194
+2026-01-03 01:11:19,603 - INFO - Filtering levels for xrpusdt daily
+2026-01-03 01:11:19,608 - INFO - Fetched 3040 high levels for xrpusdt daily
+2026-01-03 01:11:19,608 - INFO - Filtering 3040 high levels for xrpusdt daily
+2026-01-03 01:11:19,619 - INFO - Filtered highs for xrpusdt daily: kept 35, deleted 3005
+2026-01-03 01:11:19,624 - INFO - Fetched 3025 low levels for xrpusdt daily
+2026-01-03 01:11:19,624 - INFO - Filtering 3025 low levels for xrpusdt daily
+2026-01-03 01:11:19,635 - INFO - Filtered lows for xrpusdt daily: kept 30, deleted 2995
+2026-01-03 01:11:19,635 - INFO - Filtering levels for xrpusdt weekly
+2026-01-03 01:11:19,637 - INFO - Fetched 1216 high levels for xrpusdt weekly
+2026-01-03 01:11:19,637 - INFO - Filtering 1216 high levels for xrpusdt weekly
+2026-01-03 01:11:19,642 - INFO - Filtered highs for xrpusdt weekly: kept 16, deleted 1200
+2026-01-03 01:11:19,644 - INFO - Fetched 1227 low levels for xrpusdt weekly
+2026-01-03 01:11:19,645 - INFO - Filtering 1227 low levels for xrpusdt weekly
+2026-01-03 01:11:19,649 - INFO - Filtered lows for xrpusdt weekly: kept 27, deleted 1200
+2026-01-03 01:11:19,650 - INFO - Filtering levels for xrpusdt monthly
+2026-01-03 01:11:19,650 - INFO - Fetched 190 high levels for xrpusdt monthly
+2026-01-03 01:11:19,650 - INFO - Filtering 190 high levels for xrpusdt monthly
+2026-01-03 01:11:19,652 - INFO - Filtered highs for xrpusdt monthly: kept 6, deleted 184
+2026-01-03 01:11:19,653 - INFO - Fetched 199 low levels for xrpusdt monthly
+2026-01-03 01:11:19,653 - INFO - Filtering 199 low levels for xrpusdt monthly
+2026-01-03 01:11:19,655 - INFO - Filtered lows for xrpusdt monthly: kept 15, deleted 184
+2026-01-03 01:11:19,655 - INFO - Filtering levels for dogeusdt daily
+2026-01-03 01:11:19,660 - INFO - Fetched 3055 high levels for dogeusdt daily
+2026-01-03 01:11:19,660 - INFO - Filtering 3055 high levels for dogeusdt daily
+2026-01-03 01:11:19,671 - INFO - Filtered highs for dogeusdt daily: kept 46, deleted 3009
+2026-01-03 01:11:19,676 - INFO - Fetched 3032 low levels for dogeusdt daily
+2026-01-03 01:11:19,676 - INFO - Filtering 3032 low levels for dogeusdt daily
+2026-01-03 01:11:19,687 - INFO - Filtered lows for dogeusdt daily: kept 37, deleted 2995
+2026-01-03 01:11:19,687 - INFO - Filtering levels for dogeusdt weekly
+2026-01-03 01:11:19,689 - INFO - Fetched 1038 high levels for dogeusdt weekly
+2026-01-03 01:11:19,689 - INFO - Filtering 1038 high levels for dogeusdt weekly
+2026-01-03 01:11:19,694 - INFO - Filtered highs for dogeusdt weekly: kept 21, deleted 1017
+2026-01-03 01:11:19,696 - INFO - Fetched 1062 low levels for dogeusdt weekly
+2026-01-03 01:11:19,696 - INFO - Filtering 1062 low levels for dogeusdt weekly
+2026-01-03 01:11:19,701 - INFO - Filtered lows for dogeusdt weekly: kept 45, deleted 1017
+2026-01-03 01:11:19,701 - INFO - Filtering levels for dogeusdt monthly
+2026-01-03 01:11:19,702 - INFO - Fetched 164 high levels for dogeusdt monthly
+2026-01-03 01:11:19,702 - INFO - Filtering 164 high levels for dogeusdt monthly
+2026-01-03 01:11:19,704 - INFO - Filtered highs for dogeusdt monthly: kept 8, deleted 156
+2026-01-03 01:11:19,705 - INFO - Fetched 177 low levels for dogeusdt monthly
+2026-01-03 01:11:19,705 - INFO - Filtering 177 low levels for dogeusdt monthly
+2026-01-03 01:11:19,706 - INFO - Filtered lows for dogeusdt monthly: kept 21, deleted 156
+2026-01-03 01:11:19,706 - INFO - Filtering levels for linkusdt daily
+2026-01-03 01:11:19,712 - INFO - Fetched 3033 high levels for linkusdt daily
+2026-01-03 01:11:19,712 - INFO - Filtering 3033 high levels for linkusdt daily
+2026-01-03 01:11:19,722 - INFO - Filtered highs for linkusdt daily: kept 33, deleted 3000
+2026-01-03 01:11:19,727 - INFO - Fetched 3028 low levels for linkusdt daily
+2026-01-03 01:11:19,727 - INFO - Filtering 3028 low levels for linkusdt daily
+2026-01-03 01:11:19,738 - INFO - Filtered lows for linkusdt daily: kept 31, deleted 2997
+2026-01-03 01:11:19,738 - INFO - Filtering levels for linkusdt weekly
+2026-01-03 01:11:19,740 - INFO - Fetched 1108 high levels for linkusdt weekly
+2026-01-03 01:11:19,740 - INFO - Filtering 1108 high levels for linkusdt weekly
+2026-01-03 01:11:19,745 - INFO - Filtered highs for linkusdt weekly: kept 19, deleted 1089
+2026-01-03 01:11:19,747 - INFO - Fetched 1113 low levels for linkusdt weekly
+2026-01-03 01:11:19,747 - INFO - Filtering 1113 low levels for linkusdt weekly
+2026-01-03 01:11:19,752 - INFO - Filtered lows for linkusdt weekly: kept 24, deleted 1089
+2026-01-03 01:11:19,752 - INFO - Filtering levels for linkusdt monthly
+2026-01-03 01:11:19,753 - INFO - Fetched 176 high levels for linkusdt monthly
+2026-01-03 01:11:19,753 - INFO - Filtering 176 high levels for linkusdt monthly
+2026-01-03 01:11:19,755 - INFO - Filtered highs for linkusdt monthly: kept 8, deleted 168
+2026-01-03 01:11:19,756 - INFO - Fetched 180 low levels for linkusdt monthly
+2026-01-03 01:11:19,756 - INFO - Filtering 180 low levels for linkusdt monthly
+2026-01-03 01:11:19,758 - INFO - Filtered lows for linkusdt monthly: kept 12, deleted 168
+2026-01-03 01:11:19,758 - INFO - Filtering levels for adausdt daily
+2026-01-03 01:11:19,763 - INFO - Fetched 3050 high levels for adausdt daily
+2026-01-03 01:11:19,764 - INFO - Filtering 3050 high levels for adausdt daily
+2026-01-03 01:11:19,774 - INFO - Filtered highs for adausdt daily: kept 51, deleted 2999
+2026-01-03 01:11:19,779 - INFO - Fetched 3007 low levels for adausdt daily
+2026-01-03 01:11:19,779 - INFO - Filtering 3007 low levels for adausdt daily
+2026-01-03 01:11:19,790 - INFO - Filtered lows for adausdt daily: kept 12, deleted 2995
+2026-01-03 01:11:19,790 - INFO - Filtering levels for adausdt weekly
+2026-01-03 01:11:19,792 - INFO - Fetched 1232 high levels for adausdt weekly
+2026-01-03 01:11:19,792 - INFO - Filtering 1232 high levels for adausdt weekly
+2026-01-03 01:11:19,797 - INFO - Filtered highs for adausdt weekly: kept 26, deleted 1206
+2026-01-03 01:11:19,800 - INFO - Fetched 1232 low levels for adausdt weekly
+2026-01-03 01:11:19,800 - INFO - Filtering 1232 low levels for adausdt weekly
+2026-01-03 01:11:19,805 - INFO - Filtered lows for adausdt weekly: kept 26, deleted 1206
+2026-01-03 01:11:19,805 - INFO - Filtering levels for adausdt monthly
+2026-01-03 01:11:19,806 - INFO - Fetched 197 high levels for adausdt monthly
+2026-01-03 01:11:19,806 - INFO - Filtering 197 high levels for adausdt monthly
+2026-01-03 01:11:19,808 - INFO - Filtered highs for adausdt monthly: kept 11, deleted 186
+2026-01-03 01:11:19,809 - INFO - Fetched 199 low levels for adausdt monthly
+2026-01-03 01:11:19,809 - INFO - Filtering 199 low levels for adausdt monthly
+2026-01-03 01:11:19,811 - INFO - Filtered lows for adausdt monthly: kept 13, deleted 186
+2026-01-03 01:11:19,811 - INFO - Database connection closed
+2026-01-03 01:26:53,917 - INFO - Connected to database
+2026-01-03 01:26:53,917 - INFO - Filtering levels for btcusdt daily
+2026-01-03 01:26:53,924 - INFO - Fetched 999 high levels for btcusdt daily
+2026-01-03 01:26:53,924 - INFO - Filtering 999 high levels for btcusdt daily
+2026-01-03 01:26:53,930 - INFO - Filtered highs for btcusdt daily: kept 23, deleted 976
+2026-01-03 01:26:53,936 - INFO - Fetched 999 low levels for btcusdt daily
+2026-01-03 01:26:53,936 - INFO - Filtering 999 low levels for btcusdt daily
+2026-01-03 01:26:53,941 - INFO - Filtered lows for btcusdt daily: kept 91, deleted 908
+2026-01-03 01:26:53,941 - INFO - Filtering levels for btcusdt weekly
+2026-01-03 01:26:53,942 - INFO - Fetched 437 high levels for btcusdt weekly
+2026-01-03 01:26:53,942 - INFO - Filtering 437 high levels for btcusdt weekly
+2026-01-03 01:26:53,945 - INFO - Filtered highs for btcusdt weekly: kept 7, deleted 430
+2026-01-03 01:26:53,946 - INFO - Fetched 437 low levels for btcusdt weekly
+2026-01-03 01:26:53,946 - INFO - Filtering 437 low levels for btcusdt weekly
+2026-01-03 01:26:53,949 - INFO - Filtered lows for btcusdt weekly: kept 68, deleted 369
+2026-01-03 01:26:53,949 - INFO - Filtering levels for btcusdt monthly
+2026-01-03 01:26:53,950 - INFO - Fetched 101 high levels for btcusdt monthly
+2026-01-03 01:26:53,950 - INFO - Filtering 101 high levels for btcusdt monthly
+2026-01-03 01:26:53,952 - INFO - Filtered highs for btcusdt monthly: kept 3, deleted 98
+2026-01-03 01:26:53,952 - INFO - Fetched 101 low levels for btcusdt monthly
+2026-01-03 01:26:53,952 - INFO - Filtering 101 low levels for btcusdt monthly
+2026-01-03 01:26:53,954 - INFO - Filtered lows for btcusdt monthly: kept 31, deleted 70
+2026-01-03 01:26:53,954 - INFO - Filtering levels for ethusdt daily
+2026-01-03 01:26:53,956 - INFO - Fetched 999 high levels for ethusdt daily
+2026-01-03 01:26:53,956 - INFO - Filtering 999 high levels for ethusdt daily
+2026-01-03 01:26:53,961 - INFO - Filtered highs for ethusdt daily: kept 24, deleted 975
+2026-01-03 01:26:53,963 - INFO - Fetched 999 low levels for ethusdt daily
+2026-01-03 01:26:53,963 - INFO - Filtering 999 low levels for ethusdt daily
+2026-01-03 01:26:53,967 - INFO - Filtered lows for ethusdt daily: kept 31, deleted 968
+2026-01-03 01:26:53,967 - INFO - Filtering levels for ethusdt weekly
+2026-01-03 01:26:53,968 - INFO - Fetched 437 high levels for ethusdt weekly
+2026-01-03 01:26:53,968 - INFO - Filtering 437 high levels for ethusdt weekly
+2026-01-03 01:26:53,970 - INFO - Filtered highs for ethusdt weekly: kept 11, deleted 426
+2026-01-03 01:26:53,971 - INFO - Fetched 437 low levels for ethusdt weekly
+2026-01-03 01:26:53,971 - INFO - Filtering 437 low levels for ethusdt weekly
+2026-01-03 01:26:53,974 - INFO - Filtered lows for ethusdt weekly: kept 52, deleted 385
+2026-01-03 01:26:53,974 - INFO - Filtering levels for ethusdt monthly
+2026-01-03 01:26:53,975 - INFO - Fetched 101 high levels for ethusdt monthly
+2026-01-03 01:26:53,975 - INFO - Filtering 101 high levels for ethusdt monthly
+2026-01-03 01:26:53,977 - INFO - Filtered highs for ethusdt monthly: kept 5, deleted 96
+2026-01-03 01:26:53,977 - INFO - Fetched 101 low levels for ethusdt monthly
+2026-01-03 01:26:53,977 - INFO - Filtering 101 low levels for ethusdt monthly
+2026-01-03 01:26:53,979 - INFO - Filtered lows for ethusdt monthly: kept 23, deleted 78
+2026-01-03 01:26:53,979 - INFO - Filtering levels for ltcusdt daily
+2026-01-03 01:26:53,981 - INFO - Fetched 999 high levels for ltcusdt daily
+2026-01-03 01:26:53,981 - INFO - Filtering 999 high levels for ltcusdt daily
+2026-01-03 01:26:53,985 - INFO - Filtered highs for ltcusdt daily: kept 20, deleted 979
+2026-01-03 01:26:53,987 - INFO - Fetched 999 low levels for ltcusdt daily
+2026-01-03 01:26:53,987 - INFO - Filtering 999 low levels for ltcusdt daily
+2026-01-03 01:26:53,991 - INFO - Filtered lows for ltcusdt daily: kept 10, deleted 989
+2026-01-03 01:26:53,991 - INFO - Filtering levels for ltcusdt weekly
+2026-01-03 01:26:53,993 - INFO - Fetched 420 high levels for ltcusdt weekly
+2026-01-03 01:26:53,993 - INFO - Filtering 420 high levels for ltcusdt weekly
+2026-01-03 01:26:53,995 - INFO - Filtered highs for ltcusdt weekly: kept 21, deleted 399
+2026-01-03 01:26:53,996 - INFO - Fetched 420 low levels for ltcusdt weekly
+2026-01-03 01:26:53,996 - INFO - Filtering 420 low levels for ltcusdt weekly
+2026-01-03 01:26:53,998 - INFO - Filtered lows for ltcusdt weekly: kept 16, deleted 404
+2026-01-03 01:26:53,999 - INFO - Filtering levels for ltcusdt monthly
+2026-01-03 01:26:53,999 - INFO - Fetched 97 high levels for ltcusdt monthly
+2026-01-03 01:26:53,999 - INFO - Filtering 97 high levels for ltcusdt monthly
+2026-01-03 01:26:54,001 - INFO - Filtered highs for ltcusdt monthly: kept 10, deleted 87
+2026-01-03 01:26:54,001 - INFO - Fetched 97 low levels for ltcusdt monthly
+2026-01-03 01:26:54,001 - INFO - Filtering 97 low levels for ltcusdt monthly
+2026-01-03 01:26:54,003 - INFO - Filtered lows for ltcusdt monthly: kept 11, deleted 86
+2026-01-03 01:26:54,003 - INFO - Filtering levels for xrpusdt daily
+2026-01-03 01:26:54,005 - INFO - Fetched 999 high levels for xrpusdt daily
+2026-01-03 01:26:54,005 - INFO - Filtering 999 high levels for xrpusdt daily
+2026-01-03 01:26:54,009 - INFO - Filtered highs for xrpusdt daily: kept 35, deleted 964
+2026-01-03 01:26:54,011 - INFO - Fetched 999 low levels for xrpusdt daily
+2026-01-03 01:26:54,011 - INFO - Filtering 999 low levels for xrpusdt daily
+2026-01-03 01:26:54,015 - INFO - Filtered lows for xrpusdt daily: kept 30, deleted 969
+2026-01-03 01:26:54,015 - INFO - Filtering levels for xrpusdt weekly
+2026-01-03 01:26:54,016 - INFO - Fetched 400 high levels for xrpusdt weekly
+2026-01-03 01:26:54,016 - INFO - Filtering 400 high levels for xrpusdt weekly
+2026-01-03 01:26:54,019 - INFO - Filtered highs for xrpusdt weekly: kept 16, deleted 384
+2026-01-03 01:26:54,020 - INFO - Fetched 400 low levels for xrpusdt weekly
+2026-01-03 01:26:54,020 - INFO - Filtering 400 low levels for xrpusdt weekly
+2026-01-03 01:26:54,022 - INFO - Filtered lows for xrpusdt weekly: kept 27, deleted 373
+2026-01-03 01:26:54,023 - INFO - Filtering levels for xrpusdt monthly
+2026-01-03 01:26:54,023 - INFO - Fetched 92 high levels for xrpusdt monthly
+2026-01-03 01:26:54,023 - INFO - Filtering 92 high levels for xrpusdt monthly
+2026-01-03 01:26:54,025 - INFO - Filtered highs for xrpusdt monthly: kept 6, deleted 86
+2026-01-03 01:26:54,026 - INFO - Fetched 92 low levels for xrpusdt monthly
+2026-01-03 01:26:54,027 - INFO - Filtering 92 low levels for xrpusdt monthly
+2026-01-03 01:26:54,029 - INFO - Filtered lows for xrpusdt monthly: kept 15, deleted 77
+2026-01-03 01:26:54,030 - INFO - Filtering levels for dogeusdt daily
+2026-01-03 01:26:54,035 - INFO - Fetched 999 high levels for dogeusdt daily
+2026-01-03 01:26:54,035 - INFO - Filtering 999 high levels for dogeusdt daily
+2026-01-03 01:26:54,045 - INFO - Filtered highs for dogeusdt daily: kept 46, deleted 953
+2026-01-03 01:26:54,050 - INFO - Fetched 999 low levels for dogeusdt daily
+2026-01-03 01:26:54,051 - INFO - Filtering 999 low levels for dogeusdt daily
+2026-01-03 01:26:54,062 - INFO - Filtered lows for dogeusdt daily: kept 37, deleted 962
+2026-01-03 01:26:54,062 - INFO - Filtering levels for dogeusdt weekly
+2026-01-03 01:26:54,065 - INFO - Fetched 339 high levels for dogeusdt weekly
+2026-01-03 01:26:54,065 - INFO - Filtering 339 high levels for dogeusdt weekly
+2026-01-03 01:26:54,070 - INFO - Filtered highs for dogeusdt weekly: kept 21, deleted 318
+2026-01-03 01:26:54,073 - INFO - Fetched 339 low levels for dogeusdt weekly
+2026-01-03 01:26:54,073 - INFO - Filtering 339 low levels for dogeusdt weekly
+2026-01-03 01:26:54,078 - INFO - Filtered lows for dogeusdt weekly: kept 45, deleted 294
+2026-01-03 01:26:54,078 - INFO - Filtering levels for dogeusdt monthly
+2026-01-03 01:26:54,079 - INFO - Fetched 78 high levels for dogeusdt monthly
+2026-01-03 01:26:54,080 - INFO - Filtering 78 high levels for dogeusdt monthly
+2026-01-03 01:26:54,082 - INFO - Filtered highs for dogeusdt monthly: kept 8, deleted 70
+2026-01-03 01:26:54,084 - INFO - Fetched 78 low levels for dogeusdt monthly
+2026-01-03 01:26:54,084 - INFO - Filtering 78 low levels for dogeusdt monthly
+2026-01-03 01:26:54,086 - INFO - Filtered lows for dogeusdt monthly: kept 21, deleted 57
+2026-01-03 01:26:54,087 - INFO - Filtering levels for linkusdt daily
+2026-01-03 01:26:54,092 - INFO - Fetched 999 high levels for linkusdt daily
+2026-01-03 01:26:54,092 - INFO - Filtering 999 high levels for linkusdt daily
+2026-01-03 01:26:54,102 - INFO - Filtered highs for linkusdt daily: kept 33, deleted 966
+2026-01-03 01:26:54,107 - INFO - Fetched 999 low levels for linkusdt daily
+2026-01-03 01:26:54,108 - INFO - Filtering 999 low levels for linkusdt daily
+2026-01-03 01:26:54,116 - INFO - Filtered lows for linkusdt daily: kept 31, deleted 968
+2026-01-03 01:26:54,116 - INFO - Filtering levels for linkusdt weekly
+2026-01-03 01:26:54,119 - INFO - Fetched 363 high levels for linkusdt weekly
+2026-01-03 01:26:54,119 - INFO - Filtering 363 high levels for linkusdt weekly
+2026-01-03 01:26:54,123 - INFO - Filtered highs for linkusdt weekly: kept 19, deleted 344
+2026-01-03 01:26:54,125 - INFO - Fetched 363 low levels for linkusdt weekly
+2026-01-03 01:26:54,125 - INFO - Filtering 363 low levels for linkusdt weekly
+2026-01-03 01:26:54,129 - INFO - Filtered lows for linkusdt weekly: kept 24, deleted 339
+2026-01-03 01:26:54,129 - INFO - Filtering levels for linkusdt monthly
+2026-01-03 01:26:54,130 - INFO - Fetched 84 high levels for linkusdt monthly
+2026-01-03 01:26:54,130 - INFO - Filtering 84 high levels for linkusdt monthly
+2026-01-03 01:26:54,133 - INFO - Filtered highs for linkusdt monthly: kept 8, deleted 76
+2026-01-03 01:26:54,134 - INFO - Fetched 84 low levels for linkusdt monthly
+2026-01-03 01:26:54,134 - INFO - Filtering 84 low levels for linkusdt monthly
+2026-01-03 01:26:54,136 - INFO - Filtered lows for linkusdt monthly: kept 12, deleted 72
+2026-01-03 01:26:54,136 - INFO - Filtering levels for adausdt daily
+2026-01-03 01:26:54,140 - INFO - Fetched 999 high levels for adausdt daily
+2026-01-03 01:26:54,140 - INFO - Filtering 999 high levels for adausdt daily
+2026-01-03 01:26:54,148 - INFO - Filtered highs for adausdt daily: kept 51, deleted 948
+2026-01-03 01:26:54,152 - INFO - Fetched 999 low levels for adausdt daily
+2026-01-03 01:26:54,152 - INFO - Filtering 999 low levels for adausdt daily
+2026-01-03 01:26:54,159 - INFO - Filtered lows for adausdt daily: kept 12, deleted 987
+2026-01-03 01:26:54,159 - INFO - Filtering levels for adausdt weekly
+2026-01-03 01:26:54,161 - INFO - Fetched 402 high levels for adausdt weekly
+2026-01-03 01:26:54,161 - INFO - Filtering 402 high levels for adausdt weekly
+2026-01-03 01:26:54,164 - INFO - Filtered highs for adausdt weekly: kept 26, deleted 376
+2026-01-03 01:26:54,166 - INFO - Fetched 402 low levels for adausdt weekly
+2026-01-03 01:26:54,166 - INFO - Filtering 402 low levels for adausdt weekly
+2026-01-03 01:26:54,169 - INFO - Filtered lows for adausdt weekly: kept 26, deleted 376
+2026-01-03 01:26:54,170 - INFO - Filtering levels for adausdt monthly
+2026-01-03 01:26:54,170 - INFO - Fetched 93 high levels for adausdt monthly
+2026-01-03 01:26:54,171 - INFO - Filtering 93 high levels for adausdt monthly
+2026-01-03 01:26:54,173 - INFO - Filtered highs for adausdt monthly: kept 11, deleted 82
+2026-01-03 01:26:54,173 - INFO - Fetched 93 low levels for adausdt monthly
+2026-01-03 01:26:54,174 - INFO - Filtering 93 low levels for adausdt monthly
+2026-01-03 01:26:54,176 - INFO - Filtered lows for adausdt monthly: kept 13, deleted 80
+2026-01-03 01:26:54,176 - INFO - Database connection closed

@@ -1,0 +1,28 @@
+2026-01-03 00:55:53,298 - ERROR - Error processing BTC/USDT 1M: relation "btcusdt_1m" does not exist
+LINE 2:                 INSERT INTO btcusdt_1M 
+                                    ^
+
+2026-01-03 00:55:54,850 - ERROR - Error processing ETH/USDT 1M: relation "ethusdt_1m" does not exist
+LINE 2:                 INSERT INTO ethusdt_1M 
+                                    ^
+
+2026-01-03 00:55:56,746 - ERROR - Error processing LTC/USDT 1M: relation "ltcusdt_1m" does not exist
+LINE 2:                 INSERT INTO ltcusdt_1M 
+                                    ^
+
+2026-01-03 00:55:58,420 - ERROR - Error processing XRP/USDT 1M: relation "xrpusdt_1m" does not exist
+LINE 2:                 INSERT INTO xrpusdt_1M 
+                                    ^
+
+2026-01-03 00:56:00,056 - ERROR - Error processing DOGE/USDT 1M: relation "dogeusdt_1m" does not exist
+LINE 2:                 INSERT INTO dogeusdt_1M 
+                                    ^
+
+2026-01-03 00:56:01,921 - ERROR - Error processing LINK/USDT 1M: relation "linkusdt_1m" does not exist
+LINE 2:                 INSERT INTO linkusdt_1M 
+                                    ^
+
+2026-01-03 00:56:03,563 - ERROR - Error processing ADA/USDT 1M: relation "adausdt_1m" does not exist
+LINE 2:                 INSERT INTO adausdt_1M 
+                                    ^
+
