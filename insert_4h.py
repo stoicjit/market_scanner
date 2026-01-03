@@ -1,10 +1,12 @@
 """
 Cron job: Insert latest 4h candles for all symbols
+Then check for fakeouts against weekly levels
 Run every 4 hours at :00:05 (00:00, 04:00, 08:00, 12:00, 16:00, 20:00)
 """
 
 from data_fetcher import DataFetcher
 from db_manager import DBManager
+from fakeout_detector import FakeoutDetector
 import logging
 import os
 from datetime import datetime
@@ -28,7 +30,7 @@ logger.addHandler(ch)
 
 
 def insert_4h_candles():
-    """Insert latest 4h candle for all symbols"""
+    """Insert latest 4h candle for all symbols and check for fakeouts"""
     
     symbols = ['BTC/USDT', 'ETH/USDT', 'LTC/USDT', 'XRP/USDT', 
                'DOGE/USDT', 'LINK/USDT', 'ADA/USDT']
@@ -63,6 +65,13 @@ def insert_4h_candles():
     db.close()
     
     logger.info(f"=== 4h insertion complete: {success} success, {failed} failed ===")
+    
+    # Check for fakeouts
+    logger.info("=== Checking for fakeouts ===")
+    detector = FakeoutDetector()
+    detector.check_all_symbols('4h')
+    detector.close()
+    logger.info("=== Fakeout check complete ===")
 
 
 if __name__ == '__main__':

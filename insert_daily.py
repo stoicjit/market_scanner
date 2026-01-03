@@ -1,12 +1,13 @@
 """
 Cron job: Insert latest daily candles for all symbols
-Also inserts levels and filters them
+Also inserts levels, filters them, and checks for fakeouts
 Run daily at 00:00:05 UTC
 """
 
 from data_fetcher import DataFetcher
 from db_manager import DBManager
 from level_filter import LevelFilter
+from fakeout_detector import FakeoutDetector
 import logging
 import os
 from datetime import datetime
@@ -30,7 +31,7 @@ logger.addHandler(ch)
 
 
 def insert_daily_candles():
-    """Insert latest daily candle for all symbols + levels"""
+    """Insert latest daily candle for all symbols + levels + check fakeouts"""
     
     symbols = ['BTC/USDT', 'ETH/USDT', 'LTC/USDT', 'XRP/USDT', 
                'DOGE/USDT', 'LINK/USDT', 'ADA/USDT']
@@ -81,6 +82,13 @@ def insert_daily_candles():
     filter_obj.close()
     
     logger.info(f"=== Daily insertion complete: {success} success, {failed} failed ===")
+    
+    # Check for fakeouts
+    logger.info("=== Checking for fakeouts ===")
+    detector = FakeoutDetector()
+    detector.check_all_symbols('1d')
+    detector.close()
+    logger.info("=== Fakeout check complete ===")
 
 
 if __name__ == '__main__':
