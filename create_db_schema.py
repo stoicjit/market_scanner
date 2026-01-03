@@ -7,6 +7,11 @@ Creates all necessary tables for the crypto fakeout scanner
 import psycopg2
 import os
 from psycopg2 import sql
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Database connection
 DB_URL = os.getenv('DB_URL')

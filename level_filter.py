@@ -59,7 +59,7 @@ class LevelFilter:
         cursor = self.conn.cursor()
         cursor.execute(f"""
             SELECT id, level, timestamp 
-            FROM {table_name}
+            FROM "{table_name}"
             WHERE symbol = %s AND timeframe = %s
             ORDER BY timestamp ASC
         """, (symbol, timeframe))

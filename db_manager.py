@@ -85,7 +85,7 @@ class DBManager:
             cursor = self.conn.cursor()
             
             query = f"""
-                INSERT INTO {table_name} 
+                INSERT INTO "{table_name}" 
                 (timestamp, open, high, low, close, volume, rsi_8, ema_20, ema_50)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (timestamp) DO NOTHING
@@ -177,7 +177,7 @@ class DBManager:
         try:
             cursor = self.conn.cursor()
             cursor.execute(
-                f"SELECT COUNT(*) FROM {table_name} WHERE symbol = %s AND timeframe = %s",
+                f'''SELECT COUNT(*) FROM "{table_name}" WHERE symbol = %s AND timeframe = %s''',
                 (symbol, timeframe)
             )
             count = cursor.fetchone()[0]
