@@ -152,7 +152,7 @@ class DBManager:
         
         try:
             cursor = self.conn.cursor()
-            cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
+            cursor.execute(f'''SELECT COUNT(*) FROM "{table_name}"''')
             count = cursor.fetchone()[0]
             cursor.close()
             return count
