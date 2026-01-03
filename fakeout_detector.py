@@ -8,6 +8,7 @@ import os
 import logging
 from dotenv import load_dotenv
 from typing import List, Tuple, Optional
+from telegram_notifier import TelegramNotifier
 
 # Load environment variables
 load_dotenv()
@@ -36,6 +37,15 @@ class FakeoutDetector:
         
         self.conn = psycopg2.connect(self.db_url)
         self.conn.autocommit = False
+        
+        # Initialize Telegram notifier
+        try:
+            self.notifier = TelegramNotifier()
+            logger.info("Telegram notifier initialized")
+        except Exception as e:
+            logger.warning(f"Telegram notifier not available: {e}")
+            self.notifier = None
+        
         logger.info("Connected to database")
     
     def close(self):
@@ -70,7 +80,7 @@ class FakeoutDetector:
     
     def get_latest_candle(self, symbol: str, timeframe: str) -> Optional[dict]:
         """
-        Get the most recent candle from a table
+        Get the most recently inserted candle from a table (by ID, not timestamp)
         
         Returns:
             dict with candle data or None
@@ -81,7 +91,7 @@ class FakeoutDetector:
         cursor.execute(f"""
             SELECT timestamp, open, high, low, close, is_fakeout
             FROM {table_name}
-            ORDER BY timestamp DESC
+            ORDER BY id DESC
             LIMIT 1
         """)
         
@@ -135,9 +145,10 @@ class FakeoutDetector:
         
         return None
     
-    def mark_fakeout(self, symbol: str, timeframe: str, timestamp, fakeout_type: str, fakeout_level: float):
+    def mark_fakeout(self, symbol: str, timeframe: str, timestamp, fakeout_type: str, 
+                    fakeout_level: float, candle: dict = None):
         """
-        Mark a candle as a fakeout in the database
+        Mark a candle as a fakeout in the database and send Telegram notification
         
         Args:
             symbol: e.g., 'btcusdt'
@@ -145,6 +156,7 @@ class FakeoutDetector:
             timestamp: candle timestamp
             fakeout_type: 'high' or 'low'
             fakeout_level: the level that was faked out
+            candle: dict with candle data for notification
         """
         table_name = f'"{symbol}_{timeframe}"'
         
@@ -161,6 +173,14 @@ class FakeoutDetector:
             self.conn.commit()
             cursor.close()
             logger.info(f"Marked {symbol} {timeframe} candle at {timestamp} as {fakeout_type} fakeout")
+            
+            # Send Telegram notification
+            if self.notifier and candle:
+                try:
+                    self.notifier.send_fakeout_alert(symbol, timeframe, fakeout_type, 
+                                                     fakeout_level, candle)
+                except Exception as e:
+                    logger.error(f"Failed to send Telegram notification: {e}")
             
         except Exception as e:
             self.conn.rollback()
@@ -197,14 +217,14 @@ class FakeoutDetector:
         result = self.check_fakeout(candle, high_levels, 'high')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '1h', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '1h', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         # Check for low fakeout
         result = self.check_fakeout(candle, low_levels, 'low')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '1h', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '1h', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         logger.info("No fakeout detected")
@@ -237,14 +257,14 @@ class FakeoutDetector:
         result = self.check_fakeout(candle, high_levels, 'high')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '4h', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '4h', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         # Check for low fakeout
         result = self.check_fakeout(candle, low_levels, 'low')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '4h', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '4h', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         logger.info("No fakeout detected")
@@ -277,14 +297,14 @@ class FakeoutDetector:
         result = self.check_fakeout(candle, high_levels, 'high')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '1d', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '1d', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         # Check for low fakeout
         result = self.check_fakeout(candle, low_levels, 'low')
         if result:
             fakeout_type, level = result
-            self.mark_fakeout(symbol, '1d', candle['timestamp'], fakeout_type, level)
+            self.mark_fakeout(symbol, '1d', candle['timestamp'], fakeout_type, level, candle)
             return True
         
         logger.info("No fakeout detected")
