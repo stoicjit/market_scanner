@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Fakeout Scanner</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #111; color: #fff; padding: 20px; margin: 0; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 { color: #60a5fa; }
+        .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0; }
+        .stat-card { background: #1f2937; padding: 20px; border-radius: 8px; border: 1px solid #374151; }
+        .stat-value { font-size: 36px; font-weight: bold; margin: 10px 0; }
+        .fakeouts { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin: 20px 0; }
+        .fakeout { background: #1f2937; padding: 15px; border-radius: 8px; border: 1px solid #374151; cursor: pointer; }
+        .fakeout:hover { border-color: #60a5fa; }
+        .fakeout-header { display: flex; justify-content: space-between; margin-bottom: 10px; }
+        .symbol { font-size: 18px; font-weight: bold; }
+        .type { padding: 4px 8px; border-radius: 4px; font-size: 12px; }
+        .type.high { background: rgba(239,68,68,0.2); color: #ef4444; }
+        .type.low { background: rgba(16,185,129,0.2); color: #10b981; }
+        .data { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; }
+        .data div { display: flex; justify-content: space-between; }
+        .label { color: #9ca3af; }
+        button { background: #2563eb; color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; }
+        button:hover { background: #1d4ed8; }
+        .loading { text-align: center; padding: 40px; color: #9ca3af; }
+        .error { background: rgba(239,68,68,0.1); border: 1px solid #ef4444; padding: 15px; border-radius: 8px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Crypto Fakeout Scanner</h1>
+        <div id="apiInfo" style="color: #6b7280; font-size: 12px; margin-bottom: 20px;"></div>
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <button onclick="loadData()">🔄 Refresh</button>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div style="color: #9ca3af;">Today</div>
+                <div class="stat-value" id="today">0</div>
+            </div>
+            <div class="stat-card">
+                <div style="color: #9ca3af;">This Week</div>
+                <div class="stat-value" id="week">0</div>
+            </div>
+            <div class="stat-card">
+                <div style="color: #9ca3af;">This Month</div>
+                <div class="stat-value" id="month">0</div>
+            </div>
+        </div>
+
+        <h2>Recent Fakeouts</h2>
+        <div id="fakeouts" class="fakeouts">
+            <div class="loading">Loading...</div>
+        </div>
+    </div>
+
+    <script>
+        // ⚠️ CHANGE THIS TO YOUR SERVER IP
+        const API = 'http://YOUR_SERVER_IP:8000/api';
+        
+        document.getElementById('apiInfo').textContent = `API: ${API}`;
+
+        async function loadData() {
+            try {
+                document.getElementById('error').style.display = 'none';
+                
+                // Get stats
+                const statsRes = await fetch(`${API}/fakeouts/stats`);
+                const stats = await statsRes.json();
+                document.getElementById('today').textContent = stats.today || 0;
+                document.getElementById('week').textContent = stats.week || 0;
+                document.getElementById('month').textContent = stats.month || 0;
+
+                // Get fakeouts
+                const fakeoutsRes = await fetch(`${API}/fakeouts?limit=20`);
+                const data = await fakeoutsRes.json();
+                
+                const container = document.getElementById('fakeouts');
+                if (data.fakeouts.length === 0) {
+                    container.innerHTML = '<div class="loading">No fakeouts yet</div>';
+                    return;
+                }
+                
+                container.innerHTML = data.fakeouts.map(f => `
+                    <div class="fakeout">
+                        <div class="fakeout-header">
+                            <span class="symbol">${f.symbol.toUpperCase()} - ${f.timeframe}</span>
+                            <span class="type ${f.fakeout_type}">${f.fakeout_type === 'high' ? '🔴' : '🟢'} ${f.fakeout_type.toUpperCase()}</span>
+                        </div>
+                        <div class="data">
+                            <div><span class="label">Level:</span> $${parseFloat(f.fakeout_level).toFixed(2)}</div>
+                            <div><span class="label">Close:</span> $${parseFloat(f.close).toFixed(2)}</div>
+                            <div><span class="label">High:</span> $${parseFloat(f.high).toFixed(2)}</div>
+                            <div><span class="label">Low:</span> $${parseFloat(f.low).toFixed(2)}</div>
+                        </div>
+                        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #374151; font-size: 12px; color: #9ca3af;">
+                            ${new Date(f.timestamp).toLocaleString()}
+                        </div>
+                    </div>
+                `).join('');
+            } catch (err) {
+                document.getElementById('error').textContent = `Error: ${err.message}. Make sure to update API URL and check server is running.`;
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        // Auto-load on page load
+        loadData();
+        
+        // Auto-refresh every 30 seconds
+        setInterval(loadData, 30000);
+    </script>
+</body>
+</html>
