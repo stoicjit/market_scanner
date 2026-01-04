@@ -31,7 +31,7 @@
 <body>
     <div class="container">
         <h1>🚀 Crypto Fakeout Scanner</h1>
-        <div id="apiInfo" style="color: #6b7280; font-size: 12px; margin-bottom: 20px;"></div>
+        <div id="apiInfo" style="color: #6b7280; font-size: 12px; margin-bottom: 20px;">API: /api</div>
         <div id="error" class="error" style="display: none;"></div>
         
         <button onclick="loadData()">🔄 Refresh</button>
@@ -58,11 +58,9 @@
     </div>
 
     <script>
-        // ⚠️ CHANGE THIS TO YOUR SERVER IP
-        const API = 'http://YOUR_SERVER_IP:8000/api';
+        // ✅ Use relative path; no IP hardcoded
+        const API = '/api';
         
-        document.getElementById('apiInfo').textContent = `API: ${API}`;
-
         async function loadData() {
             try {
                 document.getElementById('error').style.display = 'none';
@@ -79,7 +77,7 @@
                 const data = await fakeoutsRes.json();
                 
                 const container = document.getElementById('fakeouts');
-                if (data.fakeouts.length === 0) {
+                if (!data.fakeouts || data.fakeouts.length === 0) {
                     container.innerHTML = '<div class="loading">No fakeouts yet</div>';
                     return;
                 }
@@ -102,7 +100,7 @@
                     </div>
                 `).join('');
             } catch (err) {
-                document.getElementById('error').textContent = `Error: ${err.message}. Make sure to update API URL and check server is running.`;
+                document.getElementById('error').textContent = `Error: ${err.message}. Make sure server is running.`;
                 document.getElementById('error').style.display = 'block';
             }
         }
