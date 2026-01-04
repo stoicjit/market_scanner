@@ -8,11 +8,22 @@ from dotenv import load_dotenv
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from contextlib import contextmanager
+from fastapi.templating import Jinja2Templates
+from fastapi import Request
+from fastapi.responses import HTMLResponse
+
+templates = Jinja2Templates(directory="templates")
 
 # Load environment variables
 load_dotenv()
 
 app = FastAPI(title="Crypto Fakeout Scanner API", version="1.0.0")
+
+@app.get("/", response_class=HTMLResponse)
+async def serve_frontend(request: Request):
+    """Serve the HTML dashboard"""
+    return templates.TemplateResponse("index.html", {"request": request})
+
 
 # CORS middleware
 app.add_middleware(
