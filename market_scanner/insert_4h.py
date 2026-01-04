@@ -9,7 +9,7 @@ from db_manager import DBManager
 from fakeout_detector import FakeoutDetector
 import logging
 import os
-from datetime import datetime
+from datetime import datetime,timezone
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -38,7 +38,7 @@ def insert_4h_candles():
     fetcher = DataFetcher()
     db = DBManager()
     
-    logger.info(f"=== Starting 4h candle insertion at {datetime.utcnow()} UTC ===")
+    logger.info(f"=== Starting 4h candle insertion at {datetime.now(timezone.utc)} UTC ===")
     
     success = 0
     failed = 0

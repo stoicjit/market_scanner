@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from typing import Optional, List
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta,timezone
 import os
 from dotenv import load_dotenv
 import psycopg2
@@ -77,7 +77,7 @@ async def get_status():
                     "status": "healthy",
                     "database": "connected",
                     "latest_candles": latest_candles,
-                    "timestamp": datetime.utcnow().isoformat()
+                    "timestamp": datetime.now(timezone.utc).isoformat()
                 }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"System error: {str(e)}")
@@ -241,7 +241,7 @@ async def get_fakeout_detail(fakeout_id: int, symbol: str, timeframe: str):
 async def get_fakeout_stats():
     """Get summary statistics for fakeouts"""
     try:
-        now = datetime.utcnow()
+        now = datetime.now(timezone.utc)
         today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
         week_start = now - timedelta(days=7)
         month_start = now - timedelta(days=30)

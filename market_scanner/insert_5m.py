@@ -7,7 +7,7 @@ from data_fetcher import DataFetcher
 from db_manager import DBManager
 import logging
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -36,7 +36,7 @@ def insert_5m_candles():
     fetcher = DataFetcher()
     db = DBManager()
     
-    logger.info(f"=== Starting 5m candle insertion at {datetime.utcnow()} UTC ===")
+    logger.info(f"=== Starting 5m candle insertion at {datetime.now(timezone.utc)} UTC ===")
     
     success = 0
     failed = 0

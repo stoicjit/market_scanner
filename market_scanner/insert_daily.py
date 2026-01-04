@@ -10,7 +10,7 @@ from level_filter import LevelFilter
 from fakeout_detector import FakeoutDetector
 import logging
 import os
-from datetime import datetime
+from datetime import datetime,timezone
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -40,7 +40,7 @@ def insert_daily_candles():
     db = DBManager()
     filter_obj = LevelFilter()
     
-    logger.info(f"=== Starting daily candle insertion at {datetime.utcnow()} UTC ===")
+    logger.info(f"=== Starting daily candle insertion at {datetime.now(timezone.utc)} UTC ===")
     
     success = 0
     failed = 0
