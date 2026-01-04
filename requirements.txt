@@ -4,5 +4,6 @@ pandas-ta
 psycopg2-binary
 python-telegram-bot
 python-dotenv
-python-dotenv
+fastapi 
+uvicorn
 
