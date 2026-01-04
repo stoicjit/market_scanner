@@ -3,113 +3,398 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crypto Fakeout Scanner</title>
+    <title>Crypto Scanner - Table Viewer</title>
     <style>
-        body { font-family: Arial, sans-serif; background: #111; color: #fff; padding: 20px; margin: 0; }
-        .container { max-width: 1200px; margin: 0 auto; }
-        h1 { color: #60a5fa; }
-        .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0; }
-        .stat-card { background: #1f2937; padding: 20px; border-radius: 8px; border: 1px solid #374151; }
-        .stat-value { font-size: 36px; font-weight: bold; margin: 10px 0; }
-        .fakeouts { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin: 20px 0; }
-        .fakeout { background: #1f2937; padding: 15px; border-radius: 8px; border: 1px solid #374151; cursor: pointer; }
-        .fakeout:hover { border-color: #60a5fa; }
-        .fakeout-header { display: flex; justify-content: space-between; margin-bottom: 10px; }
-        .symbol { font-size: 18px; font-weight: bold; }
-        .type { padding: 4px 8px; border-radius: 4px; font-size: 12px; }
-        .type.high { background: rgba(239,68,68,0.2); color: #ef4444; }
-        .type.low { background: rgba(16,185,129,0.2); color: #10b981; }
-        .data { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; }
-        .data div { display: flex; justify-content: space-between; }
-        .label { color: #9ca3af; }
-        button { background: #2563eb; color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; }
-        button:hover { background: #1d4ed8; }
-        .loading { text-align: center; padding: 40px; color: #9ca3af; }
-        .error { background: rgba(239,68,68,0.1); border: 1px solid #ef4444; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: #60a5fa;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+
+        .controls {
+            background: #1e293b;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        label {
+            font-size: 12px;
+            color: #94a3b8;
+            font-weight: 500;
+        }
+
+        select {
+            padding: 8px 12px;
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 6px;
+            color: #e2e8f0;
+            font-size: 14px;
+            cursor: pointer;
+            min-width: 150px;
+        }
+
+        select:hover {
+            border-color: #60a5fa;
+        }
+
+        button {
+            padding: 8px 20px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            margin-top: auto;
+        }
+
+        button:hover {
+            background: #1d4ed8;
+        }
+
+        button:disabled {
+            background: #334155;
+            cursor: not-allowed;
+        }
+
+        .info {
+            background: #1e293b;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 3px solid #60a5fa;
+        }
+
+        .info-text {
+            font-size: 14px;
+            color: #94a3b8;
+        }
+
+        .table-container {
+            background: #1e293b;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        thead {
+            background: #0f172a;
+        }
+
+        th {
+            padding: 12px;
+            text-align: left;
+            font-size: 12px;
+            font-weight: 600;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid #334155;
+        }
+
+        td {
+            padding: 12px;
+            font-size: 13px;
+            border-bottom: 1px solid #334155;
+            font-family: 'Courier New', monospace;
+        }
+
+        tbody tr:hover {
+            background: #0f172a;
+        }
+
+        tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #64748b;
+        }
+
+        .spinner {
+            border: 3px solid #334155;
+            border-top-color: #60a5fa;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid #ef4444;
+            color: #fca5a5;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        .positive {
+            color: #10b981;
+        }
+
+        .negative {
+            color: #ef4444;
+        }
+
+        .timestamp {
+            color: #94a3b8;
+            white-space: nowrap;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🚀 Crypto Fakeout Scanner</h1>
-        <div id="apiInfo" style="color: #6b7280; font-size: 12px; margin-bottom: 20px;">API: /api</div>
-        <div id="error" class="error" style="display: none;"></div>
-        
-        <button onclick="loadData()">🔄 Refresh</button>
-        
-        <div class="stats">
-            <div class="stat-card">
-                <div style="color: #9ca3af;">Today</div>
-                <div class="stat-value" id="today">0</div>
+        <h1>📊 Crypto Candles Table Viewer</h1>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="control-group">
+                <label>Symbol</label>
+                <select id="symbolSelect">
+                    <option value="">-- Select Symbol --</option>
+                    <option value="btcusdt">BTCUSDT</option>
+                    <option value="ethusdt">ETHUSDT</option>
+                    <option value="ltcusdt">LTCUSDT</option>
+                    <option value="xrpusdt">XRPUSDT</option>
+                    <option value="dogeusdt">DOGEUSDT</option>
+                    <option value="linkusdt">LINKUSDT</option>
+                    <option value="adausdt">ADAUSDT</option>
+                </select>
             </div>
-            <div class="stat-card">
-                <div style="color: #9ca3af;">This Week</div>
-                <div class="stat-value" id="week">0</div>
+
+            <div class="control-group">
+                <label>Timeframe</label>
+                <select id="timeframeSelect">
+                    <option value="">-- Select Timeframe --</option>
+                    <option value="5m">5 Minutes</option>
+                    <option value="1h">1 Hour</option>
+                    <option value="4h">4 Hours</option>
+                    <option value="1d">1 Day</option>
+                    <option value="1w">1 Week</option>
+                    <option value="1M">1 Month</option>
+                </select>
             </div>
-            <div class="stat-card">
-                <div style="color: #9ca3af;">This Month</div>
-                <div class="stat-value" id="month">0</div>
-            </div>
+
+            <button id="loadBtn" onclick="loadCandles()">Load Data</button>
         </div>
 
-        <h2>Recent Fakeouts</h2>
-        <div id="fakeouts" class="fakeouts">
-            <div class="loading">Loading...</div>
+        <!-- Info Display -->
+        <div id="info" class="info" style="display: none;">
+            <div class="info-text" id="infoText"></div>
+        </div>
+
+        <!-- Error Display -->
+        <div id="error" class="error" style="display: none;"></div>
+
+        <!-- Table -->
+        <div class="table-container">
+            <div id="tableContent">
+                <div class="empty">
+                    <p>👆 Select a symbol and timeframe to view candles</p>
+                </div>
+            </div>
         </div>
     </div>
 
     <script>
-        // ✅ Use relative path; no IP hardcoded
         const API = '/api';
-        
-        async function loadData() {
-            try {
-                document.getElementById('error').style.display = 'none';
-                
-                // Get stats
-                const statsRes = await fetch(`${API}/fakeouts/stats`);
-                const stats = await statsRes.json();
-                document.getElementById('today').textContent = stats.today || 0;
-                document.getElementById('week').textContent = stats.week || 0;
-                document.getElementById('month').textContent = stats.month || 0;
 
-                // Get fakeouts
-                const fakeoutsRes = await fetch(`${API}/fakeouts?limit=20`);
-                const data = await fakeoutsRes.json();
+        async function loadCandles() {
+            const symbol = document.getElementById('symbolSelect').value;
+            const timeframe = document.getElementById('timeframeSelect').value;
+            const loadBtn = document.getElementById('loadBtn');
+            const errorDiv = document.getElementById('error');
+            const infoDiv = document.getElementById('info');
+            const tableContent = document.getElementById('tableContent');
+
+            // Validation
+            if (!symbol || !timeframe) {
+                errorDiv.textContent = 'Please select both symbol and timeframe';
+                errorDiv.style.display = 'block';
+                return;
+            }
+
+            // Hide error, show loading
+            errorDiv.style.display = 'none';
+            infoDiv.style.display = 'none';
+            loadBtn.disabled = true;
+            loadBtn.textContent = 'Loading...';
+
+            tableContent.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading candles...</p>
+                </div>
+            `;
+
+            try {
+                const response = await fetch(`${API}/candles/${symbol}/${timeframe}?limit=50`);
                 
-                const container = document.getElementById('fakeouts');
-                if (!data.fakeouts || data.fakeouts.length === 0) {
-                    container.innerHTML = '<div class="loading">No fakeouts yet</div>';
+                if (!response.ok) {
+                    throw new Error(`Server returned ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                if (!data.candles || data.candles.length === 0) {
+                    tableContent.innerHTML = `
+                        <div class="empty">
+                            <p>No candles found for ${symbol.toUpperCase()} ${timeframe}</p>
+                        </div>
+                    `;
                     return;
                 }
-                
-                container.innerHTML = data.fakeouts.map(f => `
-                    <div class="fakeout">
-                        <div class="fakeout-header">
-                            <span class="symbol">${f.symbol.toUpperCase()} - ${f.timeframe}</span>
-                            <span class="type ${f.fakeout_type}">${f.fakeout_type === 'high' ? '🔴' : '🟢'} ${f.fakeout_type.toUpperCase()}</span>
-                        </div>
-                        <div class="data">
-                            <div><span class="label">Level:</span> $${parseFloat(f.fakeout_level).toFixed(2)}</div>
-                            <div><span class="label">Close:</span> $${parseFloat(f.close).toFixed(2)}</div>
-                            <div><span class="label">High:</span> $${parseFloat(f.high).toFixed(2)}</div>
-                            <div><span class="label">Low:</span> $${parseFloat(f.low).toFixed(2)}</div>
-                        </div>
-                        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #374151; font-size: 12px; color: #9ca3af;">
-                            ${new Date(f.timestamp).toLocaleString()}
-                        </div>
+
+                // Show info
+                infoDiv.style.display = 'block';
+                document.getElementById('infoText').textContent = 
+                    `Showing ${data.candles.length} candles for ${symbol.toUpperCase()} - ${timeframe}`;
+
+                // Render table
+                renderTable(data.candles);
+
+            } catch (error) {
+                console.error('Error:', error);
+                errorDiv.textContent = `Error loading data: ${error.message}`;
+                errorDiv.style.display = 'block';
+                tableContent.innerHTML = `
+                    <div class="empty">
+                        <p>Failed to load data</p>
                     </div>
-                `).join('');
-            } catch (err) {
-                document.getElementById('error').textContent = `Error: ${err.message}. Make sure server is running.`;
-                document.getElementById('error').style.display = 'block';
+                `;
+            } finally {
+                loadBtn.disabled = false;
+                loadBtn.textContent = 'Load Data';
             }
         }
 
-        // Auto-load on page load
-        loadData();
-        
-        // Auto-refresh every 30 seconds
-        setInterval(loadData, 30000);
+        function renderTable(candles) {
+            const tableContent = document.getElementById('tableContent');
+            
+            const html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Timestamp</th>
+                            <th>Open</th>
+                            <th>High</th>
+                            <th>Low</th>
+                            <th>Close</th>
+                            <th>Volume</th>
+                            <th>RSI (8)</th>
+                            <th>EMA 20</th>
+                            <th>EMA 50</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${candles.map(candle => {
+                            const isGreen = parseFloat(candle.close) >= parseFloat(candle.open);
+                            const closeClass = isGreen ? 'positive' : 'negative';
+                            
+                            return `
+                                <tr>
+                                    <td class="timestamp">${formatTimestamp(candle.timestamp)}</td>
+                                    <td>${formatNumber(candle.open)}</td>
+                                    <td>${formatNumber(candle.high)}</td>
+                                    <td>${formatNumber(candle.low)}</td>
+                                    <td class="${closeClass}">${formatNumber(candle.close)}</td>
+                                    <td>${formatVolume(candle.volume)}</td>
+                                    <td>${formatNumber(candle.rsi_8, 1)}</td>
+                                    <td>${formatNumber(candle.ema_20)}</td>
+                                    <td>${formatNumber(candle.ema_50)}</td>
+                                </tr>
+                            `;
+                        }).join('')}
+                    </tbody>
+                </table>
+            `;
+            
+            tableContent.innerHTML = html;
+        }
+
+        function formatTimestamp(timestamp) {
+            const date = new Date(timestamp);
+            return date.toLocaleString('en-US', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false
+            });
+        }
+
+        function formatNumber(value, decimals = 2) {
+            if (value === null || value === undefined) return 'N/A';
+            return parseFloat(value).toFixed(decimals);
+        }
+
+        function formatVolume(value) {
+            if (value === null || value === undefined) return 'N/A';
+            const num = parseFloat(value);
+            if (num >= 1000000) {
+                return (num / 1000000).toFixed(2) + 'M';
+            } else if (num >= 1000) {
+                return (num / 1000).toFixed(2) + 'K';
+            }
+            return num.toFixed(2);
+        }
+
+        // Allow Enter key to trigger load
+        document.getElementById('timeframeSelect').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') loadCandles();
+        });
     </script>
 </body>
 </html>
