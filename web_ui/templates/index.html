@@ -36,7 +36,7 @@
             margin-bottom: 20px;
             display: flex;
             gap: 15px;
-            align-items: center;
+            align-items: flex-end;
             flex-wrap: wrap;
         }
 
@@ -52,7 +52,7 @@
             font-weight: 500;
         }
 
-        select {
+        select, input[type="datetime-local"] {
             padding: 8px 12px;
             background: #0f172a;
             border: 1px solid #334155;
@@ -60,11 +60,15 @@
             color: #e2e8f0;
             font-size: 14px;
             cursor: pointer;
-            min-width: 150px;
+            min-width: 120px;
         }
 
-        select:hover {
+        select:hover, input[type="datetime-local"]:hover {
             border-color: #60a5fa;
+        }
+
+        input[type="datetime-local"] {
+            min-width: 200px;
         }
 
         button {
@@ -76,7 +80,6 @@
             font-size: 14px;
             font-weight: 500;
             cursor: pointer;
-            margin-top: auto;
         }
 
         button:hover {
@@ -88,12 +91,34 @@
             cursor: not-allowed;
         }
 
+        button.secondary {
+            background: #334155;
+        }
+
+        button.secondary:hover {
+            background: #475569;
+        }
+
+        .filters-row {
+            display: flex;
+            gap: 15px;
+            align-items: flex-end;
+            flex-wrap: wrap;
+            width: 100%;
+            padding-top: 10px;
+            border-top: 1px solid #334155;
+            margin-top: 10px;
+        }
+
         .info {
             background: #1e293b;
             padding: 15px;
             border-radius: 8px;
             margin-bottom: 20px;
             border-left: 3px solid #60a5fa;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .info-text {
@@ -101,10 +126,26 @@
             color: #94a3b8;
         }
 
+        .sort-control {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .sort-control button {
+            padding: 6px 12px;
+            font-size: 13px;
+        }
+
+        .sort-control button.active {
+            background: #2563eb;
+        }
+
         .table-container {
             background: #1e293b;
             border-radius: 8px;
             overflow: hidden;
+            margin-bottom: 20px;
         }
 
         table {
@@ -140,6 +181,27 @@
 
         tbody tr:last-child td {
             border-bottom: none;
+        }
+
+        .pagination {
+            background: #1e293b;
+            padding: 15px 20px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .pagination button {
+            padding: 6px 12px;
+            font-size: 13px;
+        }
+
+        .pagination .page-info {
+            color: #94a3b8;
+            font-size: 14px;
+            margin: 0 10px;
         }
 
         .loading {
@@ -225,12 +287,41 @@
                 </select>
             </div>
 
+            <div class="control-group">
+                <label>Rows to Show</label>
+                <select id="limitSelect">
+                    <option value="20">20</option>
+                    <option value="50" selected>50</option>
+                    <option value="100">100</option>
+                </select>
+            </div>
+
             <button id="loadBtn" onclick="loadCandles()">Load Data</button>
+
+            <!-- Date Filter Row -->
+            <div class="filters-row">
+                <div class="control-group">
+                    <label>Start Date/Time (Optional)</label>
+                    <input type="datetime-local" id="startDate">
+                </div>
+
+                <div class="control-group">
+                    <label>End Date/Time (Optional)</label>
+                    <input type="datetime-local" id="endDate">
+                </div>
+
+                <button class="secondary" onclick="clearFilters()">Clear Filters</button>
+            </div>
         </div>
 
         <!-- Info Display -->
         <div id="info" class="info" style="display: none;">
             <div class="info-text" id="infoText"></div>
+            <div class="sort-control">
+                <span style="color: #94a3b8; font-size: 13px;">Sort:</span>
+                <button id="sortNewBtn" onclick="setSortOrder('desc')" class="active">New → Old</button>
+                <button id="sortOldBtn" onclick="setSortOrder('asc')">Old → New</button>
+            </div>
         </div>
 
         <!-- Error Display -->
@@ -244,14 +335,28 @@
                 </div>
             </div>
         </div>
+
+        <!-- Pagination -->
+        <div id="pagination" class="pagination" style="display: none;">
+            <button onclick="prevPage()" id="prevBtn">← Previous</button>
+            <div class="page-info">
+                Page <span id="currentPage">1</span> of <span id="totalPages">1</span>
+            </div>
+            <button onclick="nextPage()" id="nextBtn">Next →</button>
+        </div>
     </div>
 
     <script>
         const API = '/api';
+        let allCandles = [];
+        let currentPage = 1;
+        let rowsPerPage = 50;
+        let sortOrder = 'desc'; // 'desc' = new to old, 'asc' = old to new
 
         async function loadCandles() {
             const symbol = document.getElementById('symbolSelect').value;
             const timeframe = document.getElementById('timeframeSelect').value;
+            const limit = parseInt(document.getElementById('limitSelect').value);
             const loadBtn = document.getElementById('loadBtn');
             const errorDiv = document.getElementById('error');
             const infoDiv = document.getElementById('info');
@@ -267,6 +372,7 @@
             // Hide error, show loading
             errorDiv.style.display = 'none';
             infoDiv.style.display = 'none';
+            document.getElementById('pagination').style.display = 'none';
             loadBtn.disabled = true;
             loadBtn.textContent = 'Loading...';
 
@@ -278,7 +384,7 @@
             `;
 
             try {
-                const response = await fetch(`${API}/candles/${symbol}/${timeframe}?limit=50`);
+                const response = await fetch(`${API}/candles/${symbol}/${timeframe}?limit=${limit}`);
                 
                 if (!response.ok) {
                     throw new Error(`Server returned ${response.status}`);
@@ -295,13 +401,11 @@
                     return;
                 }
 
-                // Show info
-                infoDiv.style.display = 'block';
-                document.getElementById('infoText').textContent = 
-                    `Showing ${data.candles.length} candles for ${symbol.toUpperCase()} - ${timeframe}`;
-
-                // Render table
-                renderTable(data.candles);
+                // Store all candles
+                allCandles = data.candles;
+                
+                // Apply date filters
+                filterAndDisplay();
 
             } catch (error) {
                 console.error('Error:', error);
@@ -318,6 +422,95 @@
             }
         }
 
+        function filterAndDisplay() {
+            const startDate = document.getElementById('startDate').value;
+            const endDate = document.getElementById('endDate').value;
+
+            let filtered = [...allCandles];
+
+            // Apply date filters
+            if (startDate) {
+                const startTime = new Date(startDate).getTime();
+                filtered = filtered.filter(c => new Date(c.timestamp).getTime() >= startTime);
+            }
+
+            if (endDate) {
+                const endTime = new Date(endDate).getTime();
+                filtered = filtered.filter(c => new Date(c.timestamp).getTime() <= endTime);
+            }
+
+            // Apply sort order
+            filtered.sort((a, b) => {
+                const timeA = new Date(a.timestamp).getTime();
+                const timeB = new Date(b.timestamp).getTime();
+                return sortOrder === 'desc' ? timeB - timeA : timeA - timeB;
+            });
+
+            // Update UI
+            const symbol = document.getElementById('symbolSelect').value;
+            const timeframe = document.getElementById('timeframeSelect').value;
+            const infoDiv = document.getElementById('info');
+            
+            infoDiv.style.display = 'flex';
+            document.getElementById('infoText').textContent = 
+                `Showing ${filtered.length} candles for ${symbol.toUpperCase()} - ${timeframe}`;
+
+            // Reset to page 1
+            currentPage = 1;
+            displayPage(filtered);
+        }
+
+        function displayPage(candles) {
+            const rowsPerPage = parseInt(document.getElementById('limitSelect').value);
+            const totalPages = Math.ceil(candles.length / rowsPerPage);
+            const startIdx = (currentPage - 1) * rowsPerPage;
+            const endIdx = startIdx + rowsPerPage;
+            const pageCandles = candles.slice(startIdx, endIdx);
+
+            // Update pagination
+            document.getElementById('currentPage').textContent = currentPage;
+            document.getElementById('totalPages').textContent = totalPages;
+            document.getElementById('prevBtn').disabled = currentPage === 1;
+            document.getElementById('nextBtn').disabled = currentPage === totalPages;
+
+            // Show pagination only if needed
+            if (totalPages > 1) {
+                document.getElementById('pagination').style.display = 'flex';
+            } else {
+                document.getElementById('pagination').style.display = 'none';
+            }
+
+            // Render table
+            renderTable(pageCandles);
+        }
+
+        function nextPage() {
+            currentPage++;
+            filterAndDisplay();
+        }
+
+        function prevPage() {
+            currentPage--;
+            filterAndDisplay();
+        }
+
+        function setSortOrder(order) {
+            sortOrder = order;
+            
+            // Update button states
+            document.getElementById('sortNewBtn').classList.toggle('active', order === 'desc');
+            document.getElementById('sortOldBtn').classList.toggle('active', order === 'asc');
+            
+            // Re-display with new sort
+            filterAndDisplay();
+        }
+
+        function clearFilters() {
+            document.getElementById('startDate').value = '';
+            document.getElementById('endDate').value = '';
+            filterAndDisplay();
+        }
+
         function renderTable(candles) {
             const tableContent = document.getElementById('tableContent');
             
@@ -332,8 +525,6 @@
                             <th>Close</th>
                             <th>Volume</th>
                             <th>RSI (8)</th>
-                            <th>EMA 20</th>
-                            <th>EMA 50</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -350,8 +541,6 @@
                                     <td class="${closeClass}">${formatNumber(candle.close)}</td>
                                     <td>${formatVolume(candle.volume)}</td>
                                     <td>${formatNumber(candle.rsi_8, 1)}</td>
-                                    <td>${formatNumber(candle.ema_20)}</td>
-                                    <td>${formatNumber(candle.ema_50)}</td>
                                 </tr>
                             `;
                         }).join('')}
