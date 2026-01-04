@@ -58,8 +58,8 @@ def insert_monthly_candles():
             
             # Extract levels
             timestamp = last_candle.iloc[0]['timestamp']
-            high = last_candle.iloc[0]['high']
-            low = last_candle.iloc[0]['low']
+            high = float(last_candle.iloc[0]['high'])
+            low = float(last_candle.iloc[0]['low'])
             
             # Insert high level
             db.insert_levels(db_symbol, 'monthly', [(high, timestamp)], 'high')
