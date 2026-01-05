@@ -1,5 +1,4 @@
 // Candles Page Logic
-const API = '/api';
 let allCandles = [];
 let filteredCandles = [];
 let currentPage = 1;

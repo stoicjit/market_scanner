@@ -1,5 +1,4 @@
 // Fakeouts Page Logic
-const API = '/api';
 let allFakeouts = [];
 let filteredFakeouts = [];
 let currentFakeoutPage = 1;
