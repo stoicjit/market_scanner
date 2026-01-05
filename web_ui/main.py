@@ -20,17 +20,6 @@ app = FastAPI(title="Crypto Fakeout Scanner API", version="1.0.0")
 templates = Jinja2Templates(directory="templates")
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# Serve the SPA
-@app.get("/", response_class=HTMLResponse)
-@app.get("/{full_path:path}", response_class=HTMLResponse)
-async def serve_spa(request: Request, full_path: str = ""):
-    """Serve the single-page application for all routes"""
-    # Only serve HTML for non-API routes
-    if not full_path.startswith("api/"):
-        return templates.TemplateResponse("index.html", {"request": request})
-    # If it's an API route that doesn't exist, let FastAPI handle 404
-    raise HTTPException(status_code=404, detail="Not found")
-
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
@@ -499,3 +488,11 @@ async def get_db_stats():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+# Serve the SPA (MUST BE LAST - catch-all route)
+@app.get("/", response_class=HTMLResponse)
+@app.get("/{full_path:path}", response_class=HTMLResponse)
+async def serve_spa(request: Request, full_path: str = ""):
+    """Serve the single-page application for all non-API routes"""
+    return templates.TemplateResponse("index.html", {"request": request})
