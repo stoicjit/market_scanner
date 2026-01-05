@@ -485,14 +485,14 @@ async def get_db_stats():
         raise HTTPException(status_code=500, detail=f"Error fetching DB stats: {str(e)}")
 
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
-
-
 # Serve the SPA (MUST BE LAST - catch-all route)
 @app.get("/", response_class=HTMLResponse)
 @app.get("/{full_path:path}", response_class=HTMLResponse)
 async def serve_spa(request: Request, full_path: str = ""):
     """Serve the single-page application for all non-API routes"""
     return templates.TemplateResponse("index.html", {"request": request})
+
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
