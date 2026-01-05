@@ -559,6 +559,13 @@ tbody tr:last-child td {
     border-radius: 6px;
 }
 
+.chart-canvas-container {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
 .context-table-container {
     max-height: 400px;
     overflow-y: auto;
