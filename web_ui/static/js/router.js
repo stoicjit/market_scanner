@@ -40,12 +40,11 @@ async function router() {
             break;
         
         case 'fakeouts':
-            app.innerHTML = `
-                <h1 class="page-title">Fakeouts</h1>
-                <div class="info">
-                    <div class="info-text">Fakeouts page coming soon...</div>
-                </div>
-            `;
+            if (typeof loadFakeoutsPage === 'function') {
+                loadFakeoutsPage(app);
+            } else {
+                app.innerHTML = '<div class="loading"><p>Fakeouts page loading...</p></div>';
+            }
             break;
         
         case 'charts':
