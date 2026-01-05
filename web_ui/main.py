@@ -1,29 +1,35 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, HTMLResponse
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 from typing import Optional, List
-from datetime import datetime, timedelta,timezone
+from datetime import datetime, timedelta, timezone
 import os
 from dotenv import load_dotenv
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from contextlib import contextmanager
-from fastapi.templating import Jinja2Templates
-from fastapi import Request
-from fastapi.responses import HTMLResponse
-
-templates = Jinja2Templates(directory="templates")
 
 # Load environment variables
 load_dotenv()
 
 app = FastAPI(title="Crypto Fakeout Scanner API", version="1.0.0")
 
-@app.get("/", response_class=HTMLResponse)
-async def serve_frontend(request: Request):
-    """Serve the HTML dashboard"""
-    return templates.TemplateResponse("index.html", {"request": request})
+# Templates and Static Files
+templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
+# Serve the SPA
+@app.get("/", response_class=HTMLResponse)
+@app.get("/{full_path:path}", response_class=HTMLResponse)
+async def serve_spa(request: Request, full_path: str = ""):
+    """Serve the single-page application for all routes"""
+    # Only serve HTML for non-API routes
+    if not full_path.startswith("api/"):
+        return templates.TemplateResponse("index.html", {"request": request})
+    # If it's an API route that doesn't exist, let FastAPI handle 404
+    raise HTTPException(status_code=404, detail="Not found")
 
 # CORS middleware
 app.add_middleware(
@@ -59,12 +65,6 @@ def execute_query(query: str, params: tuple = None, fetchone: bool = False):
             if fetchone:
                 return dict(cur.fetchone()) if cur.rowcount > 0 else None
             return [dict(row) for row in cur.fetchall()]
-
-
-@app.get("/")
-async def root():
-    """Health check endpoint"""
-    return {"status": "online", "message": "Crypto Fakeout Scanner API"}
 
 
 @app.get("/api/status")
